@@ -1,0 +1,56 @@
+:root{--bg:#f4f6fa;--card:#fff;--ink:#1d2433;--muted:#5b6475;--line:#dde3ec;--brand:#1f4e9a;--brand-dark:#163a73;--ok:#1b7f45;--ok-bg:#e6f6ec;--warn:#9a5b00;--warn-bg:#fff4e0;--err:#b3261e;--err-bg:#fdecea}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.45}
+header.top{background:var(--brand);color:#fff;display:flex;align-items:center;justify-content:space-between;gap:16px;padding:12px 24px;flex-wrap:wrap}
+header .brand{display:flex;flex-direction:column}
+header .brand strong{font-size:1.1rem}
+header .brand span{font-size:.85rem;opacity:.85}
+header nav{display:flex;gap:14px;align-items:center;flex-wrap:wrap}
+header nav a{color:#fff;text-decoration:none;font-weight:500}
+header nav a:hover{text-decoration:underline}
+header .who{opacity:.85;font-size:.9rem}
+main{max-width:1200px;margin:0 auto;padding:24px 16px 48px}
+h1{font-size:1.5rem;margin:0 0 16px}
+h2{font-size:1.15rem;margin:24px 0 8px}
+footer{text-align:center;color:var(--muted);font-size:.8rem;padding:16px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:20px;margin-bottom:20px}
+.login{max-width:420px;margin:40px auto}
+label{display:block;font-weight:600;margin:12px 0 4px;font-size:.92rem}
+input[type=text],input[type=password],input[type=file],select{width:100%;padding:9px 10px;border:1px solid var(--line);border-radius:6px;font-size:1rem;background:#fff}
+.btn{display:inline-block;background:var(--brand);color:#fff;border:0;border-radius:6px;padding:9px 16px;font-size:.95rem;font-weight:600;cursor:pointer;text-decoration:none}
+.btn:hover{background:var(--brand-dark)}
+.btn.small{padding:5px 10px;font-size:.85rem}
+.btn.secondary{background:#fff;color:var(--brand);border:1px solid var(--brand)}
+.btn.secondary:hover{background:#eef3fb}
+.btn.danger{background:var(--err)}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin:12px 0 20px}
+.flash{padding:10px 14px;border-radius:6px;margin-bottom:12px;border:1px solid}
+.flash.success{background:var(--ok-bg);color:var(--ok);border-color:#b9e2c7}
+.flash.error{background:var(--err-bg);color:var(--err);border-color:#f3b8b3}
+.flash.info{background:#e8f0fb;color:var(--brand);border-color:#c5d6f0}
+table{width:100%;border-collapse:collapse;background:var(--card);border:1px solid var(--line);border-radius:10px;overflow:hidden;font-size:.92rem}
+th,td{padding:8px 10px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}
+th{background:#eef2f8;font-weight:600;white-space:nowrap}
+tr:last-child td{border-bottom:0}
+.table-wrap{overflow-x:auto}
+.badge{display:inline-block;padding:2px 8px;border-radius:999px;font-size:.78rem;font-weight:600;white-space:nowrap}
+.badge.ok{background:var(--ok-bg);color:var(--ok)}
+.badge.missing{background:var(--err-bg);color:var(--err)}
+.badge.partial{background:var(--warn-bg);color:var(--warn)}
+.details{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:8px 24px}
+.details div{padding:6px 0;border-bottom:1px dashed var(--line)}
+.details dt{font-size:.78rem;color:var(--muted);text-transform:uppercase;letter-spacing:.03em}
+.details dd{margin:0;font-weight:500;word-break:break-word}
+.doc-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:16px}
+.doc{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px}
+.doc h3{margin:0 0 8px;font-size:1rem}
+.doc .meta{color:var(--muted);font-size:.85rem;margin-bottom:8px}
+.doc .row{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-top:8px}
+.muted{color:var(--muted)}
+.summary{display:flex;gap:16px;flex-wrap:wrap;margin-bottom:16px}
+.summary .stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:12px 18px;min-width:140px}
+.summary .stat b{display:block;font-size:1.4rem}
+.summary .stat span{color:var(--muted);font-size:.85rem}
+.search{margin:0 0 12px}
+.search input{max-width:360px}
+@media (max-width:640px){main{padding:16px 12px}header.top{padding:10px 14px}}
