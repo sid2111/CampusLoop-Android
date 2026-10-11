@@ -15,8 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } elseif ($new !== $confirm) {
         flash('error', 'New password and confirmation do not match.');
     } else {
-        $st = db()->prepare("UPDATE students SET password_hash = ?, updated_at = datetime('now') WHERE id = ?");
-        $st->execute([password_hash($new, PASSWORD_DEFAULT), $u['id']]);
+        set_student_password((int) $u['id'], $new);
         flash('success', 'Password changed.');
         redirect(base_url() . '/student.php');
     }

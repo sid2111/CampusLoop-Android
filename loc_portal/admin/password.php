@@ -4,9 +4,7 @@ require __DIR__ . '/../lib/app.php';
 $u = require_role('admin');
 require_csrf();
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $st = db()->prepare('SELECT * FROM admins WHERE id = ?');
-    $st->execute([$u['id']]);
-    $admin = $st->fetch();
+    $admin = admin_find((int) $u['id']);
     $new = (string) ($_POST['new'] ?? '');
     if (!$admin || !password_verify((string) ($_POST['current'] ?? ''), $admin['password_hash'])) {
         flash('error', 'Current password is incorrect.');
@@ -15,8 +13,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     } elseif ($new !== (string) ($_POST['confirm'] ?? '')) {
         flash('error', 'New password and confirmation do not match.');
     } else {
-        db()->prepare('UPDATE admins SET password_hash = ? WHERE id = ?')
-            ->execute([password_hash($new, PASSWORD_DEFAULT), $u['id']]);
+        admin_set_password((int) $u['id'], $new);
         flash('success', 'Admin password changed.');
         redirect(base_url() . '/admin/index.php');
     }

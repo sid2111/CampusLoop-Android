@@ -46,7 +46,9 @@ render_header('Import Students from Excel');
     <input type="text" name="section" value="A" placeholder="e.g. A">
     <div class="actions">
       <button class="btn" type="submit" name="source" value="upload">Import uploaded file</button>
-      <button class="btn secondary" type="submit" name="source" value="bundled">Import bundled Class IX A sheet</button>
+      <?php if (is_file(config('seed_excel'))): ?>
+      <button class="btn secondary" type="submit" name="source" value="bundled">Import data/<?= h(basename(config('seed_excel'))) ?> from server</button>
+      <?php endif; ?>
     </div>
   </form>
 </div>

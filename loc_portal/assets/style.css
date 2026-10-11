@@ -54,3 +54,5 @@ tr:last-child td{border-bottom:0}
 .search{margin:0 0 12px}
 .search input{max-width:360px}
 @media (max-width:640px){main{padding:16px 12px}header.top{padding:10px 14px}}
+.form-grid div{border-bottom:0}
+.form-grid label{margin-top:4px}

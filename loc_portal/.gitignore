@@ -1,8 +1,8 @@
 # runtime data – never commit student documents or the live database
 uploads/*
 !uploads/.htaccess
-db/*
-!db/.htaccess
+storage/*
+!storage/.htaccess
 
 # student info sheets contain personal data (Aadhaar, phone, address) – keep them out of git
 data/*.xlsx

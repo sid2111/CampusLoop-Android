@@ -31,4 +31,4 @@ if ($result['skipped']) {
     echo "Skipped:\n  " . implode("\n  ", $result['skipped']) . "\n";
 }
 echo "Total students in database: " . count(all_students()) . "\n";
-echo "Admin login: " . config('admin_username') . " / " . config('admin_password') . " (change it after first login)\n";
+echo "Admin login: " . config('admin_username') . " (change the password after first login)\n";

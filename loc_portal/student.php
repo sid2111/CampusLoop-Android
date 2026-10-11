@@ -52,8 +52,8 @@ render_header('My LOC Documents');
 </div>
 
 <h2>Upload Documents</h2>
-<p class="muted">Accepted formats: PDF, JPG, PNG (max <?= round(config('max_upload_bytes') / 1048576) ?> MB each).
-   Uploading again replaces the earlier file.</p>
+<p class="muted">Certificates: PDF, JPG or PNG. Photograph, Signature and Thumb Impression: JPG or PNG image.
+   Max <?= round(config('max_upload_bytes') / 1048576) ?> MB each. Uploading again replaces the earlier file.</p>
 <form method="post" enctype="multipart/form-data">
   <?= csrf_field() ?>
   <div class="doc-grid">
@@ -66,7 +66,8 @@ render_header('My LOC Documents');
           <div class="meta"><?= h($d['original_name']) ?> · <?= format_bytes((int) $d['size']) ?> · <?= h($d['uploaded_at']) ?></div>
           <a class="btn small secondary" href="<?= h($b) ?>/download.php?student=<?= (int) $student['id'] ?>&amp;doc=<?= h($key) ?>">View / Download</a>
         <?php endif; ?>
-        <div class="row"><input type="file" name="<?= h($key) ?>" accept=".pdf,.jpg,.jpeg,.png,application/pdf,image/jpeg,image/png"></div>
+        <div class="row"><input type="file" name="<?= h($key) ?>" accept="<?= in_array($key, config('image_only_documents') ?? [], true) ? '.jpg,.jpeg,.png' : '.pdf,.jpg,.jpeg,.png' ?>"></div>
+        <?php if (in_array($key, config('image_only_documents') ?? [], true)): ?><div class="meta">JPG or PNG image only</div><?php endif; ?>
       </div>
     <?php endforeach; ?>
   </div>

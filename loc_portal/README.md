@@ -5,9 +5,10 @@ Candidates)** documents from students, with an admin panel to review every
 student's data and download everything as Excel or as a ZIP of per-student
 folders.
 
-No frameworks or Composer packages are needed: plain PHP 8.1+ with the
-`pdo_sqlite`, `zip`, `fileinfo` and `simplexml` extensions (all standard on
-shared hosting).
+**No database and no setup.** Data is kept in plain JSON files inside
+`storage/` and documents in `uploads/`, so the folder only has to be uploaded
+to the server. Plain PHP 8.1+ with the standard `zip`, `fileinfo` and
+`simplexml` extensions; no frameworks, Composer packages or database server.
 
 ## Features
 
@@ -19,51 +20,50 @@ shared hosting).
   Admission class, mother_aadhar, father_aadhar, UDISE.
 * **Student login** – username *and* password are the admission number
   (Registration NO, e.g. `16-8152`). Students can change their password.
-* **Student dashboard** – view own details and upload / replace five documents:
+* **Student dashboard** – view own details and upload / replace eight files:
   `Aadhar Card`, `Birth Certificate`, `Father Aadhar Card`, `Marksheet`,
-  `Mother Aadhar Card` (PDF, JPG or PNG, 5 MB each).
+  `Mother Aadhar Card` (PDF, JPG or PNG) and `Photograph`, `Signature`,
+  `Thumb Impression` (JPG or PNG image), 5 MB each.
 * **Admin panel** – list of all students with per-document status, search,
-  view each student's full data and documents, upload/delete documents on a
-  student's behalf, reset a student's password to their admission number.
+  view each student's full data and documents, **edit every field** of a
+  student, add a student manually, delete a student, upload/delete documents
+  on a student's behalf, set or reset a student's password.
 * **Download Excel** – all student details (same columns as the sheet) plus
   username and the upload status/time of each document.
 * **Download ZIP** – one folder per student, named with the student's name,
-  containing the documents named exactly `Aadhar Card.pdf`,
-  `Birth Certificate.jpg`, … (extension matches the uploaded file), plus
+  containing the files named exactly `Aadhar Card.pdf`, `Birth Certificate.jpg`,
+  `Photograph.jpg`, `Signature.png`, … (extension matches the uploaded file), plus
   `Student_Details.xlsx` and a `MISSING_DOCUMENTS.txt` report at the root.
 * **Import** – admin can upload a new Excel with the same headings at any time
   to add more students (existing students are updated and keep their
   password and documents).
 
-## Installation
+## Installation (upload and go)
 
-1. Copy the `loc_portal` folder to your web server (e.g. `public_html/loc_portal`).
-2. Make `db/` and `uploads/` writable by the web server:
-   ```bash
-   chmod 775 db uploads
-   ```
-3. Edit `config.php` if needed (school name, admin username/password, upload
-   limits).
-4. Copy the student information sheet to `data/Student_Info_Sheet.xlsx`
+1. Copy the student information sheet to `loc_portal/data/Student_Info_Sheet.xlsx`
    (it is deliberately not committed to git because it contains Aadhaar
-   numbers, phone numbers and addresses), then create the Class IX A
-   students from it:
-   ```bash
-   php seed.php
-   ```
-   (or log in as admin → **Import** and upload the sheet there).
-5. Open `https://your-site/loc_portal/` in a browser.
+   numbers, phone numbers and addresses).
+2. Upload the whole `loc_portal` folder to your web server by FTP or the
+   hosting file manager (e.g. into `public_html/loc_portal`).
+3. If your host does not already allow PHP to write there, make `storage/` and
+   `uploads/` writable (permission 755 or 775 is usually enough on cPanel).
+4. Open `https://your-site/loc_portal/` in a browser. On the first visit the
+   Class IX A students are created automatically from the sheet.
+
+There is nothing else to configure. Optional: edit `config.php` to change the
+school name, admin username/password or upload limits. Students can also be
+added later from **Admin → Import** (upload a sheet) or **Admin → Add student**.
 
 Default admin login: `admin` / `Admin@123` – change it immediately via
 **Password** in the admin menu.
 
 ### Apache / Nginx
 
-`uploads/`, `db/`, `data/` and `lib/` ship with `.htaccess` files that deny
+`uploads/`, `storage/`, `data/` and `lib/` ship with `.htaccess` files that deny
 direct access (Apache). On Nginx add equivalent `location` blocks, e.g.
 
 ```nginx
-location ~ ^/loc_portal/(uploads|db|data|lib)/ { deny all; }
+location ~ ^/loc_portal/(uploads|storage|data|lib)/ { deny all; }
 ```
 
 Documents are only ever served through `download.php` after login.
@@ -78,22 +78,24 @@ loc_portal/
 ├── password.php          student change-password
 ├── download.php          authenticated file download / preview
 ├── logout.php
-├── seed.php              CLI: create students from the Excel sheet
+├── seed.php              optional CLI: create students from the Excel sheet
 ├── admin/
 │   ├── index.php         student list with document status + export buttons
 │   ├── student.php       full details & documents of one student
+│   ├── edit.php          add a student / edit every field
 │   ├── export_excel.php  Excel download
 │   ├── export_zip.php    ZIP of student folders
 │   ├── import.php        import students from an uploaded Excel
 │   └── password.php      admin change-password
 ├── lib/
-│   ├── app.php           bootstrap, DB schema, auth, layout helpers
-│   ├── students.php      import, document storage, folder naming
+│   ├── app.php           bootstrap, auth, layout helpers
+│   ├── store.php         JSON file storage (no database)
+│   ├── students.php      records, import, document storage, folder naming
 │   ├── xlsx_reader.php   dependency-free .xlsx reader
 │   └── xlsx_writer.php   dependency-free .xlsx writer
 ├── assets/style.css
 ├── data/Student_Info_Sheet.xlsx   source sheet (place it here; git-ignored)
-├── db/                   SQLite database (created automatically)
+├── storage/              students.json / documents.json / admins.json (auto-created)
 └── uploads/<student id>/<doc_type>.<ext>
 ```
 
@@ -101,7 +103,6 @@ loc_portal/
 
 ```bash
 cd loc_portal
-php seed.php
 php -S localhost:8080
-# open http://localhost:8080/
+# open http://localhost:8080/  (students are imported on first visit)
 ```

@@ -32,9 +32,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             flash('success', $docTypes[$key] . ' deleted.');
         }
     } elseif ($action === 'reset_password') {
-        $st = db()->prepare("UPDATE students SET password_hash = ?, updated_at = datetime('now') WHERE id = ?");
-        $st->execute([password_hash($student['admission_no'], PASSWORD_DEFAULT), $id]);
+        set_student_password($id, $student['admission_no']);
         flash('success', 'Password reset to the admission number (' . $student['admission_no'] . ').');
+    } elseif ($action === 'delete_student') {
+        delete_student($id);
+        flash('success', 'Student ' . $student['name'] . ' (' . $student['admission_no'] . ') and all their documents were deleted.');
+        redirect(base_url() . '/admin/index.php');
     }
     redirect(base_url() . '/admin/student.php?id=' . $id);
 }
@@ -44,6 +47,7 @@ render_header($student['name'] . ' (' . $student['admission_no'] . ')');
 ?>
 <div class="actions">
   <a class="btn secondary" href="<?= h($b) ?>/admin/index.php">&larr; Back to list</a>
+  <a class="btn" href="<?= h($b) ?>/admin/edit.php?id=<?= $id ?>">Edit details</a>
   <form method="post" style="display:inline" onsubmit="return confirm('Reset this student\'s password to their admission number?')">
     <?= csrf_field() ?><input type="hidden" name="action" value="reset_password">
     <button class="btn secondary" type="submit">Reset password to admission no.</button>
@@ -76,7 +80,7 @@ render_header($student['name'] . ' (' . $student['admission_no'] . ')');
             <a class="btn small secondary" href="<?= h($b) ?>/download.php?student=<?= $id ?>&amp;doc=<?= h($key) ?>">Download</a>
           </div>
         <?php endif; ?>
-        <div class="row"><input type="file" name="<?= h($key) ?>" accept=".pdf,.jpg,.jpeg,.png"></div>
+        <div class="row"><input type="file" name="<?= h($key) ?>" accept="<?= in_array($key, config('image_only_documents') ?? [], true) ? '.jpg,.jpeg,.png' : '.pdf,.jpg,.jpeg,.png' ?>"></div>
       </div>
     <?php endforeach; ?>
   </div>
@@ -94,4 +98,10 @@ render_header($student['name'] . ' (' . $student['admission_no'] . ')');
 <?php endforeach; ?>
 </div>
 <?php endif; ?>
+
+<h2>Danger zone</h2>
+<form method="post" onsubmit="return confirm('Delete this student and ALL their uploaded documents? This cannot be undone.')">
+  <?= csrf_field() ?><input type="hidden" name="action" value="delete_student">
+  <button class="btn danger" type="submit">Delete student</button>
+</form>
 <?php render_footer();

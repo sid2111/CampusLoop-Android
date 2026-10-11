@@ -10,6 +10,16 @@ if ($u) {
     redirect(base_url() . ($u['role'] === 'admin' ? '/admin/index.php' : '/student.php'));
 }
 
+// First run: create the students from the bundled Excel sheet, if present.
+try {
+    $seeded = auto_seed_if_empty();
+    if ($seeded && $seeded['created'] > 0) {
+        flash('info', $seeded['created'] . ' students were created from the student information sheet.');
+    }
+} catch (Throwable $e) {
+    flash('error', 'Automatic import of the student sheet failed: ' . $e->getMessage());
+}
+
 require_csrf();
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $username = trim((string) ($_POST['username'] ?? ''));

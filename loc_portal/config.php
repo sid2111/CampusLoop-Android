@@ -12,14 +12,16 @@ return [
     'portal_name'   => 'LOC Document Portal',
     'class_label'   => 'Class IX A',
 
-    // SQLite database file (created automatically on first run).
-    'db_path'       => __DIR__ . '/db/loc_portal.sqlite',
+    // Folder for the JSON data files (created automatically on first run).
+    // No database server is needed – just make this folder writable.
+    'storage_dir'   => __DIR__ . '/storage',
 
     // Where uploaded documents are stored. Must be writable by PHP and
     // should NOT be web-accessible (an .htaccess is shipped for Apache).
     'upload_dir'    => __DIR__ . '/uploads',
 
-    // Excel sheet used by seed.php / admin import to create students.
+    // Excel sheet used to create students. If the portal has no students yet
+    // and this file exists, it is imported automatically on first visit.
     'seed_excel'    => __DIR__ . '/data/Student_Info_Sheet.xlsx',
 
     // Default admin login created on first run (change after first login!).
@@ -34,7 +36,13 @@ return [
         'father_aadhar_card' => 'Father Aadhar Card',
         'marksheet'          => 'Marksheet',
         'mother_aadhar_card' => 'Mother Aadhar Card',
+        'photograph'         => 'Photograph',
+        'signature'          => 'Signature',
+        'thumb_impression'   => 'Thumb Impression',
     ],
+
+    // These document types must be images (JPG/PNG), not PDF.
+    'image_only_documents' => ['photograph', 'signature', 'thumb_impression'],
 
     // Upload restrictions.
     'max_upload_bytes' => 5 * 1024 * 1024, // 5 MB per file

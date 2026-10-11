@@ -9,6 +9,7 @@ define('APP_ROOT', dirname(__DIR__));
 
 $CONFIG = require APP_ROOT . '/config.php';
 
+require_once __DIR__ . '/store.php';
 require_once __DIR__ . '/xlsx_reader.php';
 require_once __DIR__ . '/xlsx_writer.php';
 require_once __DIR__ . '/students.php';
@@ -26,77 +27,48 @@ if (PHP_SAPI !== 'cli' && session_status() === PHP_SESSION_NONE) {
 }
 
 // ---------------------------------------------------------------------
-// Database
+// Storage (JSON files – see lib/store.php) and default admin account
 // ---------------------------------------------------------------------
-function db(): PDO
+function admins_all(): array
 {
-    static $pdo = null;
-    global $CONFIG;
-    if ($pdo instanceof PDO) {
-        return $pdo;
+    $admins = store_read('admins', []);
+    if (!$admins) {
+        global $CONFIG;
+        $admins = store_update('admins', function ($cur) use ($CONFIG) {
+            if ($cur) {
+                return $cur;
+            }
+            return [[
+                'id'            => 1,
+                'username'      => $CONFIG['admin_username'],
+                'password_hash' => password_hash($CONFIG['admin_password'], PASSWORD_DEFAULT),
+                'created_at'    => gmdate('Y-m-d H:i:s'),
+            ]];
+        }, []);
     }
-    $dir = dirname($CONFIG['db_path']);
-    if (!is_dir($dir)) {
-        mkdir($dir, 0775, true);
-    }
-    $pdo = new PDO('sqlite:' . $CONFIG['db_path']);
-    $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-    $pdo->setAttribute(PDO::ATTR_DEFAULT_FETCH_MODE, PDO::FETCH_ASSOC);
-    $pdo->exec('PRAGMA foreign_keys = ON');
-    db_migrate($pdo, $CONFIG);
-    return $pdo;
+    return $admins;
 }
 
-function db_migrate(PDO $pdo, array $config): void
+function admin_find(int $id): ?array
 {
-    $cols = [];
-    foreach (array_keys($config['student_fields']) as $col) {
-        $cols[] = "$col TEXT NOT NULL DEFAULT ''";
+    foreach (admins_all() as $a) {
+        if ((int) $a['id'] === $id) {
+            return $a;
+        }
     }
-    $cols = implode(",\n            ", $cols);
+    return null;
+}
 
-    $pdo->exec("
-        CREATE TABLE IF NOT EXISTS students (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            $cols,
-            password_hash TEXT NOT NULL,
-            created_at TEXT NOT NULL DEFAULT (datetime('now')),
-            updated_at TEXT NOT NULL DEFAULT (datetime('now'))
-        )");
-    $pdo->exec("CREATE UNIQUE INDEX IF NOT EXISTS students_admission_no
-                ON students (admission_no COLLATE NOCASE)");
-
-    $pdo->exec("
-        CREATE TABLE IF NOT EXISTS documents (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            student_id INTEGER NOT NULL REFERENCES students(id) ON DELETE CASCADE,
-            doc_type TEXT NOT NULL,
-            original_name TEXT NOT NULL,
-            stored_name TEXT NOT NULL,
-            mime TEXT NOT NULL,
-            size INTEGER NOT NULL,
-            uploaded_by TEXT NOT NULL,
-            uploaded_at TEXT NOT NULL DEFAULT (datetime('now')),
-            UNIQUE (student_id, doc_type)
-        )");
-
-    $pdo->exec("
-        CREATE TABLE IF NOT EXISTS admins (
-            id INTEGER PRIMARY KEY AUTOINCREMENT,
-            username TEXT NOT NULL UNIQUE COLLATE NOCASE,
-            password_hash TEXT NOT NULL,
-            created_at TEXT NOT NULL DEFAULT (datetime('now'))
-        )");
-
-    // Default admin account.
-    $n = (int) $pdo->query('SELECT COUNT(*) FROM admins')->fetchColumn();
-    if ($n === 0) {
-        $st = $pdo->prepare('INSERT INTO admins (username, password_hash) VALUES (?, ?)');
-        $st->execute([
-            $config['admin_username'],
-            password_hash($config['admin_password'], PASSWORD_DEFAULT),
-        ]);
-    }
+function admin_set_password(int $id, string $password): void
+{
+    store_update('admins', function ($admins) use ($id, $password) {
+        foreach ($admins as &$a) {
+            if ((int) $a['id'] === $id) {
+                $a['password_hash'] = password_hash($password, PASSWORD_DEFAULT);
+            }
+        }
+        return $admins;
+    }, []);
 }
 
 // ---------------------------------------------------------------------
@@ -164,9 +136,7 @@ function current_user(): ?array
 
 function login_student(string $username, string $password): bool
 {
-    $st = db()->prepare('SELECT * FROM students WHERE admission_no = ? COLLATE NOCASE');
-    $st->execute([trim($username)]);
-    $row = $st->fetch();
+    $row = find_student_by_admission_no($username);
     if ($row && password_verify($password, $row['password_hash'])) {
         session_regenerate_id(true);
         $_SESSION['user'] = ['role' => 'student', 'id' => (int) $row['id'], 'name' => $row['name']];
@@ -177,9 +147,12 @@ function login_student(string $username, string $password): bool
 
 function login_admin(string $username, string $password): bool
 {
-    $st = db()->prepare('SELECT * FROM admins WHERE username = ? COLLATE NOCASE');
-    $st->execute([trim($username)]);
-    $row = $st->fetch();
+    $row = null;
+    foreach (admins_all() as $a) {
+        if (strcasecmp($a['username'], trim($username)) === 0) {
+            $row = $a;
+        }
+    }
     if ($row && password_verify($password, $row['password_hash'])) {
         session_regenerate_id(true);
         $_SESSION['user'] = ['role' => 'admin', 'id' => (int) $row['id'], 'name' => $row['username']];
@@ -242,6 +215,7 @@ function render_header(string $title): void
     if ($u) {
         if ($u['role'] === 'admin') {
             echo '<a href="' . h($b) . '/admin/index.php">Students</a>';
+            echo '<a href="' . h($b) . '/admin/edit.php">Add student</a>';
             echo '<a href="' . h($b) . '/admin/import.php">Import</a>';
             echo '<a href="' . h($b) . '/admin/password.php">Password</a>';
         } else {

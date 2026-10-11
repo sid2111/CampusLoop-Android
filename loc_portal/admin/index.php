@@ -39,6 +39,7 @@ render_header('Students – ' . config('class_label'));
   <a class="btn" href="<?= h($b) ?>/admin/export_excel.php">Download Excel (all details)</a>
   <a class="btn" href="<?= h($b) ?>/admin/export_zip.php">Download ZIP (student folders)</a>
   <a class="btn secondary" href="<?= h($b) ?>/admin/import.php">Import students from Excel</a>
+  <a class="btn secondary" href="<?= h($b) ?>/admin/edit.php">Add student</a>
 </div>
 
 <form class="search" method="get">
@@ -71,10 +72,11 @@ render_header('Students – ' . config('class_label'));
         <?php else: ?><span class="badge missing">No</span><?php endif; ?></td>
       <?php endforeach; ?>
       <td><span class="badge <?= $n === $nDocs ? 'ok' : ($n ? 'partial' : 'missing') ?>"><?= $n ?>/<?= $nDocs ?></span></td>
-      <td><a class="btn small secondary" href="<?= h($b) ?>/admin/student.php?id=<?= (int) $s['id'] ?>">View</a></td>
+      <td style="white-space:nowrap"><a class="btn small secondary" href="<?= h($b) ?>/admin/student.php?id=<?= (int) $s['id'] ?>">View</a>
+          <a class="btn small secondary" href="<?= h($b) ?>/admin/edit.php?id=<?= (int) $s['id'] ?>">Edit</a></td>
     </tr>
   <?php endforeach; ?>
-  <?php if (!$students): ?><tr><td colspan="<?= 8 + $nDocs ?>" class="muted">No students found. Use "Import students from Excel" or run <code>php seed.php</code>.</td></tr><?php endif; ?>
+  <?php if (!$students): ?><tr><td colspan="<?= 8 + $nDocs ?>" class="muted">No students found. Use "Import students from Excel", "Add student", or place the sheet at data/Student_Info_Sheet.xlsx.</td></tr><?php endif; ?>
   </tbody>
 </table>
 </div>
