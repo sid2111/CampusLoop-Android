@@ -1,0 +1,112 @@
+{
+ "grade": 7, "chapter": 6, "n": 6, "title": "Number Play", "book": "Ganita Prakash (Grade 7) Part I",
+ "quiz": [
+  {"q":"Children stand in a line and each calls out the number of taller children in front. What does the first child always call?","o":["0","1","The number of children","It depends on height"],"a":0,"why":"Nobody stands in front of the first child, so the count is 0."},
+  {"q":"What is the parity of the sum of 5 odd numbers?","o":["Even","Odd","Sometimes even","Zero"],"a":1,"why":"5 leftovers: two pairs form and one stays alone, so the sum is odd."},
+  {"q":"Two consecutive numbers are added. The sum is always:","o":["even","a multiple of 4","odd","greater than 100"],"a":2,"why":"One is even and one is odd; even + odd = odd."},
+  {"q":"A grid has 135 × 654 small squares. Its parity is:","o":["odd","cannot be told","depends on the rows","even"],"a":3,"why":"654 is even, so the product is even."},
+  {"q":"Which expression gives the nth odd number?","o":["2n","2n − 1","n + 1","2n + 2"],"a":1,"why":"The nth odd number is one less than the nth even number 2n."},
+  {"q":"The magic sum of a 3 × 3 magic square made with 1–9 is:","o":["15","45","9","18"],"a":0,"why":"The three equal rows share the total 45, so each is 15."},
+  {"q":"Which number must be at the centre of a magic square of 1–9?","o":["1","9","5","8"],"a":2,"why":"Any other centre forces a line to need a number below 1 or above 9."},
+  {"q":"A magic square of consecutive numbers has centre m = 20. Its magic sum is:","o":["23","40","60","80"],"a":2,"why":"Every line adds to 3m = 60."},
+  {"q":"How many rhythms of short (1 beat) and long (2 beats) syllables have 6 beats?","o":["8","12","21","13"],"a":3,"why":"Rhythms of 5 beats + rhythms of 4 beats = 8 + 5 = 13."},
+  {"q":"In the cryptarithm T + T + T = UT, the digit T is:","o":["3","5","1","0"],"a":1,"why":"5 + 5 + 5 = 15 ends in 5."}
+ ],
+ "papers": [
+  {"title":"Sample Paper 1","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"The parity of even + odd is:","o":["even","odd","zero","cannot say"],"a":1,"ans":"An odd number leaves one leftover that stays alone, so the sum is odd."},
+    {"q":"In a group of 8 people standing in a line, the largest number anyone can call (taller people in front) is:","o":["8","6","7","0"],"a":2,"ans":"The last person has 7 people in front; if all are taller, they call 7."},
+    {"q":"The sum of 8 odd numbers is:","o":["even","odd","always 8","a multiple of 8"],"a":0,"ans":"8 leftovers make 4 pairs, so the sum is even."},
+    {"q":"Which expression is always even?","o":["3n + 4","n + 1","100p","2p + 1"],"a":2,"ans":"100p = 2 × 50p has a factor 2."},
+    {"q":"The next term after 34, 55 in the Virahāṅka sequence is:","o":["79","89","99","110"],"a":1,"ans":"34 + 55 = 89."},
+    {"q":"The first recorded 4 × 4 magic square, the Chautīsā Yantra, is found at:","o":["Palani","Khajuraho","Hampi","Konark"],"a":1,"ans":"It is in a 10th century inscription at the Pārśhvanath Jain temple, Khajuraho."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Kishor has cards 13, 9, 1, 7, 11, 5, 3. Can 5 of them add to 30? Give a reason.","ans":"All cards are odd (1 mark). The sum of 5 odd numbers is odd, but 30 is even, so it is impossible (1 mark)."},
+    {"q":"Find the 100th odd number.","ans":"100th even number = 2 × 100 = 200 (1 mark). 100th odd = 200 − 1 = 199 (1 mark)."},
+    {"q":"Find the parity of the number of small squares in a 27 × 13 grid and a 42 × 78 grid.","ans":"27 × 13: both odd, so odd (1 mark). 42 × 78: even sides, so even (1 mark)."},
+    {"q":"Solve: K2 + K2 = HMM.","ans":"Units 2 + 2 = 4, so M = 4 (1 mark). Tens 2K = 14 gives K = 7, H = 1: 72 + 72 = 144 (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Lakpa has an odd number of ₹1 coins, an odd number of ₹5 coins and an even number of ₹10 coins. He says the total is ₹205. Is he right? Explain.","ans":"Odd number of ₹1 coins gives an odd amount; odd number of ₹5 coins gives odd × odd = odd (1 mark). ₹10 coins always give an even amount (1 mark). odd + odd + even = even, but 205 is odd, so he made a mistake (1 mark)."},
+    {"q":"Show why the centre of a 3 × 3 magic square using 1–9 cannot be 9 or 1.","ans":"Magic sum is 15 (1 mark). If 9 is the centre, 8 lies on a line with it: 8 + 9 = 17 > 15, impossible (1 mark). If 1 is the centre, 2 lies on a line with it: 2 + 1 + ? = 15 needs 12, impossible (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"Build the magic square with numbers 1–9 step by step: find the magic sum, the centre, the positions of 1 and 9, and complete the square.","ans":"Total 1 + … + 9 = 45, three equal rows → magic sum 15 (1 mark). Centre must be 5 (1 mark). 1 and 9 cannot be in corners (a corner needs three pairs adding to 14 or 6), so they go in middle positions in line with 5 (1 mark). Top row: 8, 1, 6; middle: 3, 5, 7; bottom: 4, 9, 2 (1 mark). Check all rows, columns and diagonals give 15 (1 mark)."},
+    {"q":"Case: In poetry a short syllable takes 1 beat and a long syllable 2 beats. (a) List all 4-beat rhythms. (b) Explain Virahāṅka’s rule. (c) How many 8-beat rhythms are there?","ans":"(a) 1+1+1+1, 1+1+2, 1+2+1, 2+1+1, 2+2: 5 rhythms (2 marks). (b) Every rhythm starts with 1+ (rest has n − 1 beats) or 2+ (rest has n − 2 beats), so count(n) = count(n − 1) + count(n − 2) (2 marks). (c) 1, 2, 3, 5, 8, 13, 21, 34: 34 rhythms (1 mark)."}]}]},
+  {"title":"Sample Paper 2","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"odd − odd is:","o":["odd","even","negative","zero always"],"a":1,"ans":"For example 9 − 5 = 4; the leftovers cancel, so the result is even."},
+    {"q":"If a person is the tallest in the line, their number is:","o":["0 only sometimes","always 0","always 1","the largest"],"a":1,"ans":"Nobody in front can be taller than the tallest, so they always say 0."},
+    {"q":"Which is the generalised magic sum for centre m?","o":["m","2m","3m","9m"],"a":2,"ans":"(m+3) + (m−4) + (m+1) = 3m."},
+    {"q":"A lamp is ON and its switch is toggled 77 times. The lamp is:","o":["ON","OFF","dim","cannot say"],"a":1,"ans":"77 is odd, so the lamp ends opposite to its start: OFF."},
+    {"q":"The number of rhythms with 5 beats is:","o":["5","6","7","8"],"a":3,"ans":"5 + 3 = 8."},
+    {"q":"In 6.3, all six circled row and column sums of a 1–9 grid add to:","o":["45","90","15","30"],"a":1,"ans":"Rows total 45 and columns total 45, so 90."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Martin and Maria were born exactly one year apart. Can their ages add to 112?","ans":"Their ages are consecutive numbers, one even and one odd (1 mark). even + odd is odd, but 112 is even, so no (1 mark)."},
+    {"q":"Write the next three terms: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, …","ans":"55 + 89 = 144, 89 + 144 = 233 (1 mark), 144 + 233 = 377 (1 mark)."},
+    {"q":"Give one expression that is always odd and one that can be odd or even.","ans":"Always odd: 2m + 1 (any even multiple plus an odd number) (1 mark). Either: 3n + 4, e.g. n = 3 gives 13, n = 8 gives 28 (1 mark)."},
+    {"q":"Solve: YY + Z = ZOO.","ans":"The sum is at most 99 + 9 = 108, so Z = 1 (1 mark). YY must be 99: 99 + 1 = 100, so Y = 9, O = 0 (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Draw (or write the heights of) an arrangement of 7 children that calls out 0, 1, 1, 1, 1, 1, 1. Explain.","ans":"Tallest child first, then the rest in increasing height, e.g. 160, 130, 135, 140, 145, 150, 155 cm (1 mark). The first says 0 (1 mark). Each of the others has only the 160 cm child taller in front, so says 1 (1 mark)."},
+    {"q":"Fill a 3 × 3 grid with 1–9 so that row sums are 13, 14, 18 and column sums are 24, 9, 12, with 9 in the top-left and 5 in the bottom-right.","ans":"Row 1: 9 + a + b = 13 so a, b are 1 and 3; column 1: 9 + c + d = 24 so c, d are 8 and 7 (1 mark). Grid: 9 1 3 / 8 2 4 / 7 6 5 (1 mark). Check: rows 13, 14, 18; columns 24, 9, 12 (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"(a) Write the generalised form of a 3 × 3 magic square with centre m. (b) Use it to make the square with centre 25. (c) Make a magic square with magic sum 60.","ans":"(a) m+3, m−4, m+1 / m−2, m, m+2 / m−1, m+4, m−3 (2 marks). (b) 28 21 26 / 23 25 27 / 24 29 22 (1 mark). (c) 3m = 60 → m = 20: 23 16 21 / 18 20 22 / 19 24 17 (2 marks)."},
+    {"q":"Case: Angaan climbs an 8-step staircase taking 1 or 2 steps at a time. (a) Show the ways for 3 steps. (b) Explain why the number of ways follows the Virahāṅka sequence. (c) Find the number of ways for 8 steps.","ans":"(a) 1,1,1; 1,2; 2,1: 3 ways (1 mark). (b) The first move is 1 step (then n − 1 steps remain) or 2 steps (n − 2 remain), so ways(n) = ways(n − 1) + ways(n − 2) (2 marks). (c) 1, 2, 3, 5, 8, 13, 21, 34 → 34 ways (2 marks)."}]}]},
+  {"title":"Sample Paper 3","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"even − odd is:","o":["even","odd","zero","negative"],"a":1,"ans":"For example 10 − 3 = 7, odd."},
+    {"q":"The 20th term of the Virahāṅka sequence is:","o":["odd","even","prime","zero"],"a":1,"ans":"Even terms sit at positions 2, 5, 8, …, 20."},
+    {"q":"The smallest possible row sum in a 3 × 3 grid filled with 1–9 is:","o":["3","6","9","15"],"a":1,"ans":"1 + 2 + 3 = 6."},
+    {"q":"Doubling every number of the 1–9 magic square makes the magic sum:","o":["15","18","30","45"],"a":2,"ans":"Each line doubles: 15 × 2 = 30."},
+    {"q":"6k + 2 for k = 1, 2, 3 gives:","o":["8, 14, 20","6, 8, 10","2, 6, 10","8, 12, 16"],"a":0,"ans":"6 + 2 = 8, 12 + 2 = 14, 18 + 2 = 20."},
+    {"q":"Virahāṅka described these rhythms around:","o":["300 BCE","700 CE","1202 CE","1150 CE"],"a":1,"ans":"Virahāṅka gave the method around 700 CE."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Is ‘The first person’s number is 0’ always, sometimes or never true? Why?","ans":"Always true (1 mark), because nobody stands in front of the first person (1 mark)."},
+    {"q":"Find the parity of the sum of 2 odd numbers and 3 even numbers.","ans":"The 2 odd numbers give 2 leftovers that pair up (1 mark), so the sum is even (1 mark)."},
+    {"q":"Solve B5 + 3D = ED5.","ans":"5 + D ends in 5, so D = 0 (1 mark). B + 3 = 10 with E = 1, so B = 7: 75 + 30 = 105 (1 mark)."},
+    {"q":"Make a magic square with numbers 2–10.","ans":"Add 1 to each number of 8 1 6 / 3 5 7 / 4 9 2 (1 mark): 9 2 7 / 4 6 8 / 5 10 3, magic sum 18 (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Explain why the grid with row sums 5, 21, 19 and column sums 9, 11, 26 cannot be filled with 1–9.","ans":"Smallest sum of three different numbers from 1–9 is 1 + 2 + 3 = 6 (1 mark). Largest is 9 + 8 + 7 = 24 (1 mark). 5 < 6 and 26 > 24, so it is impossible (1 mark)."},
+    {"q":"Explain why 1 cannot be placed in a corner of a 1–9 magic square.","ans":"A corner lies on a row, a column and a diagonal, so 1 needs three pairs adding to 14 (1 mark). From 2–9 the only pairs are 5 + 9 and 6 + 8 (1 mark). Only two pairs exist, so 1 cannot be in a corner (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"Case: The Chautīsā Yantra is 7 12 1 14 / 2 13 8 11 / 16 3 10 5 / 9 6 15 4. (a) Why is it called Chautīsā? (b) Check one row, one column and both diagonals. (c) Find two other groups of four numbers adding to 34.","ans":"(a) Chautīs means 34; every line adds to 34 (1 mark). (b) Row 1: 7 + 12 + 1 + 14 = 34; column 1: 7 + 2 + 16 + 9 = 34 (1 mark); diagonals 7 + 13 + 10 + 4 = 34 and 14 + 8 + 3 + 9 = 34 (1 mark). (c) Corners 7 + 14 + 9 + 4 = 34 (1 mark); centre 13 + 8 + 3 + 10 = 34 (1 mark)."},
+    {"q":"(a) Find the parity of even + even, odd + odd, even + odd using dot pictures. (b) Write formulas for the nth even and nth odd numbers. (c) Is 4m − 1 always odd? Can all even numbers be written as 6j − 4?","ans":"(a) Even + even: all pairs → even; odd + odd: two leftovers pair → even; even + odd: one leftover → odd (2 marks). (b) nth even = 2n, nth odd = 2n − 1 (1 mark). (c) 4m is even, so 4m − 1 is always odd (1 mark). 6j − 4 gives 2, 8, 14, … and misses 4, so no (1 mark)."}]}]},
+  {"title":"Sample Paper 4","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"The sum of an odd number of odd numbers is:","o":["even","odd","zero","always prime"],"a":1,"ans":"One leftover remains alone, so the sum is odd."},
+    {"q":"The parity of 1 + 2 + 3 + … + 100 is:","o":["odd","even","neither","cannot say"],"a":1,"ans":"There are 50 odd numbers, an even count, so the sum (5050) is even."},
+    {"q":"The Kubera Yantra 27 20 25 / 22 24 26 / 23 28 21 has magic sum:","o":["72","75","24","69"],"a":0,"ans":"27 + 20 + 25 = 72 = 3 × 24."},
+    {"q":"How many magic squares can be made with 1–9 (counting rotations and reflections)?","o":["1","4","8","9"],"a":2,"ans":"One basic square, turned and flipped in 8 ways."},
+    {"q":"In UT + TA = TAT, T is:","o":["0","1","9","5"],"a":1,"ans":"Two 2-digit numbers add to less than 200, so the hundreds digit T = 1."},
+    {"q":"The previous term before 987, 1597 in the Virahāṅka sequence is:","o":["600","610","620","590"],"a":1,"ans":"1597 − 987 = 610."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Solve KP + KP = PRR.","ans":"The sum is under 200, so P = 1 and R = 2 from the units (1 mark). Tens: 2K = 12, K = 6: 61 + 61 = 122 (1 mark)."},
+    {"q":"Make a 3 × 3 magic square whose magic sum is 0 (not all zeros).","ans":"Use the generalised form with m = 0 (1 mark): 3 −4 1 / −2 0 2 / −1 4 −3 (1 mark)."},
+    {"q":"Find the next two terms after 987, 1597 in the Virahāṅka sequence.","ans":"987 + 1597 = 2584 (1 mark); 1597 + 2584 = 4181 (1 mark)."},
+    {"q":"Is ‘If a person says 0, they are the tallest’ always true? Give an example.","ans":"Only sometimes true (1 mark). In the line 130, 150, 140 cm the first child (130 cm) says 0 but is not the tallest (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Fill a 2 × 3 grid with 3 odd (o) and 3 even (e) numbers so that the row sums are odd, even and the column sums are even, even, odd.","ans":"Top row o e e (one odd → odd row) (1 mark); bottom row o e o (two odds → even row) (1 mark). Columns: o + o even, e + e even, e + o odd ✓ (1 mark)."},
+    {"q":"Taking a magic square, what happens to the magic sum if (a) 1 is added to each number, (b) each number is doubled? Use 8 1 6 / 3 5 7 / 4 9 2.","ans":"(a) 9 2 7 / 4 6 8 / 5 10 3, still magic, magic sum 15 + 3 = 18 (1.5 marks). (b) 16 2 12 / 6 10 14 / 8 18 4, still magic, magic sum 30 (1.5 marks)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"Seven children stand in a line, heights (front to back) 130, 150, 140, 155, 135, 160, 145 cm. (a) Write the number each calls. (b) Rearrange them so that everyone says 0. (c) Rearrange them so that the numbers are 0, 1, 2, 3, 4, 5, 6.","ans":"(a) 0, 0, 1, 0, 3, 0, 3 (2 marks). (b) Shortest to tallest: 130, 135, 140, 145, 150, 155, 160 (1.5 marks). (c) Tallest to shortest: 160, 155, 150, 145, 140, 135, 130 (1.5 marks)."},
+    {"q":"Case: The Virahāṅka sequence 1, 2, 3, 5, 8, 13, … (a) Write the parity of the first 9 terms. (b) Describe the pattern and explain why it repeats. (c) State the parity of the 20th term.","ans":"(a) O, E, O, O, E, O, O, E, O (2 marks). (b) The block O, E, O repeats because O + E = O, E + O = O, O + O = E, and then the pattern starts again (2 marks). (c) Even terms are at positions 2, 5, 8, …, 20, so the 20th term is even (1 mark)."}]}]},
+  {"title":"Sample Paper 5","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"Which expression gives all the even numbers 2, 4, 6, …?","o":["6k + 2","2n","n + 2","4n"],"a":1,"ans":"2n gives 2, 4, 6, 8, … in order."},
+    {"q":"A short syllable lasts 1 beat. A long syllable lasts:","o":["1 beat","2 beats","3 beats","half a beat"],"a":1,"ans":"A long syllable is exactly twice as long as a short one."},
+    {"q":"In C1 + C = 1FF, C is:","o":["1","5","9","0"],"a":2,"ans":"91 + 9 = 100."},
+    {"q":"The parity of odd − even is:","o":["even","odd","zero","negative"],"a":1,"ans":"For example 9 − 4 = 5, odd."},
+    {"q":"The number at the centre of a magic square made with 3–11 is:","o":["5","6","7","8"],"a":2,"ans":"Add 2 to every number of the 1–9 square: the centre 5 becomes 7."},
+    {"q":"The Lo Shu magic square comes from:","o":["India","Japan","ancient China","Europe"],"a":2,"ans":"The legend of the Lo Shu is from ancient China, over 2000 years ago."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Why do the three row sums of a 3 × 3 grid using 1–9 always add to 45?","ans":"Together the rows contain each number 1–9 exactly once (1 mark), and 1 + 2 + … + 9 = 45 (1 mark)."},
+    {"q":"How many rhythms have 6 beats? Show how.","ans":"Rhythms(6) = rhythms(5) + rhythms(4) (1 mark) = 8 + 5 = 13 (1 mark)."},
+    {"q":"Is it possible to make a magic square with nine non-consecutive numbers? Give an example.","ans":"Yes (1 mark): triple 8 1 6 / 3 5 7 / 4 9 2 to get 24 3 18 / 9 15 21 / 12 27 6, magic sum 45 (1 mark)."},
+    {"q":"Solve T + T + T = UT.","ans":"3T must end in T, so 2T ends in 0 (1 mark). T = 5 (not 0, as UT has 2 digits): 15, so U = 1 (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Find the parity of the number of small squares in grids (a) 27 × 13, (b) 42 × 78, (c) 135 × 654, without multiplying. State the rule.","ans":"Rule: the product is odd only when both sides are odd (1 mark). (a) odd (1 mark). (b) even, (c) even (1 mark)."},
+    {"q":"Solve the cryptarithm UT + TA = TAT.","ans":"Sum of two 2-digit numbers is below 200, so T = 1 (1 mark). Units: 1 + A ends in 1, so A = 0 (1 mark). Tens: U + 1 = 10, so U = 9: 91 + 10 = 101 (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"Fill in the blanks with odd or even, and justify each using pairs: (a) sum of an odd number of even numbers, (b) sum of an even number of odd numbers, (c) sum of an even number of even numbers, (d) sum of an odd number of odd numbers. (e) Use this to explain why 5 odd number cards can never add to 30.","ans":"(a) even — even numbers leave no leftovers (1 mark). (b) even — the leftovers pair up (1 mark). (c) even (1 mark). (d) odd — one leftover stays (1 mark). (e) 5 is an odd count of odd numbers, so the sum is odd and cannot equal the even number 30 (1 mark)."},
+    {"q":"Case: Show that in a 1–9 magic square (a) the magic sum is 15, (b) the centre is 5, and (c) write the generalised form and check that each line adds to 3m.","ans":"(a) Rows total 45, three equal rows → 15 (1 mark). (b) A centre of 6, 7 or 8 would need 9 + c + ? = 15 with ? ≤ 0, and a centre of 9 fails with 8; a centre of 2, 3 or 4 would need 1 + c + ? = 15 with ? ≥ 10, and a centre of 1 fails with 2; so the centre is 5 (2 marks). (c) m+3, m−4, m+1 / m−2, m, m+2 / m−1, m+4, m−3; e.g. (m+3) + (m−4) + (m+1) = 3m and (m+3) + m + (m−3) = 3m (2 marks)."}]}]}
+ ]
+}

@@ -33,8 +33,8 @@ CHAPTERS.push({ no, title, story, intro, theme:{scene,guide,guideName,unit,doneS
 - `no` = the chapter number shown to students (the textbook's number). `title` = the exact textbook chapter title.
 - `theme`: `scene`/`guide` are names you register in chap.js; `unit` is what a part is called in your story (e.g. "Countdown", "Platform", "Stall"); `doneStamp` e.g. "SYSTEM GO"; `badge` the certificate title.
 - `people`: the textbook's own characters (use their names), as `{ "<prefix>_name": {name, skin, hair: short|long|curly|bun|turban, bg, shirt, acc?} }`. Indian skin tones.
-- `cases`: **10–12 parts** for a big chapter (fewer only if the chapter is short), following the textbook's sections in order. Each case: `{title, sec:"<n.m Section name>", icon:"<inline <svg viewBox='0 0 48 48'>…</svg>>", brief, steps:[…]}`.
-- `steps` (aim for 10–18 per case; the whole chapter should have ~120–190 steps). Step kinds:
+- `cases`: **at most 8 parts** (fewer if the chapter is short; merge small sections), following the textbook's sections in order. Each case: `{title, sec:"<n.m Section name>", icon:"<inline <svg viewBox='0 0 48 48'>…</svg>>", brief, steps:[…]}`.
+- `steps` (aim for 8–14 per case; the whole chapter about 80–100 steps). Step kinds:
   - `t:"s"` story/teaching step: `{t:"s", who, say, note, xs:[…explanation lines…], v, xa?}` — `note` is the notebook key idea; `xs` are 3–5 short lines read aloud one by one; `xa[i]` (optional) drives the sim in sync with `xs[i]`: `{set:{param:value}}`, `{show:"readKey,readKey"|"all"|"none"}`, `{hl:"partName"}`, or `null`.
   - `t:"m"` multiple choice: `{t:"m", who, say, q, o:[4 options], a:<index>, h:"hint", xs:[step-by-step explanation], ref:"In-text question, p. 67", v, xa?}`. Spread correct answers over A–D. Distractors must be the real mistakes students make.
   - `t:"n"` numeric answer: `{t:"n", …, q, ans:<number>, u?:"unit", pre?:"₹", tol?, h, xs, ref, v}`.
@@ -47,8 +47,8 @@ CHAPTERS.push({ no, title, story, intro, theme:{scene,guide,guideName,unit,doneS
 
 ### chap.js
 Exactly one IIFE: starts with `(function(){` and ends with `})();`. Inside, register (with a unique prefix for this chapter, e.g. `k7m1_` for class 7 maths ch 1; the task gives it):
-- **6–10 custom 2D sims** `SIM_DEF.<prefix>_x = { def, rng, lab, reads, draw(D,P,sh,hl){ return {svg, reads} } }` — animated SVG that teaches the actual concept (number lines, place-value boards, balance scales, geometry constructions with angles, circuits, particle models, maps, timelines…). `D` = animated (tweened) values, `P` = target values, `sh` = Set of shown reads, `hl` = highlighted part (mark parts with `data-part` and add `class="hl"` when `hl===part`). Keep every drawing inside its viewBox, readable at phone width, using the CSS colour variables (`var(--mari)`, `--rani`, `--teal`, `--sky`, `--ink`, `--muted`, `--manila`, `--night`…).
-- **1–2 3D sims** using `make3D(stage, opts)` (`init(stage,I)` returning `{update(D,P,sh,hl), dispose()}`, plus `readouts(P,sh)`), like `v4g7c4_*` in the example. Three.js r128 is global `THREE`.
+- **5 custom 2D sims** `SIM_DEF.<prefix>_x = { def, rng, lab, reads, draw(D,P,sh,hl){ return {svg, reads} } }` — animated SVG that teaches the actual concept (number lines, place-value boards, balance scales, geometry constructions with angles, circuits, particle models, maps, timelines…). `D` = animated (tweened) values, `P` = target values, `sh` = Set of shown reads, `hl` = highlighted part (mark parts with `data-part` and add `class="hl"` when `hl===part`). Keep every drawing inside its viewBox, readable at phone width, using the CSS colour variables (`var(--mari)`, `--rani`, `--teal`, `--sky`, `--ink`, `--muted`, `--manila`, `--night`…).
+- **1 3D sim** using `make3D(stage, opts)` (`init(stage,I)` returning `{update(D,P,sh,hl), dispose()}`, plus `readouts(P,sh)`), like `v4g7c4_*` in the example. Three.js r128 is global `THREE`.
 - `SCENES.<prefix>_<world> = function(t){…}` — an animated canvas background for your story world, drawing on `bctx` (see `drawMela` in engA.js and the example scene). Must end with `if(!RM) requestAnimationFrame(drawBg);`.
 - `GUIDES.<prefix>_<guide> = () => \`<svg class="guide …" viewBox="0 0 120 130">…</svg>\`` — your guide character (an Indian animal/object with personality).
 - Nothing else global: no `const` outside the IIFE, no network, no external images, fonts or libraries.
@@ -73,8 +73,11 @@ node check.js <ID>            # static checks + headless play-through of every s
 node shoot.js <ID> 1:1 1:3 4:2 # screenshots of chosen case:step → dist/<ID>-c1-s1.png …  (view them!)
 ```
 - `check.js` must PASS (ignore nothing it reports). It also writes `dist/<ID>.png`.
-- View screenshots of at least 8 different steps covering every sim you wrote (including the 3D ones and the hands-on challenges after `xa` runs). Fix anything clipped, overlapping, unreadable, empty or ugly. Text inside SVGs must not overflow.
+- View screenshots of at most 5 steps covering every sim you wrote (including the 3D ones and the hands-on challenges after `xa` runs). Fix anything clipped, overlapping, unreadable, empty or ugly. Text inside SVGs must not overflow.
 - Verify mathematically/factually EVERY answer (`a`, `ans`, `goal`, quiz, paper answers) against the textbook. Wrong answers are the worst possible defect.
+
+## 3b. Never give the answer away
+For every question step (`m`, `n`, `x`), the visual shown BEFORE the student answers must not display the answer: start the sim with `show:"none"` (or only the reads that are givens), keep result labels as "?", and reveal the answer through `xa` in the explanation (`xa:[{show:"all"},…]`). Check this in your screenshots.
 
 ## 4. Language & tone
 - Classes 1–5: very simple words, short sentences. Classes 6–8: clear, friendly, precise. Use Indian names, places, festivals, food, money (₹) as the textbook does.

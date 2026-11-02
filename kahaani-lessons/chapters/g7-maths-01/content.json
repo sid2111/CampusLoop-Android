@@ -1,0 +1,117 @@
+{
+ "grade": 7, "chapter": 1, "n": 1, "title": "Large Numbers Around Us", "book": "Ganita Prakash (Grade 7) Part I",
+ "quiz": [
+  {"q": "How is 1,00,000 read in the Indian system?", "o": ["One lakh", "Ten thousand", "One million", "One crore"], "a": 0, "why": "1,00,000 is 1 followed by 5 zeros: one lakh."},
+  {"q": "How many times must a +100 button be pressed to show 97,600?", "o": ["97", "9760", "976", "97,600"], "a": 2, "why": "97,600 ÷ 100 = 976."},
+  {"q": "Which number has 7 zeros?", "o": ["Ten lakh", "One crore", "One lakh", "One billion"], "a": 1, "why": "1 crore = 1,00,00,000 = 1 followed by 7 zeros."},
+  {"q": "10 lakh is the same as", "o": ["1 crore", "100 thousand", "1 billion", "1 million"], "a": 3, "why": "10,00,000 = 1,000,000 = one million."},
+  {"q": "The nearest lakh of 6,72,85,183 is", "o": ["6,72,00,000", "6,73,00,000", "6,70,00,000", "7,00,00,000"], "a": 1, "why": "85,183 is more than half a lakh, so round up to 6,73,00,000."},
+  {"q": "What is the smallest number of clicks on Systematic Sippy (+1, +10, +100, …) to make 5072?", "o": ["14", "23", "5072", "4"], "a": 0, "why": "Fewest clicks = digit sum: 5 + 0 + 7 + 2 = 14."},
+  {"q": "72 × 125 = ?", "o": ["900", "90,000", "8,640", "9000"], "a": 3, "why": "125 = 1000 ÷ 8, so 72 × 125 = 9 × 1000 = 9000."},
+  {"q": "The product of a 5-digit number and a 5-digit number has", "o": ["9 or 10 digits", "10 or 11 digits", "exactly 10 digits", "25 digits"], "a": 0, "why": "a-digit × b-digit has a + b − 1 or a + b digits: 9 or 10."},
+  {"q": "In 9,876,501,234 (American commas), the ‘876’ group is read as", "o": ["876 thousand", "876 crore", "876 million", "876 billion"], "a": 2, "why": "The second group of three from the left (after billions) is millions."},
+  {"q": "How many lakhs make a billion?", "o": ["100", "1000", "1,00,000", "10,000"], "a": 3, "why": "1 billion = 100 crore = 100 × 100 lakh = 10,000 lakh."}
+ ],
+ "papers": [
+  {"title": "Sample Paper 1", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "The smallest 6-digit number is", "o": ["99,999", "1,00,000", "10,00,000", "1,00,001"], "a": 1, "ans": "99,999 + 1 = 1,00,000 (one lakh)."},
+    {"q": "27,30,000 in words is", "o": ["Twenty seven lakh thirty thousand", "Two lakh seventy three thousand", "Twenty seven thousand three hundred", "Twenty seven crore thirty lakh"], "a": 0, "ans": "27 lakh, 30 thousand."},
+    {"q": "How many thousands make one lakh?", "o": ["10", "1000", "100", "10,000"], "a": 2, "ans": "1,00,000 ÷ 1000 = 100."},
+    {"q": "Which is the correct Indian notation of fifty lakh five thousand fifty?", "o": ["50,5,050", "5,05,050", "50,50,050", "50,05,050"], "a": 3, "ans": "50 lakh, 05 thousand, 050 → 50,05,050."},
+    {"q": "1 arab equals", "o": ["100 crore", "10 crore", "1000 lakh", "1 million"], "a": 0, "ans": "1 arab = 1,00,00,00,000 = 100 crore = 1 billion."},
+    {"q": "25 × 240 = ?", "o": ["600", "6000", "60,000", "4800"], "a": 1, "ans": "25 × 240 = 100 × (240 ÷ 4) = 100 × 60 = 6000."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Chintamani had about 75,000 people in 2011 and 1,06,000 in 2024. Find the increase.", "ans": "Increase = 1,06,000 − 75,000 (1 mark) = 31,000 (1 mark)."},
+    {"q": "Write 70,53,138 in words in the Indian system.", "ans": "Commas group it as 70 lakh, 53 thousand, 138 (1 mark): seventy lakh fifty three thousand one hundred thirty eight (1 mark)."},
+    {"q": "How many times must the +10 button be pressed to show (a) 780 (b) one lakh?", "ans": "(a) 780 ÷ 10 = 78 times (1 mark). (b) 1,00,000 ÷ 10 = 10,000 times (1 mark)."},
+    {"q": "Compare using <, > or =: (a) 30 thousand __ 3 lakh (b) 500 lakh __ 5 million.", "ans": "(a) 30,000 < 3,00,000 (1 mark). (b) 500 lakh = 5 crore = 50 million, so 500 lakh > 5 million (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Somu is 1 m tall and each floor of his 10-floor building is 4 m. (a) Find the height of the building. (b) How much taller is the Statue of Unity (180 m)? (c) About how many floors would reach Kunchikal falls (450 m)?", "ans": "(a) 10 × 4 = 40 m (1 mark). (b) 180 − 40 = 140 m (1 mark). (c) 450 ÷ 4 = 112.5, so about 113 floors (1 mark)."},
+    {"q": "Write the five nearest neighbours (thousand, ten thousand, lakh, ten lakh, crore) of 3,87,69,957.", "ans": "Nearest thousand 3,87,70,000; ten thousand 3,87,70,000 (1 mark); lakh 3,88,00,000 (1 mark); ten lakh 3,90,00,000; crore 4,00,00,000 (1 mark)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Estu wants to taste all 1 lakh rice varieties. (a) How many days are there in 100 years (365 days a year)? (b) Is 1 variety a day enough in 100 years? (c) Is 2 a day enough? (d) Is 3 a day enough? (e) About how many years make 1 lakh days?", "ans": "(a) 365 × 100 = 36,500 days (1 mark). (b) 36,500 < 1,00,000: no (1 mark). (c) 2 × 36,500 = 73,000: no (1 mark). (d) 3 × 36,500 = 1,09,500 > 1,00,000: yes (1 mark). (e) 1,00,000 ÷ 365 ≈ 274 years (1 mark)."},
+    {"q": "Creative Chitti has buttons +1, +10, +100, +1000, +10000. (a) Write two different ways to get 8300. (b) Find the fewest clicks for 8300 and 40629 and write the expressions. (c) What connection do you see between a number and its fewest clicks?", "ans": "(a) (8 × 1000) + (3 × 100); (5 × 1000) + (33 × 100) (2 marks). (b) 8300 = (8 × 1000) + (3 × 100): 11 clicks; 40629 = (4 × 10000) + (6 × 100) + (2 × 10) + (9 × 1): 21 clicks (2 marks). (c) Fewest clicks = sum of the digits, which is the place value form (1 mark)."}]}
+  ]},
+  {"title": "Sample Paper 2", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "1 crore is written as", "o": ["10,00,000", "1,00,00,000", "1,000,000", "1,00,00,00,000"], "a": 1, "ans": "1 crore = 100 lakh = 1,00,00,000."},
+    {"q": "In the Indian system, commas from the right follow the pattern", "o": ["3-3-3", "2-2-2", "3-2-2", "2-3-3"], "a": 2, "ans": "First group of 3, then groups of 2."},
+    {"q": "Pressing +1000 exactly 153 times shows", "o": ["15,300", "1,53,000", "15,30,000", "1,530"], "a": 1, "ans": "153 × 1000 = 1,53,000."},
+    {"q": "How many zeros does a thousand lakh have?", "o": ["8", "7", "5", "9"], "a": 0, "ans": "1000 × 1,00,000 = 10,00,00,000: 3 + 5 = 8 zeros."},
+    {"q": "4,63,128 + 4,19,682 is", "o": ["less than 8,00,000", "between 8,83,128 and 9,00,000", "more than 9,00,000", "between 8,50,000 and 8,83,128"], "a": 3, "ans": "Sum = 8,82,810, which is more than 8,50,000 and less than 8,83,128."},
+    {"q": "Which product has exactly 5 digits?", "o": ["99 × 99", "100 × 100", "999 × 999", "10 × 10"], "a": 1, "ans": "100 × 100 = 10,000 has 5 digits; 99 × 99 = 9801 has 4."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Write in Indian notation: (a) four lakh seven thousand seven hundred and four (b) ten lakh two hundred and thirty five.", "ans": "(a) 4,07,704 (1 mark). (b) 10,00,235 (1 mark)."},
+    {"q": "Calculate quickly: 2 × 1768 × 50.", "ans": "Regroup: (2 × 50) × 1768 = 100 × 1768 (1 mark) = 1,76,800 (1 mark)."},
+    {"q": "Write 48121620 with Indian commas and with American commas.", "ans": "Indian: 4,81,21,620 (1 mark). American: 48,121,620 (1 mark)."},
+    {"q": "Is Handy Hundreds right that it can show numbers Tedious Tens cannot? Give a reason.", "ans": "No (1 mark). Handy Hundreds shows only multiples of 100, and every multiple of 100 is a multiple of 10, so Tedious Tens can show it too (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Find 14,63,128 − 4,90,020. Is the difference more or less than 9,63,128? Explain without using the exact value.", "ans": "9,63,128 = 14,63,128 − 5,00,000 (1 mark). We subtract 4,90,020, which is less than 5,00,000, so the difference is more than 9,63,128 (1 mark). Exact: 9,73,108 (1 mark)."},
+    {"q": "Write the number names of 345000543 in both the Indian and American systems.", "ans": "Indian 34,50,00,543: thirty four crore fifty lakh five hundred forty three (1.5 marks). American 345,000,543: three hundred forty five million five hundred forty three (1.5 marks)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Populations (2001 → 2011): Bengaluru 43,01,326 → 84,25,970; Hyderabad 36,37,483 → 68,09,970; Pune 25,38,473 → 31,15,431; Kolkata 45,72,876 → 44,86,679. (a) Find Bengaluru’s increase. (b) About how much did Pune increase? (c) Which city’s population fell? (d) Which of these cities almost doubled? (e) Suggest a title for the table.", "ans": "(a) 84,25,970 − 43,01,326 = 41,24,644 (1 mark). (b) 31 lakh − 25 lakh ≈ 6 lakh (exact 5,76,958) (1 mark). (c) Kolkata (1 mark). (d) Bengaluru and Hyderabad (1 mark). (e) ‘Populations of some Indian cities in 2001 and 2011’ (1 mark)."},
+    {"q": "Roxie travels 100 km every day. The Moon is 3,84,400 km away. (a) How far does she go in a year? (b) In 10 years? (c) Can she reach the Moon in 10 years? (d) In how many whole years will she reach it? (e) At 1000 km a day, how many days would the Sun (14,70,00,000 km) take?", "ans": "(a) 100 × 365 = 36,500 km (1 mark). (b) 3,65,000 km (1 mark). (c) No, 19,400 km short (1 mark). (d) 11 years: 4,01,500 km (1 mark). (e) 14,70,00,000 ÷ 1000 = 1,47,000 days ≈ 403 years (1 mark)."}]}
+  ]},
+  {"title": "Sample Paper 3", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "1 billion in Indian notation is", "o": ["1,00,00,000", "10,00,00,000", "1,00,00,00,000", "1,000,000"], "a": 2, "ans": "1 billion = 100 crore = 1,00,00,00,000."},
+    {"q": "The nearest crore of 29,05,32,481 is", "o": ["30,00,00,000", "29,00,00,000", "29,10,00,000", "29,05,00,000"], "a": 1, "ans": "5 lakh past 29 crore is far less than half a crore, so round down."},
+    {"q": "250 × 120 = ?", "o": ["3000", "300", "3,00,000", "30,000"], "a": 3, "ans": "250 × 120 = 1000 × (120 ÷ 4) = 30,000."},
+    {"q": "Pressing +100 exactly 582 times gives", "o": ["58,200", "5,820", "5,82,000", "582"], "a": 0, "ans": "582 × 100 = 58,200."},
+    {"q": "Which number has the American name ‘four million fifty thousand six hundred seventy eight’?", "o": ["4,50,678", "40,50,678", "4,05,06,78", "4,00,50,678"], "a": 1, "ans": "4,050,678 = 40,50,678 (forty lakh fifty thousand six hundred seventy eight)."},
+    {"q": "12-digit × 13-digit numbers give a product of", "o": ["25 or 26 digits", "23 or 24 digits", "24 or 25 digits", "156 digits"], "a": 2, "ans": "12 + 13 − 1 = 24 or 12 + 13 = 25 digits."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "How many hundreds make (a) ten thousand (b) one lakh?", "ans": "(a) 10,000 ÷ 100 = 100 (1 mark). (b) 1,00,000 ÷ 100 = 1000 (1 mark)."},
+    {"q": "Calculate 125 × 40 × 8 × 25 quickly.", "ans": "(125 × 8) × (40 × 25) = 1000 × 1000 (1 mark) = 10,00,000 (1 mark)."},
+    {"q": "Write in Indian notation: one crore one lakh one thousand ten.", "ans": "1 crore, 01 lakh, 01 thousand, 010 (1 mark) → 1,01,01,010 (1 mark)."},
+    {"q": "If 250 babies are born every minute, will a million babies be born in a day?", "ans": "250 × 60 × 24 = 3,60,000 babies a day (1 mark). 3,60,000 < 10,00,000, so no (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Using all digits 0–9 once (first digit not 0), write (a) the largest 10-digit multiple of 5 (b) the smallest 10-digit even number. Give reasons.", "ans": "(a) 9876543210: largest arrangement, ends in 0 so divisible by 5 (1.5 marks). (b) 1023456798: smallest start 10234567, then the last digit must be even, so 98 not 89 (1.5 marks)."},
+    {"q": "Explain why multiplying by 5 is the same as dividing by 2 and multiplying by 10. Use it to find 116 × 5.", "ans": "5 = 10 ÷ 2, so n × 5 = (n ÷ 2) × 10 (1.5 marks). 116 × 5 = 58 × 10 = 580 (1.5 marks)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Uncover the facts: (a) 1250 × 380 (kīrtanas of Purandaradāsa) (b) 2100 × 70,000 (km to the Sun) (c) 13,95,000 ÷ 150 (km of the longest train journey) (d) 10,50,00,000 ÷ 700 (kg of a blue whale) (e) Write answer (b) in the American system.", "ans": "(a) 4,75,000 (1 mark). (b) 14,70,00,000 (1 mark). (c) 9300 (1 mark). (d) 1,50,000 (1 mark). (e) 147,000,000 = 147 million (1 mark)."},
+    {"q": "A calculator has only +10,000 and +100 buttons. Write an expression and the total clicks for (a) 20,800 (b) 92,100 (c) 1,20,500 (d) 65,30,000 (e) 70,25,700.", "ans": "(a) (2 × 10,000) + (8 × 100): 10 (1 mark). (b) (9 × 10,000) + (21 × 100): 30 (1 mark). (c) (12 × 10,000) + (5 × 100): 17 (1 mark). (d) 653 × 10,000: 653 (1 mark). (e) (702 × 10,000) + (57 × 100): 759 (1 mark)."}]}
+  ]},
+  {"title": "Sample Paper 4", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "5,04,085 in words is", "o": ["Five lakh forty thousand eighty five", "Five lakh four thousand eighty five", "Fifty lakh four thousand eighty five", "Five lakh four hundred eighty five"], "a": 1, "ans": "5 lakh, 04 thousand, 085."},
+    {"q": "640 crore compared with 60 billion is", "o": ["equal", "greater", "less", "cannot compare"], "a": 2, "ans": "640 crore = 6.4 billion < 60 billion."},
+    {"q": "With exactly 30 presses on +1, +10, +100, the largest 3-digit number you can make is", "o": ["999", "990", "993", "930"], "a": 2, "ans": "Presses = digit sum + multiples of 9; 993 has digit sum 21 and can use 9 + 8 + 13 = 30 presses."},
+    {"q": "Which is a way to get 5072?", "o": ["(4 × 1000) + (10 × 100) + (7 × 10) + (2 × 1)", "(5 × 1000) + (72 × 10)", "(50 × 100) + (72 × 10)", "(5 × 1000) + (7 × 100) + (2 × 1)"], "a": 0, "ans": "4000 + 1000 + 70 + 2 = 5072."},
+    {"q": "The 1000th digit when writing 1, 2, 3, … one after another is", "o": ["0", "7", "1", "3"], "a": 3, "ans": "189 digits up to 99; 811 = 3 × 270 + 1, so it is the first digit of 370: 3."},
+    {"q": "Coins 1 mm thick stacked to 180 m need", "o": ["18,000 coins", "1,80,000 coins", "1800 coins", "18,00,000 coins"], "a": 1, "ans": "180 m = 1,80,000 mm."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Find 72 × 125 using 125 = 1000 ÷ 8.", "ans": "72 × 125 = (72 ÷ 8) × 1000 (1 mark) = 9 × 1000 = 9000 (1 mark)."},
+    {"q": "How many zeros are in (a) one crore (b) a hundred thousand?", "ans": "(a) 1,00,00,000: 7 zeros (1 mark). (b) 100,000: 5 zeros (1 mark)."},
+    {"q": "Can Mumbai’s population (1,24,42,373) fit in 1 lakh buses of 50 seats each?", "ans": "1,00,000 × 50 = 50,00,000 seats (1 mark). 50 lakh < 1 crore 24 lakh, so no (1 mark)."},
+    {"q": "Write a 9-digit number in which exchanging any two digits gives a bigger number. How many are there?", "ans": "Digits must strictly increase: 123456789 (1 mark). There is only one such number (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Which numbers have all five nearest neighbours (thousand to crore) equal to 5,00,00,000? How many are there?", "ans": "Nearest thousand must be 5,00,00,000, so the number is within 500 of it (1 mark): from 4,99,99,500 to 5,00,00,499 (1 mark). These also round to 5,00,00,000 at every larger place; there are 1000 such numbers (1 mark)."},
+    {"q": "Strike out 10 digits from 12345123451234512345 so that the remaining number is as large as possible. Explain.", "ans": "Pick the largest possible digit each time while leaving enough digits: first 5 (5th digit), then 5 (10th digit) (1 mark), then 3 (13th digit), then the last seven digits 4512345 must stay (1 mark). Answer: 5534512345 (1 mark)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Heights: bald eagles fly 4500–6000 m, Mount Everest is 8850 m, aeroplanes fly 10,000–12,800 m. Somu’s building is 40 m. (a)–(c) How many times the building height is each? (d) Which is about 221 times? (e) How many 4 m floors make Everest’s height?", "ans": "(a) Eagles: 4500 ÷ 40 = 112.5 to 6000 ÷ 40 = 150 times (1 mark). (b) Everest: 8850 ÷ 40 ≈ 221 times (1 mark). (c) Planes: 250 to 320 times (1 mark). (d) Mount Everest (1 mark). (e) 8850 ÷ 4 ≈ 2212 floors (1 mark)."},
+    {"q": "Roxie says the product of two 2-digit numbers is always a 3- or 4-digit number. (a) Is she right? Explain using the smallest and largest cases. (b) Can 3-digit × 3-digit give a 4-digit number? (c) Can 4-digit × 2-digit give a 5-digit number? (d) Complete: 8-digit × 3-digit = __ or __ digits.", "ans": "(a) Yes: smallest 10 × 10 = 100 (3 digits); every product is less than 100 × 100 = 10,000, so at most 4 digits (2 marks). (b) No: at least 100 × 100 = 10,000 (1 mark). (c) Yes: 1000 × 10 = 10,000 (1 mark). (d) 10 or 11 digits (1 mark)."}]}
+  ]},
+  {"title": "Sample Paper 5", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "The smallest 5-digit number is", "o": ["9999", "10,001", "10,000", "1,00,000"], "a": 2, "ans": "9999 + 1 = 10,000."},
+    {"q": "The Statue of Unity is 180 m and Somu’s building is 40 m. The statue is taller by", "o": ["220 m", "140 m", "4 times", "40 m"], "a": 1, "ans": "180 − 40 = 140 m."},
+    {"q": "Pressing +10 exactly 435 times shows", "o": ["4350", "435", "43,500", "4,35,000"], "a": 0, "ans": "435 × 10 = 4350."},
+    {"q": "9,87,65,01,234 has how many crores (without using arab)?", "o": ["9", "87", "98", "987"], "a": 3, "ans": "It is 987 crore 65 lakh 1 thousand 234."},
+    {"q": "Which situation needs an exact number, not a rounded one?", "o": ["Sweets for a school of 732 people", "Crowd at a book fair", "Distance to a far city", "A phone number"], "a": 3, "ans": "A phone number must be exact; the others can be rounded."},
+    {"q": "Approximately what number times Patna’s population (16,84,222) gives Mumbai’s (1,24,42,373)?", "o": ["2", "7", "17", "70"], "a": 1, "ans": "124 lakh ÷ 17 lakh ≈ 7.3, so about 7."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Write 3,00,600 in words and 1,23,456 in words.", "ans": "Three lakh six hundred (1 mark); one lakh twenty three thousand four hundred fifty six (1 mark)."},
+    {"q": "Find 2500 × 12 quickly.", "ans": "2500 = 10,000 ÷ 4, so 2500 × 12 = 10,000 × 3 (1 mark) = 30,000 (1 mark)."},
+    {"q": "Can you lift one lakh sheets of paper if each weighs 5 g?", "ans": "5 × 1,00,000 = 5,00,000 g = 500 kg (1 mark). Too heavy to lift, so no (1 mark)."},
+    {"q": "How many sticks are needed for 5108 in toothpick digits (5 → 5, 1 → 2, 0 → 6, 8 → 7)?", "ans": "5 + 2 + 6 + 7 (1 mark) = 20 sticks (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Write 9876501234 with commas and read it in both systems.", "ans": "Indian 9,87,65,01,234: 9 arab 87 crore 65 lakh 1 thousand 234 (1.5 marks). American 9,876,501,234: 9 billion 876 million 501 thousand 234 (1.5 marks)."},
+    {"q": "Can the population of Mumbai (1,24,42,373) fit into 5000 Titanic ships of 2500 passengers each? Show working.", "ans": "5000 × 2500 = 1,25,00,000 (1.5 marks). 1,25,00,000 > 1,24,42,373, so yes, just (1.5 marks)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Write the number names in both Indian and American systems: (a) 20022002 (b) 1020304050. Then write in Indian notation: (c) nine billion eighty million seven hundred thousand six hundred.", "ans": "(a) 2,00,22,002: two crore twenty two thousand two; 20,022,002: twenty million twenty two thousand two (2 marks). (b) 1,02,03,04,050: one arab two crore three lakh four thousand fifty; 1,020,304,050: one billion twenty million three hundred four thousand fifty (2 marks). (c) 9,080,700,600 = 9,08,07,00,600 (1 mark)."},
+    {"q": "Toothpick digits use 0 → 6, 1 → 2, 2 → 5, 4 → 4, 7 → 3, 8 → 7, 9 → 6 sticks. (a) Check that 42,019 needs 23 sticks. (b) Where should ‘1’ be inserted among 4, 2, 0, 1, 9 to get the biggest number? (c) What is the biggest number that uses exactly 24 sticks? (d) What is the smallest?", "ans": "(a) 4 + 5 + 6 + 2 + 6 = 23 (1 mark). (b) 421019 (1 mark). (c) Use the most digits: twelve 1s, 111111111111 (1.5 marks). (d) Fewest digits (4), smallest lead 2: 2008 = 5 + 6 + 6 + 7 = 24 (1.5 marks)."}]}
+  ]}
+ ]
+}

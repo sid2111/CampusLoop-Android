@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 2,
+ "n": 2,
+ "title": "Arithmetic Expressions",
+ "book": "Ganita Prakash (Grade 7) Part I",
+ "quiz": [
+  {
+   "q": "What is the value of 30 + 5 × 4?",
+   "o": [
+    "140",
+    "50",
+    "39",
+    "54"
+   ],
+   "a": 1,
+   "why": "Multiply first (the term 5 × 4 = 20), then add: 30 + 20 = 50."
+  },
+  {
+   "q": "What are the terms of 23 − 2 × 4 + 16?",
+   "o": [
+    "23, −2 × 4, 16",
+    "23, 2, 4, 16",
+    "21 × 4, 16",
+    "23 − 2, 4 + 16"
+   ],
+   "a": 0,
+   "why": "Subtraction becomes adding the inverse: 23 + (−2 × 4) + 16."
+  },
+  {
+   "q": "Which expression equals 200 − (40 + 3)?",
+   "o": [
+    "200 − 40 + 3",
+    "200 + 40 − 3",
+    "200 − 40 − 3",
+    "200 − 43 + 3"
+   ],
+   "a": 2,
+   "why": "A minus before the bracket changes the signs of all terms inside."
+  },
+  {
+   "q": "500 − (250 − 100) is equal to:",
+   "o": [
+    "500 − 250 − 100",
+    "500 − 250 + 100",
+    "500 + 250 + 100",
+    "150"
+   ],
+   "a": 1,
+   "why": "Taking away 250 takes 100 too many, so add 100 back: 350."
+  },
+  {
+   "q": "Without adding, compare 1023 + 125 and 1022 + 128.",
+   "o": [
+    "1023 + 125 > 1022 + 128",
+    "They are equal",
+    "Cannot be compared",
+    "1023 + 125 < 1022 + 128"
+   ],
+   "a": 3,
+   "why": "The second starts 1 less but adds 3 more, so it is 2 more."
+  },
+  {
+   "q": "Irfan pays ₹100 for items costing ₹15 and ₹56. His change is:",
+   "o": [
+    "₹29",
+    "₹141",
+    "₹71",
+    "₹41"
+   ],
+   "a": 0,
+   "why": "100 − (15 + 56) = 100 − 71 = 29."
+  },
+  {
+   "q": "2 × (43 + 24) is the same as:",
+   "o": [
+    "2 × 43 + 24",
+    "2 × 43 + 2 × 24",
+    "43 + 2 × 24",
+    "2 + 43 + 24"
+   ],
+   "a": 1,
+   "why": "Distributive property: multiply each term inside the bracket by 2."
+  },
+  {
+   "q": "Given 53 + (−16) = 37, the value of 53 + (−17) is:",
+   "o": [
+    "38",
+    "37",
+    "36",
+    "−36"
+   ],
+   "a": 2,
+   "why": "−17 is one less than −16, so the value is one less: 36."
+  },
+  {
+   "q": "97 × 25 can be found quickly as:",
+   "o": [
+    "100 × 25 + 3 × 25",
+    "97 × 20 + 5",
+    "100 × 25 − 3",
+    "100 × 25 − 3 × 25"
+   ],
+   "a": 3,
+   "why": "97 = 100 − 3, so 97 × 25 = 2500 − 75 = 2425."
+  },
+  {
+   "q": "The property ‘swapping terms does not change the sum’ is called the:",
+   "o": [
+    "commutative property of addition",
+    "associative property of addition",
+    "distributive property",
+    "inverse property"
+   ],
+   "a": 0,
+   "why": "Swapping = commutative; grouping = associative."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The value of 48 − 10 × 2 + 16 ÷ 2 is",
+       "o": [
+        "27",
+        "36",
+        "44",
+        "12"
+       ],
+       "a": 1,
+       "ans": "Terms 48, −20, 8: 48 − 20 + 8 = 36."
+      },
+      {
+       "q": "Which is a single term?",
+       "o": [
+        "4 + 6",
+        "4 × 6",
+        "4 − 6",
+        "−4 + 6"
+       ],
+       "a": 1,
+       "ans": "A product has no + sign inside, so 4 × 6 is one term."
+      },
+      {
+       "q": "13 + 4 = ___ + 6. The blank is",
+       "o": [
+        "17",
+        "23",
+        "11",
+        "10"
+       ],
+       "a": 2,
+       "ans": "13 + 4 = 17 and 17 − 6 = 11."
+      },
+      {
+       "q": "The inverse of −14 is",
+       "o": [
+        "14",
+        "−14",
+        "0",
+        "1/14"
+       ],
+       "a": 0,
+       "ans": "The inverse has the opposite sign."
+      },
+      {
+       "q": "Which equals 28 + (35 − 10)?",
+       "o": [
+        "28 + 35 + 10",
+        "28 − 35 − 10",
+        "28 − 35 + 10",
+        "28 + 35 − 10"
+       ],
+       "a": 3,
+       "ans": "With a + before the bracket, the signs inside stay the same."
+      },
+      {
+       "q": "273 − 145 ___ 272 − 144",
+       "o": [
+        "=",
+        "<",
+        ">",
+        "cannot say"
+       ],
+       "a": 0,
+       "ans": "One less at the start and one less taken away: equal (128)."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write 2 − 10 + 4 × 6 as a sum of terms and find its value.",
+       "ans": "2 + (−10) + 4 × 6 (1 mark); = 2 − 10 + 24 = 16 (1 mark)."
+      },
+      {
+       "q": "Remove the brackets: (a) 14 − (12 + 10)  (b) 14 − (−12 − 10).",
+       "ans": "(a) 14 − 12 − 10 = −8 (1 mark); (b) 14 + 12 + 10 = 36 (1 mark)."
+      },
+      {
+       "q": "Mallika spends ₹25 on lunch every school day, Monday to Friday. Write the expression and its value.",
+       "ans": "Expression 5 × 25 (1 mark); value ₹125 (1 mark)."
+      },
+      {
+       "q": "Fill in the blank using reasoning: 207 − 68 = 210 − ___.",
+       "ans": "210 is 3 more than 207, so we must subtract 3 more (1 mark): 68 + 3 = 71 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A metro ticket costs ₹40 for an adult and ₹20 for a child. Write expressions and find the cost for (i) four adults and three children, (ii) two groups of three adults each.",
+       "ans": "(i) 4 × 40 + 3 × 20 (1 mark) = 160 + 60 = ₹220 (½ mark); (ii) 2 × (3 × 40) (1 mark) = ₹240 (½ mark)."
+      },
+      {
+       "q": "Without full calculation, compare using <, > or =: (a) 245 + 289 ☐ 246 + 285 (b) 364 + 587 ☐ 363 + 589 (c) 213 − 77 ☐ 214 − 76. Give reasons.",
+       "ans": "(a) > : the right side gains 1 and loses 4 (1 mark). (b) < : the right side loses 1 and gains 2 (1 mark). (c) < : the right side starts 1 more and takes away 1 less (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Lhamo and Norbu each order a cutlet (₹43) and a rasgulla (₹24). (a) Why is 2 × 43 + 24 wrong? (b) Write the correct expression. (c) Show it equals 2 × 43 + 2 × 24 and find the total. (d) What if Sangmu joins?",
+       "ans": "(a) It means 24 more than 2 × 43 — only one rasgulla paid (1 mark). (b) 2 × (43 + 24) (1 mark). (c) 2 × 67 = 134; 86 + 48 = 134, so equal (2 marks). (d) 3 × (43 + 24) = 3 × 67 = ₹201 (1 mark)."
+      },
+      {
+       "q": "Case study: A snail climbs 3 cm up a 10 cm post each day and slips down 2 cm each night. (a) How much does it gain in one day and night? (b) Write an expression for its height after 7 days and nights. (c) On which day does it reach the top? Explain why it is not day 10.",
+       "ans": "(a) 3 − 2 = 1 cm (1 mark). (b) 7 × (3 − 2) = 7 cm (1 mark). (c) On day 8 it climbs 3 cm: 7 + 3 = 10 cm, reaching the top (2 marks). It does not slip back after reaching the top, so it is not day 10 (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The value of 6 × 3 − 4 × 8 × 5 is",
+       "o": [
+        "−142",
+        "142",
+        "−70",
+        "70"
+       ],
+       "a": 0,
+       "ans": "18 − 160 = −142."
+      },
+      {
+       "q": "Which equals 73 − 14 + 1?",
+       "o": [
+        "73 − (14 + 1)",
+        "73 − (14 − 1)",
+        "73 + (−14 − 1)",
+        "73 − 15"
+       ],
+       "a": 1,
+       "ans": "73 − (14 − 1) = 73 − 14 + 1 = 60."
+      },
+      {
+       "q": "(8 − 3) × 29 ___ (3 − 8) × 29",
+       "o": [
+        "<",
+        "=",
+        ">",
+        "none"
+       ],
+       "a": 2,
+       "ans": "5 × 29 is positive; −5 × 29 is negative."
+      },
+      {
+       "q": "10 × 98 + 3 × 98 equals",
+       "o": [
+        "13 + 98",
+        "(10 + 3) × 98",
+        "10 × 101",
+        "30 × 98"
+       ],
+       "a": 1,
+       "ans": "Multiple of a sum = sum of multiples."
+      },
+      {
+       "q": "Terms of 4 + 15 − 9 are",
+       "o": [
+        "4, 15, 9",
+        "4, −15, 9",
+        "19, 9",
+        "4, 15, −9"
+       ],
+       "a": 3,
+       "ans": "4 + 15 + (−9)."
+      },
+      {
+       "q": "Ruby has 33 classmates in groups of 4. She writes",
+       "o": [
+        "8 × 4 + 1",
+        "4 × 8 + 3",
+        "33 ÷ 4",
+        "7 × 4 + 5"
+       ],
+       "a": 0,
+       "ans": "8 groups of 4 = 32, 1 left."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Find the value of 39 − 2 × 6 + 11 by writing its terms.",
+       "ans": "Terms: 39, −2 × 6, 11 (1 mark). 39 − 12 + 11 = 38 (1 mark)."
+      },
+      {
+       "q": "Add brackets so that 34 − 9 + 12 = 13.",
+       "ans": "34 − (9 + 12) (1 mark) = 34 − 21 = 13 (1 mark)."
+      },
+      {
+       "q": "Given 53 × 18 = 954, find 63 × 18.",
+       "ans": "63 × 18 = (53 + 10) × 18 = 954 + 10 × 18 (1 mark) = 954 + 180 = 1134 (1 mark)."
+      },
+      {
+       "q": "Is 5 × 4 + 3 = 5 × (4 + 3)? Explain.",
+       "ans": "No. 5 × 4 + 3 = 20 + 3 = 23 (1 mark); 5 × (4 + 3) = 5 × 7 = 35 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Find 95 × 8, 104 × 15 and 49 × 50 using the distributive property.",
+       "ans": "95 × 8 = 800 − 40 = 760 (1 mark); 104 × 15 = 1500 + 60 = 1560 (1 mark); 49 × 50 = 2500 − 50 = 2450 (1 mark)."
+      },
+      {
+       "q": "Queen Alia gave 100 gold coins each to Elsa and Anna. Elsa doubled hers; Anna has only half left. Write an expression for their coins together, name its terms and find its value.",
+       "ans": "Expression 2 × 100 + 100 ÷ 2 (1 mark); terms 2 × 100 and 100 ÷ 2 (1 mark); value 200 + 50 = 250 coins (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Binu earns ₹20,000 a month and spends ₹5,000 on rent, ₹5,000 on food and ₹2,000 on other expenses. (a) Write an expression for her monthly saving. (b) Write an expression for a year’s saving. (c) Find it. (d) Show another expression with the same value.",
+       "ans": "(a) 20000 − (5000 + 5000 + 2000) = 8000 (2 marks). (b) 12 × (20000 − (5000 + 5000 + 2000)) (1 mark). (c) 12 × 8000 = ₹96,000 (1 mark). (d) 12 × 20000 − 12 × 12000 = 240000 − 144000 = 96000 (1 mark)."
+      },
+      {
+       "q": "Republic Day parade: scouts march in 4 rows of 5 and guides in 3 rows of 5. (a) Write two different expressions for the total. (b) Evaluate both. (c) Which property shows they are equal? (d) If 2 more rows of 5 guides join, write the new total as one product.",
+       "ans": "(a) 4 × 5 + 3 × 5 and (4 + 3) × 5 (2 marks). (b) 20 + 15 = 35; 7 × 5 = 35 (1 mark). (c) Distributive property (1 mark). (d) (4 + 5) × 5 = 45 (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "100 − 15 + 56 equals",
+       "o": [
+        "29",
+        "141",
+        "71",
+        "−29"
+       ],
+       "a": 1,
+       "ans": "Left to right: 85 + 56 = 141 — not the change!"
+      },
+      {
+       "q": "Which pair has equal values?",
+       "o": [
+        "16 − (8 − 3) and (16 − 8) − 3",
+        "(6 + 10) − 2 and 6 + (10 − 2)",
+        "27 − 18 and 27 + 18",
+        "14 − 12 and 12 − 14"
+       ],
+       "a": 1,
+       "ans": "Both are 6 + 10 − 2 = 14."
+      },
+      {
+       "q": "(___ + 6) × 4 = 13 × 4 + 6 × 4. The blank is",
+       "o": [
+        "6",
+        "4",
+        "13",
+        "24"
+       ],
+       "a": 2,
+       "ans": "Each term in the bracket is multiplied by 4."
+      },
+      {
+       "q": "1 − 2 + 3 − 4 + 5 − 6 + 7 − 8 + 9 − 10 =",
+       "o": [
+        "5",
+        "0",
+        "−10",
+        "−5"
+       ],
+       "a": 3,
+       "ans": "Five pairs of (−1)."
+      },
+      {
+       "q": "25 × (42 + 16) ___ 25 × (43 + 15)",
+       "o": [
+        "=",
+        "<",
+        ">",
+        "none"
+       ],
+       "a": 0,
+       "ans": "Both brackets equal 58."
+      },
+      {
+       "q": "Which is NOT equal to 432?",
+       "o": [
+        "4 × 100 + 3 × 10 + 2 × 1",
+        "8 × 50 + 1 × 10 + 4 × 5 + 2 × 1",
+        "4 × 100 + 3 × 5 + 2 × 1",
+        "40 × 10 + 3 × 10 + 2 × 1"
+       ],
+       "a": 2,
+       "ans": "400 + 15 + 2 = 417."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write the terms of 6 × 5 + 3 and explain what Ruby meant by it in her game with 33 children in groups of 5.",
+       "ans": "Terms 6 × 5 and 3 (1 mark); 6 groups of 5 and 3 children left out: 30 + 3 = 33 (1 mark)."
+      },
+      {
+       "q": "Remove brackets and evaluate 500 − (250 − 100) in two ways.",
+       "ans": "500 − 150 = 350 (1 mark); 500 − 250 + 100 = 350 (1 mark)."
+      },
+      {
+       "q": "Manasa got 11749 adding a list but forgot 9055. What should she do? Name the property.",
+       "ans": "Just add: 11749 + 9055 = 20804 (1 mark); commutative and associative properties allow adding in any order (1 mark)."
+      },
+      {
+       "q": "Use −87 + (−16) = −103 to find −86 + (−18).",
+       "ans": "−86 is 1 more, −18 is 2 less: value 1 less (1 mark) = −104 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Write expressions and find values: (a) 7 friends each eat a ₹23 dosa and tip ₹5; (b) Raghu has four 2 kg rice packets and packs 100 kg more into 2 kg packets.",
+       "ans": "(a) 7 × 23 + 5 = 161 + 5 = ₹166 (1½ marks). (b) 4 + 100 ÷ 2 = 4 + 50 = 54 packets (1½ marks)."
+      },
+      {
+       "q": "Without evaluating, say which are equal to 83 − 37 − 12: (i) 84 − 38 − 12 (ii) 84 − (37 + 12) (iii) 83 − 38 − 13 (iv) −37 + 83 − 12.",
+       "ans": "(i) equal: both numbers increase by 1 (1 mark). (iv) equal: same terms (1 mark). (ii) is 1 more and (iii) is 2 less, so not equal (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "The window of a houseboat has 2 borders of 3 cm, 6 grills of 2 cm and 7 gaps of 5 cm. (a) Write an expression for its total height. (b) Identify the terms. (c) Find the height. (d) If one more grill and one more gap are added, by how much does the height increase?",
+       "ans": "(a) 2 × 3 + 6 × 2 + 7 × 5 (1 mark). (b) Terms 2 × 3, 6 × 2, 7 × 5 (1 mark). (c) 6 + 12 + 35 = 53 cm (2 marks). (d) 2 + 5 = 7 cm more, i.e. 60 cm (1 mark)."
+      },
+      {
+       "q": "Using 2, 3 and 5 with + and − and brackets, (a) make expressions with values 10, 0, 4, −6 and −10. (b) Explain why 3 − (5 − 2) = 3 − 5 + 2.",
+       "ans": "(a) 2 + 3 + 5 = 10; 2 + 3 − 5 = 0; 2 − 3 + 5 = 4; 2 − (3 + 5) = −6; −2 − 3 − 5 = −10 (1 mark for each pair, 3 marks). (b) A minus before the bracket changes the signs of 5 and −2 to −5 and +2; both give 0 (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The terms of 83 − 14 are",
+       "o": [
+        "83 and 14",
+        "83 and −14",
+        "−83 and 14",
+        "69"
+       ],
+       "a": 1,
+       "ans": "83 + (−14)."
+      },
+      {
+       "q": "Which describes 2 stacks of (5 yellow + 3 blue) squares?",
+       "o": [
+        "5 × 2 + 3",
+        "2 × 5 + 3",
+        "2 × (5 + 3)",
+        "5 + 3 × 2"
+       ],
+       "a": 2,
+       "ans": "Each stack is 5 + 3; there are 2 stacks."
+      },
+      {
+       "q": "83 × 42 − 18 ___ 83 × 40 − 18",
+       "o": [
+        ">",
+        "<",
+        "=",
+        "none"
+       ],
+       "a": 0,
+       "ans": "83 × 42 is larger; both subtract 18."
+      },
+      {
+       "q": "Melvin reads one story a day except Tuesdays and Saturdays. Stories in 8 weeks:",
+       "o": [
+        "56",
+        "80",
+        "16",
+        "40"
+       ],
+       "a": 3,
+       "ans": "(7 − 2) × 8 = 40."
+      },
+      {
+       "q": "Which equals 93 + 37 × 44 + 76?",
+       "o": [
+        "37 × 44 + 93 + 76",
+        "(93 + 37) × (44 + 76)",
+        "37 + 93 × 44 + 76",
+        "93 + 37 × 76 + 44"
+       ],
+       "a": 0,
+       "ans": "Same terms reordered."
+      },
+      {
+       "q": "(34 − 28) × 42 ___ 34 × 42 − 28 × 42",
+       "o": [
+        "<",
+        ">",
+        "=",
+        "none"
+       ],
+       "a": 2,
+       "ans": "Distributive property."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Find the value of 5 × (3 + 2) + 7 × 8 + 3.",
+       "ans": "Terms 5 × (3 + 2), 7 × 8, 3 → 25, 56, 3 (1 mark); total 84 (1 mark)."
+      },
+      {
+       "q": "Fill the boxes: 27 − (8 + 3) = 27 ☐ 8 ☐ 3 and 27 − (__ ☐ __) = 27 − 8 + 3.",
+       "ans": "27 − 8 − 3 (1 mark); 27 − (8 − 3) (1 mark)."
+      },
+      {
+       "q": "Jasoda subtracts 9 by subtracting 10 and adding 1. Show why 36 − 9 = 26 + 1.",
+       "ans": "36 − 9 = 36 − (10 − 1) (1 mark) = 36 − 10 + 1 = 27 (1 mark)."
+      },
+      {
+       "q": "Find 97 × 25 using the distributive property.",
+       "ans": "(100 − 3) × 25 = 2500 − 75 (1 mark) = 2425 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Rahim supplies 9 kg and Shyam 11 kg of mangoes each day to a market open all week. Write two expressions for a week’s supply and find it.",
+       "ans": "7 × (9 + 11) (1 mark) and 7 × 9 + 7 × 11 (1 mark); 140 kg (1 mark)."
+      },
+      {
+       "q": "Picture I has five 4s and four 8s; Picture II has eight 5s and eight 6s. Find each sum in two ways.",
+       "ans": "I: 5 × 4 + 4 × 8 = 52; rows (4 + 8 + 4) × 2 + (8 + 4 + 8) = 52 (1½ marks). II: 8 × 5 + 8 × 6 = 88; 8 × (5 + 6) = 88 (1½ marks)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Compare using reasoning (no full calculation) and justify: (a) (16 − 11) × 12 and −11 × 12 + 16 × 12 (b) (76 − 53) × 88 and 88 × (53 − 76) (c) 36 × (28 − 16) and 35 × (27 − 15) (d) 145 − 17 × 8 and 145 − 17 × 6 (e) 23 × 48 − 35 and 23 × (48 − 35).",
+       "ans": "(a) = by distributive property (1). (b) > since 23 × 88 is positive and the other negative (1). (c) > since both brackets are 12 and 36 > 35 (1). (d) < since more is taken away (1). (e) > since 23 × (48 − 35) takes away 23 × 35 (1)."
+      },
+      {
+       "q": "Hira has 28 coins in one bag and 35 in another; she gifts 10 from the second bag. (a) Write the expression with brackets. (b) Remove the brackets and explain why the signs do not change. (c) Find the value. (d) If instead she gifted 10 coins from each bag, write and evaluate a new expression.",
+       "ans": "(a) 28 + (35 − 10) (1). (b) 28 + 35 − 10; no minus before the bracket so terms keep their signs (2). (c) 53 (1). (d) (28 − 10) + (35 − 10) = 28 + 35 − 20 = 43 (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which has value 12?",
+       "o": [
+        "20 ÷ 2",
+        "15 − 3",
+        "3 + 4",
+        "24 × 2"
+       ],
+       "a": 1,
+       "ans": "15 − 3 = 12."
+      },
+      {
+       "q": "8 × ___ = 64 ÷ 2",
+       "o": [
+        "8",
+        "32",
+        "4",
+        "2"
+       ],
+       "a": 2,
+       "ans": "64 ÷ 2 = 32 = 8 × 4."
+      },
+      {
+       "q": "−22 − 12 + 10 + 22 = −22 when brackets are placed as",
+       "o": [
+        "−22 − (12 + 10) + 22",
+        "(−22 − 12) + 10 + 22",
+        "−22 − 12 + (10 + 22)",
+        "−(22 − 12) + 10 + 22"
+       ],
+       "a": 0,
+       "ans": "−22 − 22 + 22 = −22."
+      },
+      {
+       "q": "14 × 10 − 6 × 10 equals",
+       "o": [
+        "(14 + 6) × 10",
+        "8 × 20",
+        "(14 − 6) × 10",
+        "14 − 60"
+       ],
+       "a": 2,
+       "ans": "Difference of multiples = multiple of the difference."
+      },
+      {
+       "q": "(−7) + 10 + (−11) =",
+       "o": [
+        "−8",
+        "8",
+        "−28",
+        "14"
+       ],
+       "a": 0,
+       "ans": "Any order gives −8."
+      },
+      {
+       "q": "Which equals 87 − 46 + 109?",
+       "o": [
+        "87 − (46 + 109)",
+        "(87 − 46) + 109",
+        "87 + 46 − 109",
+        "87 − 46 − 109"
+       ],
+       "a": 1,
+       "ans": "Same terms 87, −46, 109."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Arrange in ascending order: 67 − 19, 67 − 20, 35 + 25, 5 × 11, 120 ÷ 3.",
+       "ans": "Values 48, 47, 60, 55, 40 (1 mark); 120 ÷ 3 < 67 − 20 < 67 − 19 < 5 × 11 < 35 + 25 (1 mark)."
+      },
+      {
+       "q": "Explain, using tokens, why 5 − 3 = 5 + (−3).",
+       "ans": "Taking 3 positive tokens from 5 leaves 2 (1 mark); adding 3 negative tokens forms 3 zero pairs, leaving 2 (1 mark)."
+      },
+      {
+       "q": "Write a story for 5 × 12 − 6 and find its value.",
+       "ans": "Any matching story, e.g. 5 boxes of 12 apples, 6 bruised ones thrown away (1 mark); value 54 (1 mark)."
+      },
+      {
+       "q": "Give two ways of making 14 in the form a × (b + c).",
+       "ans": "Any two: 2 × (5 + 2), 2 × (3 + 4), 7 × (1 + 1), 2 × (6 + 1) (1 mark each)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Fill in: (a) 3 × (5 + 8) = 3 × 5 ☐ 3 × __ (b) (15 − __) × 7 = __ ☐ 6 × 7 (c) (__ − __) × __ = 17 × 7 − 9 × 7.",
+       "ans": "(a) + , 8 (1). (b) 6, 15 × 7, − (1). (c) (17 − 9) × 7 (1)."
+      },
+      {
+       "q": "Mallesh wrote 30 + 5 × 4 for 30 marbles and 5 bags of 4. Purna got 140, Mallesh 50. Who is right? Explain using terms and show how brackets help.",
+       "ans": "Mallesh (1). Terms are 30 and 5 × 4, so evaluate 5 × 4 = 20 first, then 30 + 20 = 50; Purna wrongly added first (1). Brackets 30 + (5 × 4) make the order clear (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Expression Engineer: (a) Using four 4s, make 1, 2, 3, 5 and 10. (b) Using the digits 0–9 exactly once, make 100. (c) Using three 3s, make 2 and 12.",
+       "ans": "(a) 44 ÷ 44 = 1; 4 ÷ 4 + 4 ÷ 4 = 2; (4 + 4 + 4) ÷ 4 = 3; (4 × 4 + 4) ÷ 4 = 5; (44 − 4) ÷ 4 = 10 (2½ marks). (b) 0 + 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 × 9 = 100 (1½ marks). (c) (3 + 3) ÷ 3 = 2; 3 × 3 + 3 = 12 (1 mark)."
+      },
+      {
+       "q": "Tinker the Terms: Given 53 + (−16) = 37, find with minimum computation (a) 54 + (−16) (b) 53 + (−15) (c) 52 + (−16) (d) 53 + (−17), and (e) state the rule.",
+       "ans": "(a) 38 (1). (b) 38, since −15 is 1 more than −16 (1). (c) 36 (1). (d) 36 (1). (e) If a term increases/decreases by some amount, the value increases/decreases by the same amount (1)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

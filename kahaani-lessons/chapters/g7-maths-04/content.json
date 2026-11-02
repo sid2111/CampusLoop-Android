@@ -1,0 +1,111 @@
+{ "grade": 7, "chapter": 4, "n": 4, "title": "Expressions using Letter-Numbers", "book": "Ganita Prakash (Grade 7) Part I",
+ "quiz": [
+  {"q":"Shabnam is 3 years older than Aftab. If Aftab's age is a, Shabnam's age is:","o":["a + 3","a − 3","3a","3 − a"],"a":0,"why":"3 years older means 3 more than a."},
+  {"q":"What is the value of 5m + 3 when m = 2?","o":["55","10","13","28"],"a":2,"why":"5 × 2 + 3 = 13."},
+  {"q":"If d = 6, then 3d equals:","o":["36","9","63","18"],"a":3,"why":"3d means 3 × d = 18."},
+  {"q":"The simplest form of 5c + 3c + 10c is:","o":["18c","150c","18 + c","18c³"],"a":0,"why":"Like terms add: (5 + 3 + 10)c."},
+  {"q":"(40x + 75y) − (6x + 10y) simplifies to:","o":["46x + 85y","34x + 65y","34x + 85y","46x + 65y"],"a":1,"why":"Open the bracket: 40x − 6x and 75y − 10y."},
+  {"q":"Which pair of expressions are equal for every value of the letter?","o":["5u and 5 + u","10y − 3 and 10(y − 3)","l + b + l + b and 2l + 2b","2n and n + 2"],"a":2,"why":"l + l + b + b = 2l + 2b by swapping and grouping."},
+  {"q":"Matchstick triangles in a row need 3, 5, 7, 9, … sticks. Step y needs:","o":["3y","2y + 1","y + 2","2y − 1"],"a":1,"why":"3 + 2(y − 1) = 2y + 1."},
+  {"q":"In a 2 × 2 calendar square with top-left number a, each diagonal sum is:","o":["2a + 7","2a + 1","4a + 16","2a + 8"],"a":3,"why":"a + (a + 8) = (a + 1) + (a + 7) = 2a + 8."},
+  {"q":"Designs A, B, C repeat along a border. Which design is at position 122?","o":["A","C","B","Cannot tell"],"a":2,"why":"122 = 3 × 41 − 1, the position form of B (3n − 1)."},
+  {"q":"A flour mill takes 10 s to start and 8 s per kg. Time for y kg is:","o":["10 + 8 + y","(10 + 8) × y","10 × 8 × y","10 + 8y"],"a":3,"why":"10 s once, then 8 s for each of y kg."}
+ ],
+ "papers": [
+  {"title":"Sample Paper 1","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"'4 less than a number n' is written as:","o":["4 − n","n − 4","4n","n + 4"],"a":1,"ans":"Take 4 away from n: n − 4."},
+    {"q":"The value of 7k when k = 4 is:","o":["74","11","28","47"],"a":2,"ans":"7 × 4 = 28."},
+    {"q":"Which are like terms?","o":["3x, 3y","5p, −2p","2a, 2","ab, a"],"a":1,"ans":"5p and −2p have the same letter-number p."},
+    {"q":"Perimeter of a regular hexagon of side a is:","o":["6a","6 + a","a⁶","12a"],"a":0,"ans":"6 equal sides: 6a."},
+    {"q":"4(x + y) − y simplifies to:","o":["4x + 4y","4x + 3y","3x + 3y","4x − 3y"],"a":1,"ans":"4x + 4y − y = 4x + 3y."},
+    {"q":"If a = −4, the value of 10 − a is:","o":["6","−14","14","−6"],"a":2,"ans":"10 − (−4) = 14."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Ketaki buys coconuts at ₹35 each and jaggery at ₹60 per kg. Write an expression for c coconuts and j kg jaggery, and find the cost for 8 coconuts and 9 kg.","ans":"Expression 35c + 60j (1 mark). 8 × 35 + 9 × 60 = 280 + 540 = ₹820 (1 mark)."},
+    {"q":"Simplify 3a + 9b − 6 + 8a − 4b − 7a + 16.","ans":"a-terms: 3a + 8a − 7a = 4a; b-terms: 9b − 4b = 5b (1 mark). Numbers: −6 + 16 = 10, so 4a + 5b + 10 (1 mark)."},
+    {"q":"Is 3s − 2 = 15 when s = 7? If not, correct it.","ans":"3 × 7 − 2 = 21 − 2 = 19 (1 mark). So the statement is wrong; the value is 19 (1 mark)."},
+    {"q":"Write the nth term of 4, 8, 12, 16, … and find the 29th term.","ans":"nth term = 4n (1 mark). 29th term = 4 × 29 = 116 (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Charu's quiz scores are 7p − 3q, 8p − 4q and 6p − 2q. Find her total and its value when p = 4, q = 1.","ans":"Total = (7 + 8 + 6)p − (3 + 4 + 2)q (1 mark) = 21p − 9q (1 mark). Value = 84 − 9 = 75 (1 mark)."},
+    {"q":"A rectangle ABCD has AB = 12 and height n. Rectangle EBCF of width 4 is removed. Find the area of AEFD in two ways.","ans":"Way 1: AE = 12 − 4 = 8, area = 8n (1 mark). Way 2: 12n − 4n (1 mark) = 8n, same (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"In a calendar, a 2 × 2 square with top-left number a is chosen. (a) Write the other three numbers. (b) Show the diagonal sums are always equal. (c) Verify for the square 12, 13, 19, 20.","ans":"(a) a + 1, a + 7, a + 8 (2 marks). (b) a + (a + 8) = 2a + 8; (a + 1) + (a + 7) = 2a + 8, equal for every a (2 marks). (c) 12 + 20 = 32 = 13 + 19, and 2 × 12 + 8 = 32 (1 mark)."},
+    {"q":"Matchstick triangles in a row: Step 1 uses 3 sticks, Step 2 uses 5, Step 3 uses 7. (a) Write the expression for Step y. (b) Simplify 3 + 2(y − 1). (c) Find the sticks for Steps 33 and 84.","ans":"(a) 3 + 2 × (y − 1), since each step adds 2 (2 marks). (b) 3 + 2y − 2 = 2y + 1 (1 mark). (c) Step 33: 67; Step 84: 169 (2 marks)."}]}]},
+  {"title":"Sample Paper 2","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"'2 less than 13 times a number d' is:","o":["2 − 13d","13 − 2d","13d − 2","2d − 13"],"a":2,"ans":"13 times d is 13d; 2 less gives 13d − 2."},
+    {"q":"Munirathna joins a k m pipe to his 20 m pipe. The total length is:","o":["20 + k","20k","20 − k","k − 20"],"a":0,"ans":"Lengths add: 20 + k."},
+    {"q":"p + q − (p + q) simplifies to:","o":["2p + 2q","2q","0","2p"],"a":2,"ans":"p + q − p − q = 0."},
+    {"q":"The simplest form of 6(p + 2) is:","o":["6p + 2","6p + 8","6p + 12","p + 12"],"a":2,"ans":"Multiply both terms by 6."},
+    {"q":"In a 4-column grid (1 2 3 4 / 5 6 7 8 / …), the number in row r, column c is:","o":["4r + c","4(r − 1) + c","r + 4c","4c − r"],"a":1,"ans":"Each row starts 4 after the previous: 4(r − 1) + c."},
+    {"q":"Traffic lights go red, yellow, green, yellow, … Position 343 shows:","o":["Red","Yellow","Green","Cannot tell"],"a":2,"ans":"343 = 4 × 86 − 1, the green positions 4n − 1."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Add 4d − 7c + 9 and 8c − 11 + 9d.","ans":"Group: (4d + 9d) + (−7c + 8c) + (9 − 11) (1 mark) = 13d + c − 2 (1 mark)."},
+    {"q":"Krithika has 8 notes of ₹100, 4 of ₹20 and z of ₹5. Write the total as an expression.","ans":"8 × 100 + 4 × 20 + z × 5 (1 mark) = 880 + 5z rupees (1 mark)."},
+    {"q":"Find the formula of a machine: (5, 2) → 5, (8, 1) → 7, (9, 11) → 18.","ans":"Outputs are 2 less than the sum of inputs (1 mark): a + b − 2; check 9 + 11 − 2 = 18 (1 mark)."},
+    {"q":"Are 5u and 5 + u equal? Check with u = 2 and u = 8.","ans":"u = 2: 10 and 7; u = 8: 40 and 13 (1 mark). Values differ, so they are not equal (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Subtract 9a − 6b + 14 from 6a + 9b − 18.","ans":"(6a + 9b − 18) − (9a − 6b + 14) = 6a + 9b − 18 − 9a + 6b − 14 (1 mark). a: −3a; b: 15b (1 mark). Constant −32: −3a + 15b − 32 (1 mark)."},
+    {"q":"A shop rents chairs at ₹40 and tables at ₹75, and returns ₹6 per chair and ₹10 per table. Write and simplify the net amount for x chairs and y tables.","ans":"Paid 40x + 75y, returned 6x + 10y (1 mark). Net = (40x + 75y) − (6x + 10y) (1 mark) = 34x + 65y (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"Somjit's saree border repeats designs A, B, C. (a) Give the positions of the nth A, B and C. (b) Which designs are at positions 99, 122 and 148? Explain using remainders.","ans":"(a) C: 3n, B: 3n − 1, A: 3n − 2 (2 marks). (b) 99 ÷ 3 remainder 0 → C; 122 ÷ 3 remainder 2 → B; 148 ÷ 3 remainder 1 → A (3 marks)."},
+    {"q":"A local train from Yahapur to Vahapur stops at 3 equally spaced stations on the way; each stretch takes t minutes and each stop 2 minutes. (a) Draw a rough diagram. (b) Write the expression for the total time. (c) Find it for t = 4 and t = 6.","ans":"(a) Y — S1 — S2 — S3 — V: 4 stretches, 3 stops (1 mark). (b) 4t + 3 × 2 = 4t + 6 (2 marks). (c) t = 4: 22 min; t = 6: 30 min (2 marks)."}]}]},
+  {"title":"Sample Paper 3","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"Parthiv's L uses 2 matchsticks. n Ls use:","o":["n + 2","2n","n²","2 + n + 2"],"a":1,"ans":"2 matchsticks for each of n Ls: 2 × n."},
+    {"q":"The value of 2t + b when t = 4, b = 3 is:","o":["24","11","14","9"],"a":1,"ans":"8 + 3 = 11."},
+    {"q":"2d − d − d − c simplifies to:","o":["−c","c","2d − c","−d − c"],"a":0,"ans":"2d − d − d = 0, leaving −c."},
+    {"q":"A rope folded r times and cut once in the middle gives:","o":["r pieces","2r pieces","r + 1 pieces","r + 2 pieces"],"a":3,"ans":"0 folds → 2, 1 fold → 3: r + 2."},
+    {"q":"Which is in simplest form?","o":["3(j + 2k)","5y + 2y","8r + 12s + 20","x + x"],"a":2,"ans":"No brackets and no like terms left."},
+    {"q":"One plate of jowar roti costs ₹30 and pulao ₹20. For x and y plates the total is:","o":["30x + 20y","20x + 30y","50(x + y)","30x − 20y"],"a":0,"ans":"Each price times its own number of plates."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Simplify 2(2x − 3) + 8x + 12.","ans":"4x − 6 + 8x + 12 (1 mark) = 12x + 6 (1 mark)."},
+    {"q":"Pushpita gives a flag to every customer: p bought only champak, q only marigold, r both. How many flags? Why is p + q + 2r wrong?","ans":"p + q + r flags (1 mark). Customers who bought both are still one person each, so r is counted once (1 mark)."},
+    {"q":"Machine 3 gives (4, 1) → 5, (6, 0) → 1, (3, 2) → 7. Find its formula and the output for (10, 3).","ans":"ab + 1 (1 mark). 10 × 3 + 1 = 31 (1 mark)."},
+    {"q":"Write the dates in a 2 × 3 calendar block whose bottom-middle date is w.","ans":"Bottom row: w − 1, w, w + 1 (1 mark). Top row: w − 8, w − 7, w − 6 (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Find the sum of the plus shape 8; 14, 15, 16; 22 and show that for centre a the sum is always 5a.","ans":"8 + 14 + 15 + 16 + 22 = 75 = 5 × 15 (1 mark). Numbers: a − 7, a − 1, a, a + 1, a + 7 (1 mark). Sum = 5a since −7 + 7 and −1 + 1 cancel (1 mark)."},
+    {"q":"Radha cycles 5 km a day in week 1 and increases her daily distance by z km each week. Find the total distance in 3 weeks.","ans":"Week 1: 7 × 5 = 35; week 2: 7(5 + z) = 35 + 7z (1 mark). Week 3: 7(5 + 2z) = 35 + 14z (1 mark). Total 105 + 21z km (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"Mind the Mistake: correct each and give the simplest form: (a) 5 − (2 − 6z) = 3 − 6z (b) 2 + (x + 3) = 2x − 6 (c) 7p − p + 5q − 2q = 7p + 3q (d) 5(2w + 3x + 4w) = 10w + 15x + 20w (e) 4(2r + 3s + 5) = −20 − 8r − 12s.","ans":"(a) 3 + 6z: the minus flips −6z (1 mark). (b) x + 5 (1 mark). (c) 6p + 3q: 7p − p = 6p (1 mark). (d) 30w + 15x: like terms combined (1 mark). (e) 8r + 12s + 20: no minus signs appear (1 mark)."},
+    {"q":"Matchstick squares in a row: 1 square needs 4 sticks, 2 squares 7, 3 squares 10. (a) Find sticks for 10 squares. (b) Write an expression for w squares and simplify. (c) How many squares can be made with 61 sticks?","ans":"(a) 4 + 3 × 9 = 31 (2 marks). (b) 4 + 3(w − 1) = 3w + 1 (2 marks). (c) 3w + 1 = 61 → w = 20 squares (1 mark)."}]}]},
+  {"title":"Sample Paper 4","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"'13 less than 2 times a number y' is:","o":["13 − 2y","2y − 13","2(y − 13)","2 − 13y"],"a":1,"ans":"2 times y, then subtract 13."},
+    {"q":"If j = 5, then 2j equals:","o":["25","7","52","10"],"a":3,"ans":"2 × 5 = 10."},
+    {"q":"(4x + 3y) − (3x + 4y) simplifies to:","o":["x + y","x − y","7x + 7y","−x + y"],"a":1,"ans":"4x − 3x = x and 3y − 4y = −y."},
+    {"q":"The X pattern of squares at step n has:","o":["4n squares","4n + 1 squares","5n squares","n + 4 squares"],"a":1,"ans":"1 centre + 4 arms of n squares."},
+    {"q":"13m − 12n added to 12n − 13m gives:","o":["26m − 24n","0","26m","−24n"],"a":1,"ans":"Each term cancels its opposite."},
+    {"q":"10y − 3 and 10(y − 3) at y = 0 are:","o":["−3 and −30","−3 and −3","7 and −30","0 and 0"],"a":0,"ans":"0 − 3 = −3; 10 × (−3) = −30."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Simplify 8h − (5 + 7h) + 9.","ans":"8h − 5 − 7h + 9 (1 mark) = h + 4 (1 mark)."},
+    {"q":"A snail climbs u cm by day and slips d cm by night for 10 days and nights. Write its distance from the start. What if d > u?","ans":"10(u − d) cm (1 mark). If d > u it ends below its starting point (1 mark)."},
+    {"q":"Find the value of h − (3 − n) when h = 5, n = 6.","ans":"3 − 6 = −3 (1 mark); 5 − (−3) = 8 (1 mark)."},
+    {"q":"Describe a situation for 8x + 3y.","ans":"Mangoes cost ₹8 and bananas ₹3 each (1 mark); x mangoes and y bananas cost 8x + 3y rupees (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"Simplify 23 + 4(6m − 3n) − 8n − 3m − 18.","ans":"23 + 24m − 12n − 8n − 3m − 18 (1 mark). m: 21m; n: −20n (1 mark). Constant 5: 21m − 20n + 5 (1 mark)."},
+    {"q":"Krishita scored 23p − 7q and Charu 21p − 9q. Who scored more and by how much? Explain.","ans":"23p − 7q − (21p − 9q) = 23p − 7q − 21p + 9q (1 mark) = 2p + 2q (1 mark). As p, q are positive, Krishita scored more by 2p + 2q (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"Numbers are written in an endless 4-column grid. (a) Give expressions for the numbers in each column. (b) Find the row and column of 124, 147 and 201.","ans":"(a) Column 1: 4r − 3, column 2: 4r − 2, column 3: 4r − 1, column 4: 4r, i.e. 4(r − 1) + c (2 marks). (b) 124: row 31, column 4; 147: row 37, column 3; 201: row 51, column 1 (3 marks)."},
+    {"q":"From w + 2 the operations −5 then ×3, +3 then ×4, −8 then −4 are applied. (a) Find each end expression. (b) Find a pair of operations that gives 3w − 6.","ans":"(a) w − 3 → 3w − 9 (1 mark); w + 5 → 4w + 20 (1 mark); w − 6 → w − 10 (1 mark). (b) ×3 gives 3w + 6, then −12 gives 3w − 6 (2 marks)."}]}]},
+  {"title":"Sample Paper 5","marks":30,"minutes":40,"sections":[
+   {"name":"Section A — Multiple choice","each":1,"qs":[
+    {"q":"The perimeter of a rectangle in simplified form is:","o":["l + b","2l + 2b","lb","4l"],"a":1,"ans":"l + b + l + b = 2l + 2b."},
+    {"q":"If f = 3, g = 1, then 2f − 2g is:","o":["2","8","4","6"],"a":2,"ans":"6 − 2 = 4."},
+    {"q":"−6f + 19 − 8s added to −23 + 13f + 12s gives:","o":["7f + 4s − 4","−19f − 20s + 42","7f − 4s + 4","19f + 4s − 4"],"a":0,"ans":"f: 7f; s: 4s; constants 19 − 23 = −4."},
+    {"q":"The area of a rectangle v by (4 + 3) is:","o":["4v + 3","7 + v","7v","12v"],"a":2,"ans":"4v + 3v = 7v."},
+    {"q":"Matchstick triangles: Step 108 needs:","o":["216","217","219","324"],"a":1,"ans":"2 × 108 + 1 = 217."},
+    {"q":"Which statement is true?","o":["3a + 2b = 5ab","2y + 3y = 5y","5u = 5 + u","3d means 3 + d"],"a":1,"ans":"2y and 3y are like terms: 5y."}]},
+   {"name":"Section B — Very short answer","each":2,"qs":[
+    {"q":"Venkatalakshmi's mill takes 10 s to start and 8 s per kg. Write the time for y kg and find it for 5 kg.","ans":"10 + 8y seconds (1 mark). 10 + 40 = 50 seconds (1 mark)."},
+    {"q":"Subtract 8g + 4h − 10 from 7h − 8g + 20.","ans":"7h − 8g + 20 − 8g − 4h + 10 (1 mark) = −16g + 3h + 30 (1 mark)."},
+    {"q":"Find the values of 23 − 10 × 2 and 68 − (18 + 13).","ans":"23 + (−20) = 3 (1 mark). 68 − 31 = 37 (1 mark)."},
+    {"q":"In the X pattern of squares, how many squares at Step 10, and how many vertices if each square has 4?","ans":"4 × 10 + 1 = 41 squares (1 mark). 4 × 41 = 164 = 16 × 10 + 4 vertices (1 mark)."}]},
+   {"name":"Section C — Short answer","each":3,"qs":[
+    {"q":"A shop sold pencils (price c) on 3 days: 5, 3, 10, and erasers (price d): 4, 6, 1. Write the total earnings in simplest form and find it for c = ₹50, d = ₹5.","ans":"5c + 3c + 10c + 4d + 6d + d (1 mark) = 18c + 11d (1 mark). 900 + 55 = ₹955 (1 mark)."},
+    {"q":"Add the numbers in the grid: 5y, −6, x (top row) and x, 2, 5y (bottom row) in two ways.","ans":"Like terms: 10y + 2x − 4 (1 mark). Row-wise: (5y − 6 + x) + (x + 2 + 5y) (1 mark) = 10y + 2x − 4, the same (1 mark)."}]},
+   {"name":"Section D — Long answer / case based","each":5,"qs":[
+    {"q":"A traffic signal shows red, yellow, green, yellow, red, … (a) Write expressions for the positions of each colour. (b) Find the colour at positions 90, 190, 343. (c) Will position 1000 be red?","ans":"(a) Red 4n − 3, yellow 2n, green 4n − 1 (2 marks). (b) 90 yellow, 190 yellow, 343 green (2 marks). (c) 1000 is even, so yellow, not red (1 mark)."},
+    {"q":"Matchstick triangles: horizontal sticks are 1, 2, 3, … and slanting sticks 2, 3, 4, … (a) Write each for step y. (b) Show they add to 2y + 1. (c) Show 3 + 2(y − 1) is the same expression.","ans":"(a) Horizontal y, slanting y + 1 (2 marks). (b) y + y + 1 = 2y + 1 (1 mark). (c) 3 + 2y − 2 = 2y + 1 (2 marks)."}]}]}
+ ]
+}

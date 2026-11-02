@@ -1,0 +1,111 @@
+{ "grade": 7, "chapter": 7, "n": 7, "title": "A Tale of Three Intersecting Lines", "book": "Ganita Prakash (Grade 7) Part I",
+  "quiz": [
+    {"q":"Which set of lengths can be the sides of a triangle?","o":["2, 3, 6","3, 4, 6","1, 1, 5","4, 4, 8"],"a":1,"why":"6 < 3 + 4 = 7; the others fail since the longest is ≥ the sum of the other two."},
+    {"q":"Two angles of a triangle are 50° and 70°. The third angle is:","o":["50°","70°","60°","120°"],"a":2,"why":"180° − (50° + 70°) = 60°."},
+    {"q":"While constructing a triangle with sides 4 cm, 5 cm, 6 cm on base AB = 4 cm, the arcs from A and B have radii:","o":["4 cm and 4 cm","4 cm and 6 cm","5 cm and 5 cm","5 cm and 6 cm"],"a":3,"why":"C must be 5 cm from A and 6 cm from B."},
+    {"q":"In ∆ABC, ∠A = 50° and ∠B = 60°. The exterior angle ∠ACD (BC extended to D) is:","o":["110°","70°","120°","130°"],"a":0,"why":"Exterior angle = sum of the two opposite interior angles = 50° + 60°."},
+    {"q":"Which pair can be two angles of a triangle?","o":["35°, 150°","50°, 150°","90°, 90°","90°, 85°"],"a":3,"why":"Only 90° + 85° = 175° is less than 180°."},
+    {"q":"A triangle with ∠B = ∠C and ∠A = 50° has ∠B equal to:","o":["50°","65°","130°","75°"],"a":1,"why":"∠B + ∠C = 130°, so each is 65°."},
+    {"q":"An acute-angled triangle is a triangle in which:","o":["one angle is acute","two angles are acute","all three angles are acute","no angle is acute"],"a":2,"why":"Every triangle has at least two acute angles, so all three must be acute."},
+    {"q":"With base AB = 8 cm, circles of radii 3 cm (about A) and 5 cm (about B) will:","o":["touch at one point on AB","cross at two points","not meet at all","coincide"],"a":0,"why":"3 + 5 = 8 = AB, so the circles just touch."},
+    {"q":"If ∠A = 40°, the smallest ∠B (at the other end of AB) for which no triangle forms is:","o":["50°","90°","100°","140°"],"a":3,"why":"The arm from B is then parallel to the arm from A: 180° − 40° = 140°."},
+    {"q":"An altitude of a triangle is:","o":["the perpendicular segment from a vertex to the opposite side (or its extension)","the longest side","the segment joining a vertex to the midpoint of the opposite side","the line through a vertex parallel to the opposite side"],"a":0,"why":"Definition of altitude (height of the vertex from the opposite side)."}
+  ],
+  "papers": [
+    {"title":"Sample Paper 1","marks":30,"minutes":40,"sections":[
+      {"name":"Section A — Multiple choice","each":1,"qs":[
+        {"q":"Which of these can be the sidelengths of a triangle?","o":["10, 20, 35","2, 2, 5","24, 26, 28","3, 6, 9"],"a":2,"ans":"28 < 24 + 26 = 50, so 24, 26, 28 satisfies the triangle inequality."},
+        {"q":"The sum of the angles of a triangle is:","o":["90°","180°","270°","360°"],"a":1,"ans":"Angle sum property: 180°."},
+        {"q":"A triangle with two equal sides is called:","o":["scalene","equilateral","isosceles","right-angled"],"a":2,"ans":"Isosceles triangles have two equal sides."},
+        {"q":"The third angle of a triangle with angles 90° and 30° is:","o":["60°","30°","90°","120°"],"a":0,"ans":"180° − 120° = 60°."},
+        {"q":"Which is another name for ∆PQR?","o":["∆PQS","∆QRP","∆PRT","∆SQR"],"a":1,"ans":"Vertices may be written in any order: ∆QRP."},
+        {"q":"In a triangle with angles 120°, 30°, 30° the triangle is:","o":["acute-angled","right-angled","obtuse-angled","equilateral"],"a":2,"ans":"One angle (120°) is obtuse."}]},
+      {"name":"Section B — Very short answer","each":2,"qs":[
+        {"q":"Check whether a triangle exists with sides 5 cm, 10 cm, 12 cm.","ans":"Longest = 12; 5 + 10 = 15 (1 mark). 12 < 15, so the triangle inequality holds and the triangle exists (1 mark)."},
+        {"q":"Find the third angle of a triangle whose two angles are 36° and 72°.","ans":"Third angle = 180° − (36° + 72°) (1 mark) = 180° − 108° = 72° (1 mark)."},
+        {"q":"Can a triangle have all three angles equal to 70°? Give a reason.","ans":"70° + 70° + 70° = 210° (1 mark). The sum must be 180°, so no such triangle exists (1 mark)."},
+        {"q":"Give two possible values of the third side of a triangle whose other two sides are 3 cm and 7 cm.","ans":"Third side must be between 7 − 3 = 4 and 7 + 3 = 10 (1 mark). e.g. 5 cm and 8 cm (1 mark)."}]},
+      {"name":"Section C — Short answer","each":3,"qs":[
+        {"q":"Write the steps to construct ∆ABC with AB = 4 cm, AC = 5 cm and BC = 6 cm.","ans":"Step 1: draw AB = 4 cm (1 mark). Step 2: with centre A and radius 5 cm draw an arc; with centre B and radius 6 cm draw an arc cutting it (1 mark). Step 3: mark the crossing point C and join AC and BC (1 mark)."},
+        {"q":"In ∆ABC, ∠A = 50° and ∠B = 60°. BC is extended to D. Find ∠ACB and ∠ACD.","ans":"∠ACB = 180° − (50° + 60°) = 70° (1½ marks). ∠ACD = 180° − 70° = 110° (= 50° + 60°) since ∠ACB and ∠ACD form a straight angle (1½ marks)."}]},
+      {"name":"Section D — Long answer / case based","each":5,"qs":[
+        {"q":"Prove that the sum of the angles of any triangle is 180°, using a line through a vertex parallel to the opposite side.","ans":"Draw ∆ABC and the line XY through A parallel to BC (1 mark). AB is a transversal, so ∠XAB = ∠B (alternate angles) (1 mark). AC is a transversal, so ∠YAC = ∠C (1 mark). ∠XAB, ∠BAC and ∠YAC together form the straight angle XAY = 180° (1 mark). Hence ∠B + ∠A + ∠C = 180° (1 mark)."},
+        {"q":"Case study: A tent maker has bamboo poles of 4 m, 5 m and 8 m. (a) Do they satisfy the triangle inequality? (b) Taking 8 m as base, circles of radii 4 m and 5 m are drawn about its ends. Find BX where X is the point where the 4 m circle cuts the base. (c) Explain why the circles meet and the tent frame can be made.","ans":"(a) 8 < 4 + 5 = 9; 4 and 5 are smaller than 8 so the other comparisons hold. Yes (2 marks). (b) BX = 8 − 4 = 4 m (1 mark). (c) The circle about B has radius 5 m > BX = 4 m, so it goes beyond X into the circle about A; the circles cross at two points, giving the third vertex (2 marks)."}]}]},
+    {"title":"Sample Paper 2","marks":30,"minutes":40,"sections":[
+      {"name":"Section A — Multiple choice","each":1,"qs":[
+        {"q":"Lengths 10 km, 10 km, 25 km:","o":["form an isosceles triangle","form an equilateral triangle","do not form a triangle","form a right triangle"],"a":2,"ans":"10 + 10 = 20 < 25."},
+        {"q":"In a right-angled triangle, the other two angles are always:","o":["obtuse","acute","right angles","equal"],"a":1,"ans":"They add to 90°, so each is less than 90°."},
+        {"q":"Two angles 75° and 45°; the third angle is:","o":["50°","70°","60°","80°"],"a":2,"ans":"180° − 120° = 60°."},
+        {"q":"How many altitudes does a triangle have?","o":["1","2","3","4"],"a":2,"ans":"One from each vertex."},
+        {"q":"Which pair of angles cannot be two angles of a triangle?","o":["70°, 30°","90°, 85°","50°, 150°","20°, 30°"],"a":2,"ans":"50° + 150° = 200° ≥ 180°."},
+        {"q":"In a triangle with all sides 50 cm, each angle is:","o":["60°","50°","90°","45°"],"a":0,"ans":"Equilateral triangle: 180° ÷ 3 = 60°."}]},
+      {"name":"Section B — Very short answer","each":2,"qs":[
+        {"q":"Does a triangle exist with sides 1, 100, 100? Justify.","ans":"Longest = 100; 1 + 100 = 101 (1 mark). 100 < 101 so yes, it exists (1 mark)."},
+        {"q":"∠B = ∠C and ∠A = 50° in ∆ABC. Find ∠B.","ans":"∠B + ∠C = 180° − 50° = 130° (1 mark); ∠B = 130° ÷ 2 = 65° (1 mark)."},
+        {"q":"What happens when the three vertices of a 'triangle' lie on a straight line?","ans":"The three sides lie along one line and enclose no region (1 mark), so no triangle is formed (1 mark)."},
+        {"q":"Define the triangle inequality and give one set of lengths that satisfies it.","ans":"Each length is smaller than the sum of the other two (1 mark). Example: 3, 4, 5 since 5 < 3 + 4 (1 mark)."}]},
+      {"name":"Section C — Short answer","each":3,"qs":[
+        {"q":"Write the steps to construct ∆ABC with AB = 5 cm, ∠A = 45° and ∠B = 80°. What is ∠C?","ans":"Draw AB = 5 cm (1 mark). With a protractor draw 45° at A and 80° at B; the arms meet at C (1 mark). ∠C = 180° − 125° = 55° (1 mark)."},
+        {"q":"Using circles, explain why 3 cm, 4 cm, 8 cm cannot form a triangle.","ans":"Take base AB = 8 cm, circles of radii 3 cm about A and 4 cm about B (1 mark). Along AB they cover only 3 + 4 = 7 cm, leaving a 1 cm gap (1 mark). The circles do not meet, so there is no third vertex and no triangle (1 mark)."}]},
+      {"name":"Section D — Long answer / case based","each":5,"qs":[
+        {"q":"Base AB is the longest of three lengths and the circles about A and B have the two smaller lengths as radii. Describe the three possible cases, the relation in each, and which case gives a triangle. Give one example of each.","ans":"Case 1: circles touch: sum of radii = AB, e.g. 3, 5, 8 (1½ marks). Case 2: circles do not meet: sum of radii < AB, e.g. 2, 5, 8 (1½ marks). Case 3: circles cross: sum of radii > AB, since AB is one radius plus part of the other, e.g. 4, 5, 8 (1½ marks). Only Case 3 forms a triangle (½ mark)."},
+        {"q":"(a) ∠A = 40° at one end of base AB. Explain why the arm from B does not meet the arm from A when ∠B = 140°. (b) State the rule for two angles to form a triangle. (c) Does the length AB matter?","ans":"(a) If ∠B = 140°, the interior angles on the same side of transversal AB add to 40° + 140° = 180°, so the arms are parallel and never meet (2 marks). (b) A triangle exists exactly when the sum of the two angles is less than 180° (2 marks). (c) No; changing AB does not change whether the arms meet (1 mark)."}]}]},
+    {"title":"Sample Paper 3","marks":30,"minutes":40,"sections":[
+      {"name":"Section A — Multiple choice","each":1,"qs":[
+        {"q":"For lengths 4, 5, 8, how many comparisons must actually be checked?","o":["only the longest: 8 < 4 + 5","none","two","three, always"],"a":0,"ans":"The two smaller lengths automatically pass."},
+        {"q":"An exterior angle of a triangle equals:","o":["the adjacent interior angle","the sum of the two opposite interior angles","180°","90°"],"a":1,"ans":"∠ACD = ∠A + ∠B."},
+        {"q":"A triangle with sides 3 cm, 4 cm, 5 cm is:","o":["equilateral","isosceles","scalene","not possible"],"a":2,"ans":"All sides different."},
+        {"q":"Which instrument is used with a ruler to draw an accurate altitude?","o":["compass","protractor only","divider","set square"],"a":3,"ans":"The set square gives an exact 90°."},
+        {"q":"If two angles of a triangle are 150° and 15°, the third is:","o":["15°","25°","35°","5°"],"a":0,"ans":"180° − 165° = 15°."},
+        {"q":"In which triangle is one side itself an altitude?","o":["acute-angled","right-angled","obtuse-angled","equilateral"],"a":1,"ans":"The two sides at the right angle are perpendicular."}]},
+      {"name":"Section B — Very short answer","each":2,"qs":[
+        {"q":"Lengths 5 mm, 10 mm, 20 mm: can they form a triangle?","ans":"5 + 10 = 15 mm (1 mark); 20 > 15, so no triangle (1 mark)."},
+        {"q":"Find the third angle when two angles are 60° and 70°. Does it change if the included side is 7 cm instead of 5 cm?","ans":"180° − 130° = 50° (1 mark). No, the third angle does not depend on the included side (1 mark)."},
+        {"q":"Is there an equilateral triangle for every sidelength? Why?","ans":"Yes (1 mark); for any length s, s < s + s = 2s, so the triangle inequality always holds (1 mark)."},
+        {"q":"Why is the crease formed by folding a paper triangle (base folded onto itself through the top vertex) perpendicular to the base?","ans":"The fold makes the two angles at the crease equal (1 mark); together they form 180°, so each is 90° (1 mark)."}]},
+      {"name":"Section C — Short answer","each":3,"qs":[
+        {"q":"Explain, using direct and roundabout paths, why no triangle has sides 10 cm, 15 cm, 30 cm.","ans":"In a triangle the direct path between two vertices is shorter than the path via the third vertex (1 mark). For the 30 cm side, the roundabout path is 10 + 15 = 25 cm (1 mark). 30 > 25 is absurd, so the triangle cannot exist (1 mark)."},
+        {"q":"Find all possible third sides x of a triangle with sides 5 cm and 5 cm, and give three values.","ans":"x < 5 + 5 = 10 (1 mark); 5 < 5 + x is always true, so 0 < x < 10 (1 mark). e.g. 1 cm, 4.9 cm, 9 cm (1 mark)."}]},
+      {"name":"Section D — Long answer / case based","each":5,"qs":[
+        {"q":"Construct ∆ABC with AB = 5 cm, AC = 4 cm, ∠A = 45° (write steps). Then state when a triangle with two sides and the included angle is impossible.","ans":"Step 1: draw AB = 5 cm (1 mark). Step 2: at A make ∠A = 45° with a protractor (1 mark). Step 3: mark C on the arm with AC = 4 cm (1 mark). Step 4: join BC (1 mark). Impossible only if the 'included angle' is 180° or more, as then C, A, B are on one line or beyond (1 mark)."},
+        {"q":"Case study: Hetal checks triangles (a) 2, 2, 5 (b) 3, 4, 6 (c) 5, 5, 8 (d) 10, 20, 35 (e) 24, 26, 28. Classify each as possible or not, and for each possible one say whether it is scalene or isosceles.","ans":"(a) 2 + 2 = 4 < 5: not possible (1 mark). (b) 3 + 4 = 7 > 6: possible, scalene (1 mark). (c) 5 + 5 = 10 > 8: possible, isosceles (1 mark). (d) 10 + 20 = 30 < 35: not possible (1 mark). (e) 24 + 26 = 50 > 28: possible, scalene (1 mark)."}]}]},
+    {"title":"Sample Paper 4","marks":30,"minutes":40,"sections":[
+      {"name":"Section A — Multiple choice","each":1,"qs":[
+        {"q":"Lengths 3, 6, 9 give:","o":["a scalene triangle","circles that only touch: no triangle","an obtuse triangle","an isosceles triangle"],"a":1,"ans":"3 + 6 = 9 exactly."},
+        {"q":"If all three angles of a triangle are equal, each is:","o":["45°","90°","30°","60°"],"a":3,"ans":"180° ÷ 3."},
+        {"q":"For an angle of 70°, which other angle does NOT allow a triangle?","o":["60°","80°","120°","100°"],"a":2,"ans":"70° + 120° = 190° ≥ 180°."},
+        {"q":"∠ABC is written in short as:","o":["∠B","∠A","∠C","∠AC"],"a":0,"ans":"The middle letter is the vertex."},
+        {"q":"In ∆ABC, a line XY through A is parallel to BC. ∠XAB equals:","o":["∠A","∠B","∠C","90°"],"a":1,"ans":"Alternate angles with transversal AB."},
+        {"q":"How many triangles ABC exist with ∠B = 90° and AC = 5 cm?","o":["one","two","none","infinitely many"],"a":3,"ans":"∠A can be any angle between 0° and 90°."}]},
+      {"name":"Section B — Very short answer","each":2,"qs":[
+        {"q":"Lengths 12 cm, 20 cm, 40 cm: triangle or not?","ans":"12 + 20 = 32 cm (1 mark); 40 > 32 so no triangle (1 mark)."},
+        {"q":"Two angles of a triangle are 35° and 150°. Is this possible?","ans":"35° + 150° = 185° (1 mark), which is not less than 180°, so not possible (1 mark)."},
+        {"q":"Find ∠ACD (exterior) if ∠A = 40° and ∠B = 75°.","ans":"∠ACD = ∠A + ∠B (1 mark) = 115° (1 mark)."},
+        {"q":"In two equal circles centred A and B (each passing through the other's centre), why is ∆ABC equilateral when C is a crossing point?","ans":"AC and AB are radii of the circle about A; BC and BA are radii of the circle about B (1 mark). All radii are equal, so AB = BC = CA (1 mark)."}]},
+      {"name":"Section C — Short answer","each":3,"qs":[
+        {"q":"For angle 54°, find two angles for which a triangle is possible and two for which it is not. State the rule used.","ans":"Rule: the sum must be less than 180°, so the other angle < 126° (1 mark). Possible: 64°, 90° (1 mark). Not possible: 134°, 154° (1 mark)."},
+        {"q":"Can an equilateral triangle be right-angled or obtuse-angled? Can an isosceles triangle be? Give examples.","ans":"Equilateral angles are all 60°, so it is neither right nor obtuse (1 mark). Isosceles right: 90°, 45°, 45° (1 mark). Isosceles obtuse: 120°, 30°, 30° (1 mark)."}]},
+      {"name":"Section D — Long answer / case based","each":5,"qs":[
+        {"q":"Construct ∆TRY with RY = 4 cm, TR = 7 cm, ∠R = 140° (write steps) and explain how to draw the altitude from T to RY.","ans":"Draw RY = 4 cm (1 mark). At R make 140° with a protractor (1 mark). Mark T on the arm with RT = 7 cm and join TY (1 mark). ∠R is obtuse, so the foot falls outside: extend YR beyond R (1 mark) and, using a ruler along the line and a set square, drop the perpendicular from T to the extended line (1 mark)."},
+        {"q":"A spider at one corner of a box (length 4 cm, width 3 cm, height 2 cm) wants the farthest opposite corner, walking on the faces. (a) How can you find the shortest path? (b) Which geometrical fact is used? (c) Find the length of the straight path across the front (4 × 2) and top (4 × 3) faces when unfolded.","ans":"(a) Unfold the two faces flat into one rectangle and join the corners by a straight line (2 marks). (b) The straight line is the shortest path between two points (any roundabout path is longer) (1 mark). (c) Unfolded rectangle is 4 cm by 2 + 3 = 5 cm; length = √(4² + 5²) = √41 ≈ 6.4 cm (2 marks)."}]}]},
+    {"title":"Sample Paper 5","marks":30,"minutes":40,"sections":[
+      {"name":"Section A — Multiple choice","each":1,"qs":[
+        {"q":"Which of these is a set of lengths where circles drawn on the longest base do NOT meet?","o":["4, 5, 8","1, 2, 5","5, 5, 8","3, 4, 6"],"a":1,"ans":"1 + 2 = 3 < 5."},
+        {"q":"In ∆ABC with ∠B = 50°, ∠C = 70°, ∠A is:","o":["60°","50°","70°","80°"],"a":0,"ans":"180° − 120°."},
+        {"q":"The book that contains the parallel-line proof of the angle sum property is:","o":["Lilavati","Aryabhatiya","The Elements by Euclid","Sulba Sutras"],"a":2,"ans":"Euclid's 'The Elements', around 300 BCE."},
+        {"q":"A triangle with angles 90°, 45°, 45° is:","o":["equilateral","obtuse-angled","acute-angled","right-angled and isosceles"],"a":3,"ans":"One right angle and two equal angles."},
+        {"q":"A possible third side for sides 1 and 100 is:","o":["100.5","99","101","1"],"a":0,"ans":"Must be strictly between 99 and 101."},
+        {"q":"When constructing with three sides, the third vertex lies on:","o":["the base","both arcs","the perpendicular bisector only","the protractor"],"a":1,"ans":"It must be at the given distances from both base ends."}]},
+      {"name":"Section B — Very short answer","each":2,"qs":[
+        {"q":"Lengths 1, 1, 5: triangle or not?","ans":"1 + 1 = 2 (1 mark); 5 > 2 so no triangle (1 mark)."},
+        {"q":"For 144°, give one angle that allows a triangle and one that does not.","ans":"Other angle must be < 36° (1 mark). e.g. 20° works, 90° does not (1 mark)."},
+        {"q":"Why can we not define an acute-angled triangle as 'a triangle with one acute angle'?","ans":"Every triangle, even right or obtuse, has at least two acute angles (1 mark). So an acute-angled triangle must have all three angles acute (1 mark)."},
+        {"q":"Find the third angle of a triangle with angles 90° and 30°, and name the triangle by angles.","ans":"180° − 120° = 60° (1 mark); right-angled triangle (1 mark)."}]},
+      {"name":"Section C — Short answer","each":3,"qs":[
+        {"q":"Construct an equilateral triangle of side 4 cm. Write the steps and explain why it is equilateral.","ans":"Draw AB = 4 cm; draw arcs of radius 4 cm from A and from B (1 mark). Join A and B to the crossing point C (1 mark). C lies on both arcs, so AC = BC = 4 cm = AB (1 mark)."},
+        {"q":"Show that an exterior angle of a triangle equals the sum of the two opposite interior angles.","ans":"∠A + ∠B + ∠ACB = 180° (angle sum) (1 mark). ∠ACD + ∠ACB = 180° (straight angle) (1 mark). Comparing, ∠ACD = ∠A + ∠B (1 mark)."}]},
+      {"name":"Section D — Long answer / case based","each":5,"qs":[
+        {"q":"(a) Give 3 sets of lengths for which the circles touch and 3 for which they do not meet. (b) Frame a complete procedure to check whether a triangle exists for three given lengths.","ans":"(a) Touch: 2, 3, 5; 4, 4, 8; 1, 6, 7 (1½ marks). Do not meet: 1, 2, 5; 3, 4, 10; 2, 2, 6 (1½ marks). (b) Find the longest length; add the other two; if the sum is greater than the longest, a triangle exists, otherwise (equal or smaller) it does not (2 marks)."},
+        {"q":"Case study: In a tent frame ∆ABC, ∠B = ∠C. (a) If ∠A = 50°, find ∠B. (b) If ∠A = 90°, find ∠B and classify the triangle by sides and angles. (c) Can ∠B = ∠C = 95°? Explain.","ans":"(a) ∠B = (180° − 50°) ÷ 2 = 65° (1½ marks). (b) ∠B = (180° − 90°) ÷ 2 = 45°; isosceles and right-angled (2 marks). (c) No: 95° + 95° = 190° > 180°, so the arms from B and C would never meet (1½ marks)."}]}]}
+  ]
+}
