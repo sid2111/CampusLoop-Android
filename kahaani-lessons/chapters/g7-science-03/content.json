@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 3,
+ "n": 3,
+ "title": "Electricity: Circuits and their Components",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "The metal cap of an electric cell is its:",
+   "o": [
+    "negative terminal",
+    "positive terminal",
+    "filament",
+    "insulator"
+   ],
+   "a": 1,
+   "why": "The protruding metal cap is the + terminal; the flat disc is −."
+  },
+  {
+   "q": "A battery is formed when cells are joined with:",
+   "o": [
+    "+ of one cell to − of the next",
+    "+ of one cell to + of the next",
+    "− of one cell to − of the next",
+    "no wires at all"
+   ],
+   "a": 0,
+   "why": "Cells in a battery are joined positive to negative."
+  },
+  {
+   "q": "The part of an incandescent lamp that glows is the:",
+   "o": [
+    "metal tip",
+    "glass bulb",
+    "filament",
+    "metal case"
+   ],
+   "a": 2,
+   "why": "The thin filament gets hot and glows."
+  },
+  {
+   "q": "The longer wire of an LED is its:",
+   "o": [
+    "negative terminal",
+    "filament",
+    "switch",
+    "positive terminal"
+   ],
+   "a": 3,
+   "why": "Longer leg = positive, shorter leg = negative."
+  },
+  {
+   "q": "When a switch is in the OFF position, the circuit is:",
+   "o": [
+    "open",
+    "closed",
+    "complete",
+    "a battery"
+   ],
+   "a": 0,
+   "why": "An air gap breaks the path, so the circuit is open."
+  },
+  {
+   "q": "The direction of electric current in a circuit is taken from:",
+   "o": [
+    "− to + terminal",
+    "+ to − terminal of the cell",
+    "the lamp to the switch",
+    "the switch to the lamp"
+   ],
+   "a": 1,
+   "why": "By convention current flows from + to − through the circuit."
+  },
+  {
+   "q": "Which of these is a conductor of electricity?",
+   "o": [
+    "Rubber eraser",
+    "Plastic scale",
+    "Aluminium foil",
+    "Wooden stick"
+   ],
+   "a": 2,
+   "why": "Aluminium is a metal; metals are conductors."
+  },
+  {
+   "q": "Electric wires are covered with plastic because plastic is:",
+   "o": [
+    "a good conductor",
+    "shiny",
+    "cheap metal",
+    "an insulator"
+   ],
+   "a": 3,
+   "why": "Plastic insulates and protects us from shocks."
+  },
+  {
+   "q": "In the circuit symbol of a cell, the long line stands for:",
+   "o": [
+    "the positive terminal",
+    "the negative terminal",
+    "the switch",
+    "the wire"
+   ],
+   "a": 0,
+   "why": "Long line = +, short line = −."
+  },
+  {
+   "q": "A lamp does not glow even when properly connected to a good cell. The most likely reason is:",
+   "o": [
+    "the cell is new",
+    "the filament is broken (fused lamp)",
+    "the wires are copper",
+    "the switch is ON"
+   ],
+   "a": 1,
+   "why": "A broken filament stops the current: the lamp has fused."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "An electric cell is a:",
+       "o": [
+        "source of light only",
+        "portable source of electrical energy",
+        "conductor",
+        "switch"
+       ],
+       "a": 1,
+       "ans": "A cell is a portable source of electrical energy."
+      },
+      {
+       "q": "Which material is used mainly for making electric wires?",
+       "o": [
+        "Silver",
+        "Gold",
+        "Copper",
+        "Rubber"
+       ],
+       "a": 2,
+       "ans": "Copper: good conductor, lower cost, abundant."
+      },
+      {
+       "q": "An LED glows only when:",
+       "o": [
+        "its longer leg joins + of the battery",
+        "its shorter leg joins + of the battery",
+        "it is connected either way",
+        "it has a filament"
+       ],
+       "a": 0,
+       "ans": "Current passes through an LED one way only."
+      },
+      {
+       "q": "Which of these is NOT an insulator?",
+       "o": [
+        "Glass",
+        "Wax",
+        "Paper",
+        "Iron key"
+       ],
+       "a": 3,
+       "ans": "Iron is a metal, a conductor."
+      },
+      {
+       "q": "A switch:",
+       "o": [
+        "produces current",
+        "completes or breaks a circuit",
+        "stores electricity",
+        "makes the lamp brighter"
+       ],
+       "a": 1,
+       "ans": "A switch only completes or breaks the circuit."
+      },
+      {
+       "q": "Electricity from a wall socket is:",
+       "o": [
+        "DC",
+        "AC",
+        "from a cell",
+        "from a button cell"
+       ],
+       "a": 1,
+       "ans": "Power plants send Alternating Current (AC) to sockets."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Name the two terminals of an incandescent torch lamp.",
+       "ans": "The metal case at the base (1 mark) and the metal tip at the centre of the base (1 mark)."
+      },
+      {
+       "q": "What is an electrical circuit?",
+       "ans": "A complete path (1 mark) for electric current to flow from one terminal of the cell, through the device, to the other terminal (1 mark)."
+      },
+      {
+       "q": "Why should we never touch switches with wet hands?",
+       "ans": "Our body (and water) conduct electricity (1 mark); current may pass through the body and cause severe injury or death (1 mark)."
+      },
+      {
+       "q": "Draw the circuit symbols for (a) an electric cell (b) a switch in ON position.",
+       "ans": "(a) A long thin line (+) and a short thick line (−) side by side (1 mark). (b) Two small circles joined by a straight line (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Two cells are placed in a torch but the lamp does not glow. Give three possible reasons.",
+       "ans": "(1) One cell is reversed, so + meets + (1 mark). (2) The cells are used up (dead) (1 mark). (3) The lamp has fused / the switch is OFF or not making contact (1 mark)."
+      },
+      {
+       "q": "Classify as conductor or insulator: steel spoon, cork, pencil lead, rubber, coin, glass bangle.",
+       "ans": "Conductors: steel spoon, pencil lead, coin (1½ marks). Insulators: cork, rubber, glass bangle (1½ marks)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe how you would make a conduction tester and use it to test whether a coin and a plastic scale conduct electricity. Record the result in a table.",
+       "ans": "Join a cell and a lamp with wires, leaving two wire ends free (1 mark). Touch the free ends together; if the lamp glows the tester works (1 mark). Touch the free ends to the two ends of the coin: lamp glows (1 mark). Touch them to the plastic scale: lamp does not glow (1 mark). Table: Coin – metal – Yes – conductor; Scale – plastic – No – insulator (1 mark)."
+      },
+      {
+       "q": "Case: In a circuit, lamps L1 and L2 and switch S2 are on the top wire, and switch S1 is beside the battery, all in one loop. Which lamps glow when (a) S1 ON, S2 OFF (b) S1 OFF, S2 ON (c) both ON (d) both OFF? Explain.",
+       "ans": "There is only one path for current (1 mark). (a) Neither lamp (1 mark). (b) Neither lamp (1 mark). (c) Both L1 and L2 glow (1 mark). (d) Neither lamp; any OFF switch leaves a gap and opens the whole circuit (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The flat metal disc of a cell is its:",
+       "o": [
+        "positive terminal",
+        "negative terminal",
+        "filament",
+        "cap"
+       ],
+       "a": 1,
+       "ans": "Flat disc = negative terminal."
+      },
+      {
+       "q": "The glowing thin wire in a bulb is called the:",
+       "o": [
+        "terminal",
+        "filament",
+        "switch",
+        "insulator"
+       ],
+       "a": 1,
+       "ans": "It is the filament."
+      },
+      {
+       "q": "Which of these will make the tester lamp glow?",
+       "o": [
+        "Cork",
+        "Candle",
+        "Sewing needle",
+        "Cardboard"
+       ],
+       "a": 2,
+       "ans": "A steel needle is a metal conductor."
+      },
+      {
+       "q": "In the LED symbol, the triangle shows:",
+       "o": [
+        "the direction in which current can flow",
+        "the negative terminal",
+        "the colour of light",
+        "the battery"
+       ],
+       "a": 0,
+       "ans": "Triangle points the direction of current."
+      },
+      {
+       "q": "A lamp fuses usually because:",
+       "o": [
+        "the cell is new",
+        "the filament breaks",
+        "the wire is copper",
+        "the switch is ON"
+       ],
+       "a": 1,
+       "ans": "A broken filament stops current."
+      },
+      {
+       "q": "Which device uses a button cell?",
+       "o": [
+        "Torchlight",
+        "Wrist watch",
+        "Electric vehicle",
+        "Laptop"
+       ],
+       "a": 1,
+       "ans": "Watches and hearing aids use button cells."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What is a battery? Give one example of a device that uses one.",
+       "ans": "A combination of two or more cells with + of one joined to − of the next (1 mark). Example: a torch / TV remote (1 mark)."
+      },
+      {
+       "q": "Why is the plastic covering removed from the ends of wires before making a circuit?",
+       "ans": "Plastic is an insulator and does not let current pass (1 mark); the bare metal ends must touch the terminals to complete the circuit (1 mark)."
+      },
+      {
+       "q": "State two differences between an incandescent lamp and an LED.",
+       "ans": "An incandescent lamp has a filament; an LED has none (1 mark). An incandescent lamp glows either way round; an LED glows only when connected the right way (1 mark)."
+      },
+      {
+       "q": "What is a circuit diagram? Why is it useful?",
+       "ans": "A representation of an electrical circuit using symbols (1 mark). It is easier to draw and understand, and standard symbols are understood worldwide (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Explain how a home-made switch made of drawing pins and a safety pin works.",
+       "ans": "A safety pin is fixed by one drawing pin so it can rotate; a second drawing pin is fixed nearby; each pin is wired into the circuit (1 mark). When the safety pin touches both drawing pins the gap closes: ON, closed circuit, lamp glows (1 mark). When it does not touch, an air gap breaks the circuit: OFF, open circuit, no glow (1 mark)."
+      },
+      {
+       "q": "Two lamps are joined one after the other to a battery in one loop. If the filament of one lamp breaks, will the other glow? Justify.",
+       "ans": "No, the other lamp will not glow (1 mark). Both lamps are on a single path (1 mark). The broken filament makes a gap, so no current flows anywhere in the circuit (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe Activity 3.7: how to make an LED glow with two cells. What happens if the wires to the LED are interchanged? What does this show?",
+       "ans": "Put two cells in a two-cell holder, negative terminals towards the spring; this is a battery (1 mark). The end joined to + of a cell is the battery's + terminal (1 mark). Join + to the LED's longer leg and − to the shorter leg: it glows (1 mark). Interchanging the wires: it does not glow (1 mark). This shows current passes through an LED in one direction only (1 mark)."
+      },
+      {
+       "q": "Case: Six arrangements of a cell and lamp are tried (Table 3.1). In No. 4 both lamp terminals are joined to the + terminal. In No. 6 the wires are crossed. (a) Will No. 4 glow? (b) Will No. 6 glow? (c) State the rule for the lamp to glow. (d) Does it matter which lamp terminal goes to + for a bulb?",
+       "ans": "(a) No, both lamp terminals are on the same cell terminal, so no complete path (1½ marks). (b) Yes, one lamp terminal still goes to + and the other to − (1½ marks). (c) One terminal of the lamp must join one terminal of the cell and the other terminal the other one, making a complete path (1 mark). (d) No, an incandescent lamp glows either way (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which statement is incorrect?",
+       "o": [
+        "A switch is the source of electric current",
+        "A switch completes or breaks a circuit",
+        "A switch lets us use electricity as needed",
+        "An OFF switch has an air gap"
+       ],
+       "a": 0,
+       "ans": "The cell, not the switch, is the source of current."
+      },
+      {
+       "q": "The best electrical conductors are:",
+       "o": [
+        "plastic, rubber, glass",
+        "silver, copper, gold",
+        "wood, cork, paper",
+        "wax, glass, ceramic"
+       ],
+       "a": 1,
+       "ans": "Silver, copper and gold conduct best."
+      },
+      {
+       "q": "Which of these is an insulator used to cover plug tops?",
+       "o": [
+        "Copper",
+        "Brass",
+        "Plastic",
+        "Aluminium"
+       ],
+       "a": 2,
+       "ans": "Plastic is an insulator."
+      },
+      {
+       "q": "A lamp glows only when:",
+       "o": [
+        "current passes through the circuit",
+        "the switch is OFF",
+        "the cell is reversed",
+        "one wire is loose"
+       ],
+       "a": 0,
+       "ans": "Current must flow in a closed circuit."
+      },
+      {
+       "q": "A torch has 3 cells in a row. For the lamp to glow, the + cap of each cell must face:",
+       "o": [
+        "the − end of the next cell (towards the lamp)",
+        "the + cap of the next cell",
+        "the spring",
+        "any direction"
+       ],
+       "a": 0,
+       "ans": "+ of one touches − of the next."
+      },
+      {
+       "q": "Electricity from cells is called:",
+       "o": [
+        "AC",
+        "DC",
+        "mains",
+        "hydroelectric"
+       ],
+       "a": 1,
+       "ans": "Cells give Direct Current."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Name any four ways in which electricity is generated.",
+       "ans": "Windmills (wind), solar panels (Sun), falling water (hydroelectric), natural gas or coal (½ mark each)."
+      },
+      {
+       "q": "Why are electric wires made of copper and not silver?",
+       "ans": "Copper is a very good conductor (1 mark), and it costs less and is available in plenty compared to silver (1 mark)."
+      },
+      {
+       "q": "A student forgot to remove the insulation from the wire ends. Will the lamp glow? Why?",
+       "ans": "No (1 mark). The plastic covering is an insulator, so current cannot pass at the joints and the circuit is not complete (1 mark)."
+      },
+      {
+       "q": "Draw the symbols for an electric lamp and an LED.",
+       "ans": "Lamp: a circle with a cross inside (1 mark). LED: a triangle pointing to a bar with two small arrows pointing outwards (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Draw a circuit diagram of a simple torch. Label each component.",
+       "ans": "Battery of two cells (1 mark), a switch (1 mark) and an electric lamp joined in one closed loop with straight wire lines, all labelled (1 mark)."
+      },
+      {
+       "q": "How would you identify the positive terminal of a battery whose markings have worn off?",
+       "ans": "Use an LED, which conducts one way only (1 mark). Connect its legs to the battery terminals; if it glows, the terminal joined to the longer leg is + (1 mark). If not, swap and repeat (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Vidyut's lamp does not glow even after closing his safety-pin switch. List four possible reasons and explain how he can find the fault.",
+       "ans": "Reasons: fused lamp, dead cell, loose connection, insulation not removed, safety pin not touching the drawing pin (any four, 2 marks). Method: test one part at a time (1 mark): try the lamp with a working cell, try the cell with a working lamp (1 mark); tighten all joints and press the pin firmly onto the drawing pin (1 mark)."
+      },
+      {
+       "q": "Case: In Fig. 3.20, (a) and (b) have a cell and lamp with the cell turned opposite ways; (c) and (d) have a battery and LED with the battery turned opposite ways (in (c) the long line (+) of the battery is on the right; the LED triangle points right). When the switches are closed, which will not glow and why?",
+       "ans": "(a) glows (1 mark) and (b) glows (1 mark): a lamp glows whichever way it is connected. (c) does not glow because current would flow against the direction shown by the LED's triangle (2 marks). (d) glows because current flows along the triangle (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "An LED has:",
+       "o": [
+        "a filament",
+        "no filament",
+        "three terminals",
+        "no terminals"
+       ],
+       "a": 1,
+       "ans": "LEDs do not have filaments."
+      },
+      {
+       "q": "Which of these will NOT complete a circuit between two free wire ends?",
+       "o": [
+        "Steel spoon",
+        "Coin",
+        "Glass bangle",
+        "Key"
+       ],
+       "a": 2,
+       "ans": "Glass is an insulator."
+      },
+      {
+       "q": "The term 'battery' is also used for:",
+       "o": [
+        "a single cell, like in a mobile phone",
+        "a switch",
+        "a bulb",
+        "a wire"
+       ],
+       "a": 0,
+       "ans": "Even a single cell is commonly called a battery."
+      },
+      {
+       "q": "In a cell holder, the cell's negative terminal should face:",
+       "o": [
+        "the spring",
+        "the lamp",
+        "the switch",
+        "either side"
+       ],
+       "a": 0,
+       "ans": "Negative terminal goes towards the spring."
+      },
+      {
+       "q": "Our body is:",
+       "o": [
+        "an insulator",
+        "a conductor of electricity",
+        "a source of current",
+        "a switch"
+       ],
+       "a": 1,
+       "ans": "The body conducts electricity, so care is needed."
+      },
+      {
+       "q": "Connecting more cells in a battery provides:",
+       "o": [
+        "less energy",
+        "energy for a longer time and/or more energy",
+        "no change",
+        "only light"
+       ],
+       "a": 1,
+       "ans": "As stated in the textbook."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write two safety precautions while using electricity.",
+       "ans": "Never touch switches or plugs with wet hands (1 mark). Never use devices with damaged insulation or broken plugs / never experiment with the mains supply (1 mark)."
+      },
+      {
+       "q": "What is the difference between a conductor and an insulator? Give one example of each.",
+       "ans": "A conductor lets current flow easily; an insulator does not (1 mark). Example: copper (conductor), rubber (insulator) (1 mark)."
+      },
+      {
+       "q": "Why does the torch lamp glow in only one position of the switch?",
+       "ans": "In the ON position the switch completes the path, so current flows and the lamp glows (1 mark). In the OFF position there is a gap, so no current flows (1 mark)."
+      },
+      {
+       "q": "How is the filament of an incandescent lamp held and connected?",
+       "ans": "It is attached to two thicker wires that support it (1 mark); one goes to the metal case and the other to the metal tip, which are the two terminals and do not touch (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Tanya joins two cells side by side with both + ends facing an LED and a wire joining the two − ends. Will the LED glow? Describe the correct connections.",
+       "ans": "No, it will not glow: the cells are joined − to −, not + to −, so they do not form a battery (1 mark). Correct: join − of one cell to + of the other with the connecting wire (1 mark); join the free + terminal to the LED's longer leg and the free − terminal to the shorter leg (1 mark)."
+      },
+      {
+       "q": "Give three uses each of conductors and insulators in an electric plug and wire.",
+       "ans": "Conductors: metal pins of the plug, copper wire inside, socket contacts (1½ marks). Insulators: plastic plug top, plastic/rubber covering of the wire, switch cover (1½ marks)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "You are given six cells A to F; some are not working. Design an activity to identify the working cells: list the items, write the procedure and show how to record results.",
+       "ans": "Items: a working torch lamp with holder, a cell holder, wires, a switch (1 mark). Procedure: make a circuit with the cell holder, lamp and switch (1 mark); insert cell A (negative towards spring) and close the switch (1 mark); if the lamp glows, A works; repeat for B–F one at a time with the same lamp (1 mark). Record in a table: Cell | Lamp glows? | Working? (1 mark)."
+      },
+      {
+       "q": "Case: Nihal's group lists uses of electricity under Cooking, Lighting, Transportation, Heating and Cooling, Entertainment, Communication and Others. (a) Add one use under each of any four headings. (b) Suggest one other way to group uses. (c) Name the source of electricity at Bhakra Nangal.",
+       "ans": "(a) e.g. Cooking: induction stove; Lighting: street lights; Transport: metro; Communication: Wi-Fi router (½ mark each = 2 marks). (b) e.g. by place: home/school/factory, or by what it does: light/heat/motion (1 mark). (c) Falling water at the hydroelectric power house (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which object is made of both conductors and insulators?",
+       "o": [
+        "Iron nail",
+        "Electric plug",
+        "Wooden stick",
+        "Glass tumbler"
+       ],
+       "a": 1,
+       "ans": "Plug: metal pins, plastic top."
+      },
+      {
+       "q": "The lamp in a circuit with an open switch:",
+       "o": [
+        "glows brightly",
+        "does not glow",
+        "glows dimly",
+        "fuses"
+       ],
+       "a": 1,
+       "ans": "An open circuit has no current."
+      },
+      {
+       "q": "Which is the correct use of cells?",
+       "o": [
+        "Button cells in hearing aids",
+        "Button cells in electric vehicles",
+        "Car batteries in watches",
+        "Cylindrical cells in hearing aids"
+       ],
+       "a": 0,
+       "ans": "Button cells: watches and hearing aids."
+      },
+      {
+       "q": "When terminals of a lamp and a cell are joined by wires, current passes through the:",
+       "o": [
+        "glass",
+        "filament",
+        "insulator",
+        "holder screw only"
+       ],
+       "a": 1,
+       "ans": "Current through the filament makes it glow."
+      },
+      {
+       "q": "Which organisation creates standard symbols for electrical parts?",
+       "o": [
+        "IEC",
+        "ISRO",
+        "NCERT",
+        "WHO"
+       ],
+       "a": 0,
+       "ans": "International Electrotechnical Commission."
+      },
+      {
+       "q": "Pencil lead (graphite) is:",
+       "o": [
+        "an insulator",
+        "a conductor",
+        "a metal",
+        "a cell"
+       ],
+       "a": 1,
+       "ans": "It makes the tester lamp glow."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What is meant by an open circuit and a closed circuit?",
+       "ans": "Closed circuit: a complete path, current flows (1 mark). Open circuit: there is a gap (e.g. switch OFF), current does not flow (1 mark)."
+      },
+      {
+       "q": "Why do LEDs need to be connected carefully in a circuit?",
+       "ans": "Current can pass through an LED in one direction only (1 mark); it glows only when its longer leg is joined to + and shorter leg to − (1 mark)."
+      },
+      {
+       "q": "Differentiate between DC and AC.",
+       "ans": "DC (Direct Current) comes from cells and batteries and powers small devices (1 mark). AC (Alternating Current) comes from power plants to wall sockets and runs larger appliances (1 mark)."
+      },
+      {
+       "q": "What happens when a cell in a two-cell torch is reversed? Why?",
+       "ans": "The lamp does not glow (1 mark), because + meets + (or − meets −), so the cells do not form a battery and the path does not work (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Make a list of objects in your home that are (i) insulators only (ii) conductors only (iii) made of both.",
+       "ans": "(i) wooden spoon, plastic bucket, rubber slipper (1 mark). (ii) steel spoon, key, aluminium foil (1 mark). (iii) electric wire, plug, screwdriver with plastic handle (1 mark)."
+      },
+      {
+       "q": "Draw circuit diagrams for (a) a cell, lamp and switch in OFF position (b) a battery and an LED that glows.",
+       "ans": "(a) Cell symbol, lamp symbol and open switch symbol in one loop (1½ marks). (b) Battery symbol and LED symbol in one loop with the triangle pointing in the direction of current from + (long line) (1½ marks)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain the structure of an incandescent torch lamp with a labelled description and state how it produces light. What is a fused lamp?",
+       "ans": "Glass bulb with a thin filament inside (1 mark), held by two thick wires on an insulator support (1 mark); one thick wire goes to the metal case and the other to the metal tip, the two terminals, which do not touch (1 mark). Current makes the filament hot and it glows (1 mark). A fused lamp has a broken filament, so no current flows (1 mark)."
+      },
+      {
+       "q": "Case: Using a solar panel as the source, a toy fan is to be run. (a) What does the solar panel do? (b) Describe the circuit. (c) What happens when the panel is covered? (d) Name two other sources of electricity.",
+       "ans": "(a) It converts the Sun's energy into electrical energy; it acts as the source (1 mark). (b) One terminal of the panel to one terminal of the fan motor, the other to the other, forming a closed circuit (2 marks). (c) The fan slows or stops as no energy is supplied (1 mark). (d) Cells/batteries, falling water, wind (any two) (1 mark)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

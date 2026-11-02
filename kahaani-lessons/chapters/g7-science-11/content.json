@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 11,
+ "n": 11,
+ "title": "Light: Shadows and Reflections",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "Which of these is a luminous object?",
+   "o": [
+    "Moon",
+    "Pole Star",
+    "Mirror",
+    "Venus"
+   ],
+   "a": 1,
+   "why": "The Pole Star is a star and emits its own light; the others only reflect light."
+  },
+  {
+   "q": "Light through three matchbox holes reaches the screen only when the holes are:",
+   "o": [
+    "of different sizes",
+    "covered with paper",
+    "in one straight line",
+    "at different heights"
+   ],
+   "a": 2,
+   "why": "Light travels in a straight line."
+  },
+  {
+   "q": "Tracing paper is:",
+   "o": [
+    "translucent",
+    "transparent",
+    "opaque",
+    "luminous"
+   ],
+   "a": 0,
+   "why": "It lets light pass partially."
+  },
+  {
+   "q": "Which is NOT needed to observe a shadow?",
+   "o": [
+    "A source of light",
+    "An opaque object",
+    "A screen",
+    "A mirror"
+   ],
+   "a": 3,
+   "why": "A shadow needs a light source, an opaque object and a screen."
+  },
+  {
+   "q": "A ball is moved from near the screen towards the torch. Its shadow:",
+   "o": [
+    "becomes smaller",
+    "becomes larger",
+    "disappears",
+    "changes colour"
+   ],
+   "a": 1,
+   "why": "Near the source it blocks a wider cone of light."
+  },
+  {
+   "q": "Your shadow in the Sun is shortest at about:",
+   "o": [
+    "9 AM",
+    "4 PM",
+    "6 PM",
+    "12 noon"
+   ],
+   "a": 3,
+   "why": "The Sun is highest near noon."
+  },
+  {
+   "q": "The change in direction of light by a mirror is called:",
+   "o": [
+    "reflection",
+    "shadow",
+    "lateral inversion",
+    "luminosity"
+   ],
+   "a": 0,
+   "why": "This is the definition of reflection of light."
+  },
+  {
+   "q": "If the angle of incidence on a plane mirror is 40°, the angle of reflection is:",
+   "o": [
+    "50°",
+    "40°",
+    "80°",
+    "20°"
+   ],
+   "a": 1,
+   "why": "Angle of incidence = angle of reflection."
+  },
+  {
+   "q": "Which is true of the image in a plane mirror?",
+   "o": [
+    "It can be caught on a screen",
+    "It is upside down",
+    "It is laterally inverted",
+    "It is smaller than the object"
+   ],
+   "a": 2,
+   "why": "A plane mirror image is erect, same size, virtual and laterally inverted."
+  },
+  {
+   "q": "A pinhole camera gives an image that is:",
+   "o": [
+    "erect and coloured",
+    "upside down",
+    "laterally inverted only",
+    "always larger"
+   ],
+   "a": 1,
+   "why": "Rays travelling in straight lines cross at the pinhole."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The Moon shines because it:",
+       "o": [
+        "emits its own light",
+        "reflects sunlight",
+        "is a star",
+        "is very hot"
+       ],
+       "a": 1,
+       "ans": "It is non-luminous and reflects the light of the Sun."
+      },
+      {
+       "q": "Which material is opaque?",
+       "o": [
+        "Glass",
+        "Tracing paper",
+        "Cardboard",
+        "Clear water"
+       ],
+       "a": 2,
+       "ans": "Cardboard does not let light pass at all."
+      },
+      {
+       "q": "A candle can be seen through a pipe only when the pipe is:",
+       "o": [
+        "bent",
+        "straight",
+        "painted",
+        "short"
+       ],
+       "a": 1,
+       "ans": "Light travels in a straight line."
+      },
+      {
+       "q": "The colour of the shadow of a red ball is:",
+       "o": [
+        "red",
+        "pink",
+        "dark (grey/black)",
+        "white"
+       ],
+       "a": 2,
+       "ans": "A shadow is a region where light does not reach; its colour does not depend on the object."
+      },
+      {
+       "q": "The image formed by a plane mirror is:",
+       "o": [
+        "inverted",
+        "erect",
+        "on a screen",
+        "smaller"
+       ],
+       "a": 1,
+       "ans": "Plane mirror images are erect."
+      },
+      {
+       "q": "Periscopes are used in:",
+       "o": [
+        "submarines",
+        "pinhole cameras",
+        "kaleidoscopes",
+        "LED lamps"
+       ],
+       "a": 0,
+       "ans": "Two mirrors let people in submarines see above the water."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Define luminous and non-luminous objects. Give one example of each.",
+       "ans": "Luminous: emits its own light, e.g. the Sun (1 mark). Non-luminous: does not emit its own light, e.g. the Moon (1 mark)."
+      },
+      {
+       "q": "What are transparent and translucent materials? Give one example of each.",
+       "ans": "Transparent: light passes almost completely, e.g. glass (1 mark). Translucent: light passes partially, e.g. tracing paper (1 mark)."
+      },
+      {
+       "q": "Write two advantages of LED lamps.",
+       "ans": "Any two: use much less power, brighter, last longer, lower bills / better for environment (1 + 1 marks)."
+      },
+      {
+       "q": "Keshav stands 2 m in front of a plane mirror. How far is he from his image?",
+       "ans": "Image is 2 m behind the mirror (1 mark). Distance = 2 + 2 = 4 m (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe the matchbox activity that shows that light travels in a straight line.",
+       "ans": "Make holes at the same position in three matchboxes and arrange them in a line with the holes at the same height (1 mark). Place a torch at one end and a screen at the other; a bright spot appears (1 mark). Move one box sideways: no spot is seen, so light travels in a straight line (1 mark)."
+      },
+      {
+       "q": "List three things needed to observe a shadow. Why does a shadow form?",
+       "ans": "Source of light, opaque object, screen (1½ marks). Light travels in a straight line; the opaque object blocks it, so the region behind receives no light (1½ marks)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "State four characteristics of the image formed by a plane mirror. Explain why ‘AMBULANCE’ is written mirror-wise on ambulances.",
+       "ans": "Same size as the object; erect; as far behind as the object is in front / cannot be obtained on a screen; laterally inverted (4 × ½ = 2 marks). The driver ahead sees the ambulance in the rear-view mirror (1 mark). The mirror laterally inverts the reversed letters (1 mark), so it reads ‘AMBULANCE’ correctly (1 mark)."
+      },
+      {
+       "q": "Case: A ball is placed between a fixed torch and a wall. (a) What happens to the shadow when the ball moves towards the torch? (b) towards the wall? (c) What appears if the ball is removed? (d) What appears if a second torch is added on the same side? (e) Does the colour of the ball change the shadow’s colour?",
+       "ans": "(a) Shadow becomes larger (1). (b) Shadow becomes smaller (1). (c) Only a bright spot of light (1). (d) Two shadows (1). (e) No, the shadow stays dark (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of these is NOT a natural source of light?",
+       "o": [
+        "Sun",
+        "Lightning",
+        "Firefly",
+        "Electric bulb"
+       ],
+       "a": 3,
+       "ans": "An electric bulb is artificial."
+      },
+      {
+       "q": "Frosted glass is:",
+       "o": [
+        "transparent",
+        "translucent",
+        "opaque",
+        "luminous"
+       ],
+       "a": 1,
+       "ans": "It lets part of the light through."
+      },
+      {
+       "q": "An object moved closer to the screen gives a shadow that is:",
+       "o": [
+        "larger",
+        "smaller",
+        "coloured",
+        "inverted"
+       ],
+       "a": 1,
+       "ans": "It blocks a narrower part of the cone of light."
+      },
+      {
+       "q": "A ray falls on a plane mirror at 25° to the normal. The angle of reflection is:",
+       "o": [
+        "25°",
+        "65°",
+        "50°",
+        "90°"
+       ],
+       "a": 0,
+       "ans": "i = r."
+      },
+      {
+       "q": "The earliest form of artificial lighting was:",
+       "o": [
+        "fire",
+        "LED",
+        "tube light",
+        "torch"
+       ],
+       "a": 0,
+       "ans": "Ancient humans learnt to create fire."
+      },
+      {
+       "q": "In a kaleidoscope, patterns are formed by:",
+       "o": [
+        "one mirror",
+        "three mirrors making multiple images",
+        "a pinhole",
+        "a lens"
+       ],
+       "a": 1,
+       "ans": "Reflections of reflections in three mirrors."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Why can we not see a candle flame through a bent pipe?",
+       "ans": "Light travels in a straight line (1 mark). At the bend it is blocked by the wall of the pipe and cannot reach the eye (1 mark)."
+      },
+      {
+       "q": "What is reflection of light? Name one surface that reflects light well.",
+       "ans": "Change in direction of light by a mirror / shiny surface (1 mark). Plane mirror or polished steel plate (1 mark)."
+      },
+      {
+       "q": "Classify: glass, cardboard, tracing paper, thick cloth.",
+       "ans": "Transparent: glass (½). Translucent: tracing paper (½). Opaque: cardboard, thick cloth (1)."
+      },
+      {
+       "q": "Raise your left hand in front of a mirror. Which hand does the image seem to raise? What is this called?",
+       "ans": "The right hand (1 mark). Lateral inversion (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Explain, with a diagram in words, why a pinhole camera forms an inverted image.",
+       "ans": "Light travels in straight lines (1). A ray from the top of the object passes through the pinhole and reaches the bottom of the screen (1). A ray from the bottom reaches the top, so the image is upside down (1)."
+      },
+      {
+       "q": "A 1.4 m tall child measures her shadow at 9 AM, 12 PM and 4 PM. At which time is it shortest and why? In which direction does the morning shadow point?",
+       "ans": "Shortest at 12 PM (1). The Sun is highest then, so rays are nearly vertical (1). Morning Sun is in the east, so the shadow points west (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe Activity 11.6 with a comb, torch and plane mirror. What do you observe? Add what you would find if you measure the angles of the incident and reflected rays from the normal.",
+       "ans": "Cover all but one gap of a comb with black paper to make a slit (1). Hold the comb upright on white paper and shine a torch to get a thin beam (1). Place a plane mirror in the path (1). The beam changes direction: reflection occurs (1). The angle of incidence equals the angle of reflection (1)."
+      },
+      {
+       "q": "Case: Sahil, Rekha, Patrick and Qasima look into pipes connected to a candle. Only Rekha’s pipe runs straight to the candle; the others join at angles. (a) Who sees the flame? (b) Why can the others not? (c) What property of light does this show? (d) Suggest one other activity that shows the same property.",
+       "ans": "(a) Rekha (1). (b) Their pipes bend; light cannot turn the corners and is blocked (2). (c) Light travels in a straight line (1). (d) Matchboxes with holes in a line / laser in milky water (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of these is luminous?",
+       "o": [
+        "Mars",
+        "Mirror",
+        "Sun",
+        "Moon"
+       ],
+       "a": 2,
+       "ans": "The Sun emits its own light."
+      },
+      {
+       "q": "Light passes almost completely through:",
+       "o": [
+        "transparent materials",
+        "translucent materials",
+        "opaque materials",
+        "mirrors"
+       ],
+       "a": 0,
+       "ans": "Definition of transparent."
+      },
+      {
+       "q": "If the torch is switched off, the shadow:",
+       "o": [
+        "becomes darker",
+        "disappears",
+        "becomes bigger",
+        "moves"
+       ],
+       "a": 1,
+       "ans": "No light, no shadow."
+      },
+      {
+       "q": "Statement A: Plane mirror images are laterally inverted. Statement B: T and O look identical in a plane mirror.",
+       "o": [
+        "Both true",
+        "Both false",
+        "A true, B false",
+        "A false, B true"
+       ],
+       "a": 0,
+       "ans": "T and O are symmetric left–right."
+      },
+      {
+       "q": "The image in a pinhole camera is:",
+       "o": [
+        "erect",
+        "inverted",
+        "on the pinhole",
+        "not formed"
+       ],
+       "a": 1,
+       "ans": "Rays cross at the pinhole."
+      },
+      {
+       "q": "Aranmula Kannadi is a:",
+       "o": [
+        "shadow puppet",
+        "metal mirror from Kerala",
+        "pinhole camera",
+        "LED lamp"
+       ],
+       "a": 1,
+       "ans": "A unique metal-surface mirror made in Kerala."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Why should LED lamps not be thrown in the garbage?",
+       "ans": "They must be appropriately disposed of or recycled at the end of life (1 mark) to protect the environment (1 mark)."
+      },
+      {
+       "q": "A ray makes an angle of 30° with a plane mirror. Find the angle of reflection.",
+       "ans": "Angle of incidence = 90° − 30° = 60° (1 mark). Angle of reflection = 60° (1 mark)."
+      },
+      {
+       "q": "Can the image formed by a plane mirror be obtained on a screen? How can you check?",
+       "ans": "No (1 mark). Place a screen behind and in front of the mirror and move it: no image appears (1 mark)."
+      },
+      {
+       "q": "Name any two shadow puppetry styles of India with their states.",
+       "ans": "Any two, e.g. Charma Bahuli Natya – Maharashtra; Ravana Chhaya – Odisha; Tholpavakoothu – Kerala; Togalu Gombeyaata – Karnataka; Tholu Bommalata – Andhra Pradesh; Bommalattam – Tamil Nadu (1 + 1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Why do we not see the shadow of a bird flying high, but see it when it flies low?",
+       "ans": "The Sun is a large source of light (1). When the bird is high, light from different parts of the Sun reaches the ground behind it, so the shadow is very faint and spread out (1). Near the ground the bird blocks the light well, giving a dark shadow (1)."
+      },
+      {
+       "q": "How does a periscope work? Give two uses.",
+       "ans": "Two plane mirrors at 45° in a Z-shaped box; light reflects from the first mirror down the tube and from the second into the eye (2). Uses: submarines, tanks, soldiers in bunkers, seeing over a crowd (any two, ½ + ½)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Construct a sliding pinhole camera: write the steps and state two features of the image seen.",
+       "ans": "Two boxes, one sliding into the other; cut open one side of each (1). Make a small hole in the middle of the opposite face of the larger box (1). Cut a 5–6 cm square in the smaller box and cover with tracing paper (1). Slide the smaller box in, tracing paper inside; cover head with dark cloth and adjust (1). Image is coloured and upside down (1)."
+      },
+      {
+       "q": "Case: In Activity 11.4, a student records observations. Complete: (a) screen removed, (b) object removed, (c) object moved closer to the torch, (d) object tilted, (e) object colour changed.",
+       "ans": "(a) No shadow seen (1). (b) Only a bright spot of light (1). (c) Shadow becomes larger (1). (d) Shape/size of shadow changes (1). (e) Shadow colour does not change; it stays dark (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Fireflies use their light to:",
+       "o": [
+        "cook food",
+        "communicate",
+        "see in the day",
+        "make shadows"
+       ],
+       "a": 1,
+       "ans": "Fireflies flash light to communicate."
+      },
+      {
+       "q": "Which pair is correctly matched?",
+       "o": [
+        "Shadow – light passes through",
+        "Opaque – blocks light completely",
+        "Pinhole camera – erect image",
+        "Transparent – dark region"
+       ],
+       "a": 1,
+       "ans": "Opaque objects block light completely."
+      },
+      {
+       "q": "A shadow falls:",
+       "o": [
+        "towards the light source",
+        "on the side opposite to the light source",
+        "only upwards",
+        "anywhere"
+       ],
+       "a": 1,
+       "ans": "Light travels straight past the object."
+      },
+      {
+       "q": "If you stand 1.5 m from a plane mirror, your image is:",
+       "o": [
+        "1.5 m behind the mirror",
+        "3 m behind the mirror",
+        "0.75 m behind",
+        "on the mirror"
+       ],
+       "a": 0,
+       "ans": "Image distance = object distance."
+      },
+      {
+       "q": "Which letter looks the same in a plane mirror?",
+       "o": [
+        "K",
+        "E",
+        "A",
+        "R"
+       ],
+       "a": 2,
+       "ans": "A is symmetric left–right."
+      },
+      {
+       "q": "Light from the Sun reaches the Earth in about:",
+       "o": [
+        "8 seconds",
+        "8 minutes 20 seconds",
+        "8 hours",
+        "1 day"
+       ],
+       "a": 1,
+       "ans": "Fascinating fact in the chapter."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What will you see on the screen if two torches light a ball from the same side?",
+       "ans": "Two shadows of the ball (1 mark), because each torch’s light is blocked separately (1 mark)."
+      },
+      {
+       "q": "Give two reasons why fireflies are decreasing.",
+       "ans": "Any two: light pollution, reduced forest cover, excessive tourism (1 + 1)."
+      },
+      {
+       "q": "What is an erect image? Is a plane mirror image erect?",
+       "ans": "An upright image (1 mark). Yes, a plane mirror image is erect (1 mark)."
+      },
+      {
+       "q": "Can a small piece of mirror show the image of a large tree? Explain.",
+       "ans": "Yes (1 mark). Standing far away, light from all parts of the tree reflects from the small mirror into the eye, so the whole tree is seen (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Distinguish between the image in a pinhole camera and in a plane mirror (any three points).",
+       "ans": "Pinhole: upside down; mirror: erect (1). Pinhole image obtained on a screen; mirror image cannot be (1). Mirror image is laterally inverted and same size; pinhole image size depends on distances (1)."
+      },
+      {
+       "q": "Describe how you would make a kaleidoscope and why it shows patterns.",
+       "ans": "Join three equal mirror strips in a triangle and fix in a chart-paper tube (1). Close one end with a transparent sheet, add bangle pieces, cover with tracing paper (1). Three mirrors give multiple images (reflections of reflections); turning changes the pattern (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "A 12 cm tall candle is placed 40 cm from a pinhole; the screen is 20 cm behind the pinhole. (a) Find the image height. (b) Is it erect or inverted? (c) What happens to the image if the screen is moved to 40 cm? (d) Why is the image inverted?",
+       "ans": "(a) 12 × 20 ÷ 40 = 6 cm (2). (b) Inverted (1). (c) It becomes 12 cm, larger (1). (d) Light travels in straight lines; rays from top and bottom cross at the pinhole (1)."
+      },
+      {
+       "q": "Case: Jatin shines sunlight on a shiny steel plate. (a) What does he see on a shady wall? (b) What happens when he tilts the plate? (c) Name the phenomenon. (d) If the ray falls along the normal, where does it go? (e) State the relation between the angles of incidence and reflection.",
+       "ans": "(a) A bright spot of light (1). (b) The spot changes position (1). (c) Reflection of light (1). (d) Straight back along the same path (1). (e) Angle of incidence = angle of reflection (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Venus shines in the sky because it:",
+       "o": [
+        "is a star",
+        "reflects sunlight",
+        "burns gas",
+        "is luminous"
+       ],
+       "a": 1,
+       "ans": "Planets are non-luminous."
+      },
+      {
+       "q": "Thick cloth is:",
+       "o": [
+        "transparent",
+        "translucent",
+        "opaque",
+        "luminous"
+       ],
+       "a": 2,
+       "ans": "No light passes through."
+      },
+      {
+       "q": "To see a shadow you need a source of light, a screen and:",
+       "o": [
+        "a mirror",
+        "an opaque object",
+        "a pinhole",
+        "a lens"
+       ],
+       "a": 1,
+       "ans": "The opaque object blocks the light."
+      },
+      {
+       "q": "A periscope uses:",
+       "o": [
+        "one mirror",
+        "two plane mirrors",
+        "three mirrors",
+        "no mirror"
+       ],
+       "a": 1,
+       "ans": "Two plane mirrors at 45°."
+      },
+      {
+       "q": "In a plane mirror, your right ear appears as the image’s:",
+       "o": [
+        "right ear",
+        "left ear",
+        "nose",
+        "not seen"
+       ],
+       "a": 1,
+       "ans": "Lateral inversion."
+      },
+      {
+       "q": "A pinhole camera image of a tree shows:",
+       "o": [
+        "the tree upright",
+        "the tree upside down",
+        "no colours",
+        "only the trunk"
+       ],
+       "a": 1,
+       "ans": "Image is inverted and coloured."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write any two observations of Activity 11.7 with a pen and a mirror.",
+       "ans": "Any two: image same size as pen; image is erect; image cannot be obtained on a screen (1 + 1)."
+      },
+      {
+       "q": "Which of the following are luminous: Mars, Moon, Pole Star, Sun, Venus, Mirror?",
+       "ans": "Pole Star and Sun (1 mark); the rest only reflect light (1 mark)."
+      },
+      {
+       "q": "Why is the shadow of an opaque object darker than that of a translucent object?",
+       "ans": "Opaque objects block all light (1 mark); translucent objects let part of the light through, so their shadow is lighter (1 mark)."
+      },
+      {
+       "q": "Can a ⊐-shaped tube be used as a periscope? Where will the mirrors go?",
+       "ans": "Yes (1 mark). One plane mirror at each bend, tilted at 45°, facing each other (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Write the name KESHAV in front of a plane mirror. Describe the image and explain the difference.",
+       "ans": "Letters appear reversed left to right; the name reads from right to left (1). Image is erect and same size (1). Reason: lateral inversion by a plane mirror (1)."
+      },
+      {
+       "q": "If you put coloured transparent paper over a torch in Activity 11.4, what is the colour of the light on the screen and of the shadow? Explain.",
+       "ans": "Light on the screen takes the colour of the paper (1). Shadow remains dark (1). A shadow is where no light reaches, so it has no colour of light (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain the sources of light in history: natural and artificial, from fire to LED lamps. Why is the Moon not a source of light?",
+       "ans": "Natural: Sun, stars, lightning, natural fire, fireflies (1). Artificial: fire using fat, oil, wax, gas (1); then electric lights; now LED lamps which use less power, are brighter and last longer (2). The Moon is non-luminous; it only reflects sunlight (1)."
+      },
+      {
+       "q": "Case: A girl measures her shadow: 9 AM – 1.6 m, 12 PM – 0.3 m, 4 PM – 2.6 m. (a) When is it shortest? (b) Why? (c) In which direction does the shadow point at 4 PM? (d) What property of light makes shadows? (e) Will the shadow be longer at 5 PM or at 4 PM?",
+       "ans": "(a) 12 PM (1). (b) The Sun is highest then (1). (c) Towards the east, away from the western Sun (1). (d) Light travels in straight lines and is blocked by opaque objects (1). (e) At 5 PM, the Sun is lower (1)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

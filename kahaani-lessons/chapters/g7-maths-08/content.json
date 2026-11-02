@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 8,
+ "n": 8,
+ "title": "Working with Fractions",
+ "book": "Ganita Prakash (Grade 7) Part I",
+ "quiz": [
+  {
+   "q": "What is 5 × 2/3?",
+   "o": [
+    "10/3",
+    "10/15",
+    "2/15",
+    "7/3"
+   ],
+   "a": 0,
+   "why": "5 × 2/3 = (5 × 2)/3 = 10/3."
+  },
+  {
+   "q": "What is 3/4 × 2/5 in lowest form?",
+   "o": [
+    "5/9",
+    "6/9",
+    "3/10",
+    "8/15"
+   ],
+   "a": 2,
+   "why": "(3 × 2)/(4 × 5) = 6/20 = 3/10."
+  },
+  {
+   "q": "On a unit square, 1/12 × 1/18 divides the whole into how many equal parts?",
+   "o": [
+    "30",
+    "216",
+    "108",
+    "6"
+   ],
+   "a": 1,
+   "why": "18 rows × 12 columns = 216 parts."
+  },
+  {
+   "q": "After cancelling common factors, 14/15 × 25/42 = ?",
+   "o": [
+    "5/9",
+    "7/9",
+    "350/630",
+    "5/18"
+   ],
+   "a": 0,
+   "why": "14 and 42 share 14; 25 and 15 share 5: (1 × 5)/(3 × 3) = 5/9."
+  },
+  {
+   "q": "When one number is between 0 and 1, the product is ____ than the other number.",
+   "o": [
+    "greater",
+    "equal to",
+    "less",
+    "double"
+   ],
+   "a": 2,
+   "why": "Taking a part of a number gives less than the number, e.g. 1/4 × 8 = 2."
+  },
+  {
+   "q": "What is the reciprocal of 7/9?",
+   "o": [
+    "7/9",
+    "9/7",
+    "−7/9",
+    "1/63"
+   ],
+   "a": 1,
+   "why": "Swap numerator and denominator; 7/9 × 9/7 = 1."
+  },
+  {
+   "q": "2/3 ÷ 3/5 = ?",
+   "o": [
+    "6/15",
+    "2/5",
+    "9/10",
+    "10/9"
+   ],
+   "a": 3,
+   "why": "2/3 × 5/3 = 10/9."
+  },
+  {
+   "q": "6 ÷ 1/4 = ?",
+   "o": [
+    "3/2",
+    "24",
+    "1/24",
+    "10"
+   ],
+   "a": 1,
+   "why": "6 × 4 = 24; dividing by a number between 0 and 1 gives a bigger quotient."
+  },
+  {
+   "q": "Four fountains fill a cistern 1, 2, 4 and 5 times a day. Together they fill it in:",
+   "o": [
+    "1/12 day",
+    "12 days",
+    "1/4 day",
+    "3 days"
+   ],
+   "a": 0,
+   "why": "1 + 2 + 4 + 5 = 12 times a day, so 1/12 day."
+  },
+  {
+   "q": "(1 − 1/2) × (1 − 1/3) × (1 − 1/4) × (1 − 1/5) = ?",
+   "o": [
+    "4/5",
+    "1/120",
+    "1/2",
+    "1/5"
+   ],
+   "a": 3,
+   "why": "1/2 × 2/3 × 3/4 × 4/5 = 1/5 after cancelling."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "4 × 1/3 as a mixed fraction is",
+       "o": [
+        "1 1/3",
+        "4 1/3",
+        "1 1/4",
+        "3 1/4"
+       ],
+       "a": 0,
+       "ans": "4/3 = 1 1/3."
+      },
+      {
+       "q": "1/2 × 1/4 = ?",
+       "o": [
+        "1/6",
+        "2/4",
+        "1/8",
+        "3/4"
+       ],
+       "a": 2,
+       "ans": "(1 × 1)/(2 × 4) = 1/8."
+      },
+      {
+       "q": "Which is the reciprocal of 5?",
+       "o": [
+        "5",
+        "1/5",
+        "−5",
+        "0"
+       ],
+       "a": 1,
+       "ans": "5 × 1/5 = 1."
+      },
+      {
+       "q": "7/4 ÷ 1/7 = ?",
+       "o": [
+        "1/4",
+        "49/4",
+        "4/49",
+        "7/28"
+       ],
+       "a": 1,
+       "ans": "7/4 × 7 = 49/4."
+      },
+      {
+       "q": "Who first stated a/b × c/d = (a×c)/(b×d) in general form?",
+       "o": [
+        "Aryabhata",
+        "Bhāskara II",
+        "Brahmagupta",
+        "Umasvati"
+       ],
+       "a": 2,
+       "ans": "Brahmagupta, Brāhmasphuṭasiddhānta, 628 CE."
+      },
+      {
+       "q": "If both numbers are between 0 and 1, their product is",
+       "o": [
+        "greater than both",
+        "less than both",
+        "between them",
+        "equal to 1"
+       ],
+       "a": 1,
+       "ans": "e.g. 3/4 × 2/5 = 3/10, smaller than both."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Tenzin drinks 1/2 glass of milk every day. How many glasses does he drink in a week?",
+       "ans": "7 × 1/2 (1 mark) = 7/2 = 3 1/2 glasses (1 mark)."
+      },
+      {
+       "q": "Find 12/7 × 5/24 in lowest form by cancelling first.",
+       "ans": "12 and 24 have common factor 12: (1 × 5)/(7 × 2) (1 mark) = 5/14 (1 mark)."
+      },
+      {
+       "q": "Evaluate 3 ÷ 7/9.",
+       "ans": "3 × 9/7 (1 mark) = 27/7 = 3 6/7 (1 mark)."
+      },
+      {
+       "q": "1/4 kg of flour makes 12 rotis. How much flour makes 6 rotis?",
+       "ans": "Flour per roti = 1/4 ÷ 12 = 1/48 kg (1 mark); 6 × 1/48 = 1/8 kg (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A tap fills 7/10 of a tank in 1 hour. What part fills in 2/3 hour? How long does it take to fill the full tank?",
+       "ans": "2/3 × 7/10 = 14/30 = 7/15 of the tank (1½ marks). Full tank: 1 ÷ 7/10 = 10/7 = 1 3/7 hours (1½ marks)."
+      },
+      {
+       "q": "Mira's novel has 400 pages. She read 1/5 of the pages yesterday and 3/10 today. How many pages are left?",
+       "ans": "Yesterday 1/5 × 400 = 80 (1 mark); today 3/10 × 400 = 120 (1 mark); left 400 − 200 = 200 pages (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Somu's land: the government takes 1/6 for a road. She gives half of the remaining land to Krishna and 1/3 of the remaining land to Bora, keeping the rest. Find (a) the remaining land after the road, (b) Krishna's share, (c) Bora's share, (d) Somu's share, all as parts of the original land.",
+       "ans": "(a) 1 − 1/6 = 5/6 (1 mark). (b) 1/2 × 5/6 = 5/12 (1 mark). (c) 1/3 × 5/6 = 5/18 (1 mark). (d) 5/6 − 5/12 − 5/18 = 30/36 − 15/36 − 10/36 (1 mark) = 5/36 (1 mark)."
+      },
+      {
+       "q": "Using a unit square, show and find 3/4 × 2/5. Explain the steps, and state the general rule.",
+       "ans": "Shade 2/5 of the square (2 of 5 rows) (1 mark). Divide it into 4 equal parts by 4 columns: 5 × 4 = 20 cells, one part = 2/20 (1 mark). Take 3 parts: 6/20 (1 mark) = 3/10 (1 mark). Rule: a/b × c/d = (a×c)/(b×d) (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "7 × 3/5 = ?",
+       "o": [
+        "21/35",
+        "4 1/5",
+        "3 1/5",
+        "10/5"
+       ],
+       "a": 1,
+       "ans": "21/5 = 4 1/5."
+      },
+      {
+       "q": "1/3 × 1/5 = ?",
+       "o": [
+        "1/15",
+        "2/8",
+        "1/8",
+        "5/3"
+       ],
+       "a": 0,
+       "ans": "1/(3×5) = 1/15."
+      },
+      {
+       "q": "2/3 ÷ 2/3 = ?",
+       "o": [
+        "0",
+        "4/9",
+        "1",
+        "2/3"
+       ],
+       "a": 2,
+       "ans": "Any non-zero number divided by itself is 1."
+      },
+      {
+       "q": "The product of 565/465 and 707/676 is",
+       "o": [
+        "less than 1",
+        "greater than both fractions",
+        "less than 565/465",
+        "equal to 1"
+       ],
+       "a": 1,
+       "ans": "Both fractions are greater than 1."
+      },
+      {
+       "q": "1/2 metre of ribbon makes 8 badges. The expression for ribbon per badge is",
+       "o": [
+        "8 × 1/2",
+        "8 ÷ 1/2",
+        "1/2 ÷ 8",
+        "1/2 ÷ 1/8"
+       ],
+       "a": 2,
+       "ans": "Share 1/2 m into 8 equal parts."
+      },
+      {
+       "q": "The process of reducing a fraction to lowest terms in ancient India was called",
+       "o": [
+        "apavartana",
+        "śulba",
+        "dramma",
+        "pana"
+       ],
+       "a": 0,
+       "ans": "Umasvati mentioned apavartana c. 150 CE."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "A team makes 1 km of canal in 8 days. How much do they make in one day, and in a 5-day week?",
+       "ans": "1 ÷ 8 = 1/8 km per day (1 mark); 5 × 1/8 = 5/8 km per week (1 mark)."
+      },
+      {
+       "q": "Find 5/4 × 3/2.",
+       "ans": "(5 × 3)/(4 × 2) (1 mark) = 15/8 = 1 7/8 (1 mark)."
+      },
+      {
+       "q": "Evaluate 1/6 ÷ 11/12.",
+       "ans": "1/6 × 12/11 (1 mark) = 12/66 = 2/11 (1 mark)."
+      },
+      {
+       "q": "A car runs 16 km on 1 litre of petrol. How far will it go on 2 3/4 litres?",
+       "ans": "2 3/4 = 11/4 (1 mark); 11/4 × 16 = 44 km (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Tsewang plants four saplings in a row with 3/4 m between two saplings. Find the distance between the first and the last sapling. Draw a rough diagram.",
+       "ans": "Diagram: 4 saplings with 3 gaps (1 mark). Distance = 3 × 3/4 (1 mark) = 9/4 = 2 1/4 m (1 mark)."
+      },
+      {
+       "q": "Which is heavier: 12/15 of 500 g or 3/20 of 4 kg? Show working.",
+       "ans": "12/15 × 500 = 400 g (1 mark); 3/20 × 4000 g = 600 g (1 mark); so 3/20 of 4 kg is heavier (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Four fountains fill a cistern: the first in 1 day, the second in 1/2 day, the third in 1/4 day and the fourth in 1/5 day. (a) How many times does each fill the cistern in a day? (b) If they flow together, in how much time is the cistern filled? (c) Express this time in hours.",
+       "ans": "(a) 1 ÷ 1 = 1, 1 ÷ 1/2 = 2, 1 ÷ 1/4 = 4, 1 ÷ 1/5 = 5 (2 marks). (b) Together 1 + 2 + 4 + 5 = 12 times a day (1 mark), so time = 1/12 day (1 mark). (c) 1/12 × 24 = 2 hours (1 mark)."
+      },
+      {
+       "q": "Explain, with examples, when the product of two numbers is (i) greater than both, (ii) less than both, (iii) between the two.",
+       "ans": "(i) Both numbers greater than 1: 4/3 × 4 = 16/3, greater than both (1½ marks). (ii) Both between 0 and 1: 3/4 × 2/5 = 3/10, less than both (1½ marks). (iii) One between 0 and 1 and one greater than 1: 3/4 × 5 = 15/4, less than 5 and greater than 3/4 (1½ marks). Reason: multiplying by a number less than 1 takes a part; by a number greater than 1 takes more than the whole (½ mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "9/7 × 6 = ?",
+       "o": [
+        "54/42",
+        "7 5/7",
+        "6 5/7",
+        "15/7"
+       ],
+       "a": 1,
+       "ans": "54/7 = 7 5/7."
+      },
+      {
+       "q": "Area of a rectangle of sides 1/2 unit and 1/4 unit is",
+       "o": [
+        "3/4 sq unit",
+        "1/6 sq unit",
+        "1/8 sq unit",
+        "2 sq units"
+       ],
+       "a": 2,
+       "ans": "Area = 1/2 × 1/4 = 1/8."
+      },
+      {
+       "q": "1 ÷ 2/3 = ?",
+       "o": [
+        "2/3",
+        "3/2",
+        "1/3",
+        "3"
+       ],
+       "a": 1,
+       "ans": "2/3 × 3/2 = 1, so 1 ÷ 2/3 = 3/2."
+      },
+      {
+       "q": "If the divisor is greater than 1, the quotient is ____ the dividend.",
+       "o": [
+        "greater than",
+        "equal to",
+        "less than",
+        "double"
+       ],
+       "a": 2,
+       "ans": "e.g. 6 ÷ 3 = 2 < 6."
+      },
+      {
+       "q": "Maria has 8 m of lace and uses 1/4 m per bag. Number of bags =",
+       "o": [
+        "2",
+        "32",
+        "1/32",
+        "4"
+       ],
+       "a": 1,
+       "ans": "8 ÷ 1/4 = 32."
+      },
+      {
+       "q": "(1 − 1/2) × (1 − 1/3) = ?",
+       "o": [
+        "1/6",
+        "1/3",
+        "2/3",
+        "5/6"
+       ],
+       "a": 1,
+       "ans": "1/2 × 2/3 = 1/3."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Manju and her two neighbours share 5 litres of oil equally among 3 families each week. How much does one family get in 4 weeks?",
+       "ans": "Per week 5/3 L (1 mark); 4 weeks: 4 × 5/3 = 20/3 = 6 2/3 L (1 mark)."
+      },
+      {
+       "q": "Find 2/3 × 4/5 and say how many cells of the unit square are shaded.",
+       "ans": "8/15 (1 mark); 8 of 15 cells (1 mark)."
+      },
+      {
+       "q": "Evaluate 8/2 ÷ 4/15.",
+       "ans": "4 × 15/4 (1 mark) = 15 (1 mark)."
+      },
+      {
+       "q": "Leena used 1/4 litre of milk for 5 cups of tea. How much milk is in each cup?",
+       "ans": "1/4 ÷ 5 = 1/4 × 1/5 (1 mark) = 1/20 litre (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Amritpal's train takes 5 1/6 hours and the plane takes 1/2 hour. How many hours does the plane save?",
+       "ans": "5 1/6 = 31/6, 1/2 = 3/6 (1 mark); 31/6 − 3/6 = 28/6 (1 mark) = 14/3 = 4 2/3 hours (1 mark)."
+      },
+      {
+       "q": "Find 3 2/3 ÷ 1 3/8.",
+       "ans": "11/3 ÷ 11/8 (1 mark) = 11/3 × 8/11 (1 mark) = 8/3 = 2 2/3 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Baudhāyana's Śulbasūtra problem: cover an area of 7 1/2 square units with square bricks of side 1/5 unit. (a) Find the area of one brick. (b) Write the total area as an improper fraction. (c) Find the number of bricks needed.",
+       "ans": "(a) 1/5 × 1/5 = 1/25 sq unit (1 mark). (b) 7 1/2 = 15/2 sq units (1 mark). (c) Number = 15/2 ÷ 1/25 (1 mark) = 15/2 × 25 = 375/2 (1 mark) = 187 1/2 bricks (1 mark)."
+      },
+      {
+       "q": "State Brahmagupta's rule for dividing fractions. Use it to evaluate 2/3 ÷ 3/5 and check your answer by multiplication.",
+       "ans": "Rule: a/b ÷ c/d = a/b × d/c = (a×d)/(b×c) — multiply the dividend by the reciprocal of the divisor (2 marks). 2/3 ÷ 3/5 = 2/3 × 5/3 = 10/9 (2 marks). Check: 3/5 × 10/9 = 30/45 = 2/3 ✓ (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "13/11 × 6 = ?",
+       "o": [
+        "7 1/11",
+        "6 1/11",
+        "78/66",
+        "7 6/11"
+       ],
+       "a": 0,
+       "ans": "78/11 = 7 1/11."
+      },
+      {
+       "q": "In 1/2 × 1/4 = 1/4 × 1/2, which idea is shown?",
+       "o": [
+        "Cancelling",
+        "Order of multiplication does not matter",
+        "Reciprocal",
+        "Division"
+       ],
+       "a": 1,
+       "ans": "Swapping length and breadth keeps the area same."
+      },
+      {
+       "q": "1/5 ÷ 1/9 = ?",
+       "o": [
+        "1/45",
+        "5/9",
+        "9/5",
+        "45"
+       ],
+       "a": 2,
+       "ans": "1/5 × 9 = 9/5."
+      },
+      {
+       "q": "1 cowrie = 1/30 pana and 1 pana = 1/48 dinar. 1 cowrie = ? dinar",
+       "o": [
+        "1/78",
+        "1/1440",
+        "1/48",
+        "30/48"
+       ],
+       "a": 1,
+       "ans": "1/30 × 1/48 = 1/1440."
+      },
+      {
+       "q": "A baker has 5 kg flour and needs 1/6 kg per loaf. Loaves =",
+       "o": [
+        "5/6",
+        "30",
+        "1/30",
+        "11"
+       ],
+       "a": 1,
+       "ans": "5 ÷ 1/6 = 30."
+      },
+      {
+       "q": "Mariam and cousins ate 4/5 of a cake; 3 friends share the rest equally. Each friend gets",
+       "o": [
+        "1/15",
+        "4/15",
+        "1/5",
+        "3/5"
+       ],
+       "a": 0,
+       "ans": "(1/5) ÷ 3 = 1/15."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Aaron walks 3 km in 1 hour. How far does he walk in 2/5 hour?",
+       "ans": "2/5 × 3 (1 mark) = 6/5 = 1 1/5 km (1 mark)."
+      },
+      {
+       "q": "Find 1/4 × 2/3 in lowest form.",
+       "ans": "2/12 (1 mark) = 1/6 (1 mark)."
+      },
+      {
+       "q": "Find 14/4 ÷ 2.",
+       "ans": "14/4 × 1/2 = 14/8 (1 mark) = 7/4 (1 mark)."
+      },
+      {
+       "q": "What sum does Sridharacharya's problem give: 1 ÷ 1/6 + 1 ÷ 1/10 + 1 ÷ 1/13 + 1 ÷ 1/9 + 1 ÷ 1/2?",
+       "ans": "6 + 10 + 13 + 9 + 2 (1 mark) = 40 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Safia saw the Moon set on Monday at 10 pm. It sets 5/6 hour later each day. At what time will it set on Thursday?",
+       "ans": "Thursday is 3 days later (1 mark); 3 × 5/6 = 15/6 = 2 1/2 hours (1 mark); 10 pm + 2 1/2 h = 12:30 am (1 mark)."
+      },
+      {
+       "q": "Find the area of a rectangle with sides 3 3/4 ft and 9 3/5 ft.",
+       "ans": "15/4 × 48/5 (1 mark); cancel 15 with 5 and 48 with 4: 3 × 12 (1 mark) = 36 sq ft (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Līlāvatī's 'Dramma-tic donation': a miser gave 1/5 of 1/16 of 1/4 of 1/2 of 2/3 of 3/4 of a dramma. 1 dramma = 1280 cowries. (a) Write the product. (b) Simplify it. (c) How many cowries were given? (d) What is the joke?",
+       "ans": "(a) 1/2 × 2/3 × 3/4 × 1/5 × 1/16 × 1/4 (1 mark). (b) = 6/7680 (1 mark) = 1/1280 dramma (1 mark). (c) 1/1280 × 1280 = 1 cowrie (1 mark). (d) The miser gave the least valuable coin, a single cowrie (1 mark)."
+      },
+      {
+       "q": "Evaluate (1 − 1/2) × (1 − 1/3) × … × (1 − 1/10). Make a general statement and explain it.",
+       "ans": "Each bracket 1 − 1/k = (k − 1)/k (1 mark). Product = 1/2 × 2/3 × 3/4 × … × 9/10 (1 mark). Numerators cancel earlier denominators (1 mark), leaving 1/10 (1 mark). In general (1 − 1/2) × … × (1 − 1/n) = 1/n (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "5 × 2/3 = ?",
+       "o": [
+        "10/3",
+        "10/15",
+        "2/15",
+        "7/3"
+       ],
+       "a": 0,
+       "ans": "(5 × 2)/3 = 10/3."
+      },
+      {
+       "q": "1/6 × 1/5 = ?",
+       "o": [
+        "1/11",
+        "2/11",
+        "1/30",
+        "6/5"
+       ],
+       "a": 2,
+       "ans": "1/(6×5) = 1/30."
+      },
+      {
+       "q": "4/3 ÷ 3/4 = ?",
+       "o": [
+        "1",
+        "16/9",
+        "9/16",
+        "12/12"
+       ],
+       "a": 1,
+       "ans": "4/3 × 4/3 = 16/9."
+      },
+      {
+       "q": "1 ÷ 1/5 = ?",
+       "o": [
+        "1/5",
+        "5",
+        "0",
+        "1"
+       ],
+       "a": 1,
+       "ans": "1 × 5 = 5."
+      },
+      {
+       "q": "A fraction multiplied by its reciprocal equals",
+       "o": [
+        "0",
+        "the fraction",
+        "1",
+        "its square"
+       ],
+       "a": 2,
+       "ans": "a/b × b/a = 1."
+      },
+      {
+       "q": "(1 − 1/2) × (1 − 1/3) × (1 − 1/4) × (1 − 1/5) = ?",
+       "o": [
+        "1/5",
+        "4/5",
+        "1/120",
+        "1/4"
+       ],
+       "a": 0,
+       "ans": "Telescoping gives 1/5."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "1 hour of internet costs ₹8. Find the cost of 1 1/4 hours.",
+       "ans": "1 1/4 = 5/4 (1 mark); 5/4 × 8 = ₹10 (1 mark)."
+      },
+      {
+       "q": "Find 3/5 × 1/2 using a unit square.",
+       "ans": "Square cut into 2 rows × 5 columns = 10 cells (1 mark); 3 cells shaded: 3/10 (1 mark)."
+      },
+      {
+       "q": "Is the quotient 1/8 ÷ 1/4 greater or less than the dividend? Find it.",
+       "ans": "1/8 × 4 = 1/2 (1 mark); 1/2 > 1/8, greater, because the divisor is between 0 and 1 (1 mark)."
+      },
+      {
+       "q": "Find 14/6 ÷ 7/3.",
+       "ans": "14/6 × 3/7 (1 mark) = 42/42 = 1 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A tap fills 7/10 of a tank in 1 hour. What part is filled in (a) 1/3 hour (b) 3/4 hour (c) 7/10 hour?",
+       "ans": "(a) 7/30 (1 mark) (b) 21/40 (1 mark) (c) 49/100 (1 mark)."
+      },
+      {
+       "q": "Choose the correct expression and solve: 1/2 m of ribbon is used for 8 badges. Find ribbon per badge. Options: 8 × 1/2, 1/2 ÷ 1/8, 8 ÷ 1/2, 1/2 ÷ 8.",
+       "ans": "Expression: 1/2 ÷ 8 (1 mark); = 1/2 × 1/8 (1 mark) = 1/16 m (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Case study — the colony of ants: ants split equally at every fork. Groups reaching the mango tree are 1/2, 1/4, 1/8 and 1/32 of the colony; the rest reach the sugarcane field. (a) What fraction reaches the mango tree? (b) What fraction reaches the sugarcane field? (c) If the colony has 3200 ants, how many reach each place?",
+       "ans": "(a) 16/32 + 8/32 + 4/32 + 1/32 = 29/32 (2 marks). (b) 1 − 29/32 = 3/32 (1 mark). (c) Mango: 29/32 × 3200 = 2900 ants; sugarcane: 3/32 × 3200 = 300 ants (2 marks)."
+      },
+      {
+       "q": "Fig. 8.4 type problem: a square of area 1 square unit; its top-right quarter is a smaller square; the triangle inside it is half the small square; the shaded part is 3/4 of the triangle. Find the shaded fraction, showing each multiplication.",
+       "ans": "Small square = 1/4 (1 mark). Triangle = 1/2 × 1/4 = 1/8 (2 marks). Shaded = 3/4 × 1/8 (1 mark) = 3/32 of the square (1 mark)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

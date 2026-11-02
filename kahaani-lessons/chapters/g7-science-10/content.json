@@ -1,0 +1,117 @@
+{
+ "grade": 7, "chapter": 10, "n": 10, "title": "Life Processes in Plants", "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {"q": "Which green pigment in leaves helps capture sunlight?", "o": ["Chlorophyll", "Starch", "Iodine", "Glucose"], "a": 0, "why": "Leaves are green because of chlorophyll, which captures sunlight."},
+  {"q": "In the iodine test, starch is shown by which colour?", "o": ["Red", "Blue-black", "Yellow", "Green"], "a": 1, "why": "Iodine turns blue-black where starch is present."},
+  {"q": "In Activity 10.1, which pot's plant grows best?", "o": ["Dark, with water", "Sunlight, no water", "Sunlight, with water", "Dark, no water"], "a": 2, "why": "Plants need both sunlight and water to grow."},
+  {"q": "Caustic soda is used in Activity 10.4 because it:", "o": ["gives out oxygen", "makes starch", "removes chlorophyll", "absorbs carbon dioxide"], "a": 3, "why": "It absorbs CO₂, so the half-leaf inside gets no CO₂."},
+  {"q": "The gas collected from a water plant kept in sunlight makes a lit matchstick burn with an intense flame. The gas is:", "o": ["Oxygen", "Carbon dioxide", "Nitrogen", "Water vapour"], "a": 0, "why": "Oxygen supports burning; it is released in photosynthesis."},
+  {"q": "Tiny pores on leaves that help in exchange of gases are called:", "o": ["Xylem", "Stomata", "Phloem", "Roots"], "a": 1, "why": "Stomata are pores on the leaf surface for gas exchange."},
+  {"q": "Water and minerals move up from the roots through the:", "o": ["Phloem", "Stomata", "Xylem", "Chlorophyll"], "a": 2, "why": "Xylem carries water and dissolved minerals upward."},
+  {"q": "Food made in leaves is carried to other parts through the:", "o": ["Xylem", "Stomata", "Lime water", "Phloem"], "a": 3, "why": "Phloem transports food to all parts of the plant."},
+  {"q": "Lime water turns milky in Activity 10.8 because germinating seeds:", "o": ["release carbon dioxide while respiring", "release oxygen", "absorb water", "make starch"], "a": 0, "why": "Respiring seeds give out CO₂, which turns lime water milky."},
+  {"q": "Which parts of a plant carry out respiration?", "o": ["Only leaves", "All parts, green or non-green", "Only roots", "Only flowers"], "a": 1, "why": "Every living part respires to release energy."}
+ ],
+ "papers": [
+  {"title": "Sample Paper 1", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "Plants store food mainly in the form of:", "o": ["Protein", "Starch", "Fat", "Vitamin"], "a": 1, "ans": "Plants store food as starch, a carbohydrate."},
+    {"q": "Why is a leaf boiled in alcohol (in a water bath) before the iodine test?", "o": ["To add starch", "To kill germs", "To remove chlorophyll so the colour change is easy to see", "To make it green"], "a": 2, "ans": "Decolourising the leaf makes the blue-black colour easy to observe."},
+    {"q": "Which of these is NOT needed for photosynthesis?", "o": ["Sunlight", "Carbon dioxide", "Chlorophyll", "Iodine"], "a": 3, "ans": "Iodine is only used to test for starch."},
+    {"q": "The product of photosynthesis that gives instant energy is:", "o": ["Glucose", "Oxygen", "Water", "Carbon dioxide"], "a": 0, "ans": "Food is first made as glucose, which gives instant energy."},
+    {"q": "Stomata are best seen in a peel taken from the:", "o": ["stem", "lower surface of a leaf", "root", "flower"], "a": 1, "ans": "Activity 10.6 uses a peel from the lower surface of a leaf."},
+    {"q": "Respiration releases:", "o": ["only oxygen", "only glucose", "carbon dioxide, water and energy", "chlorophyll"], "a": 2, "ans": "Glucose + Oxygen → Carbon dioxide + Water + Energy."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Write the word equation of photosynthesis.", "ans": "Carbon dioxide + Water → Glucose + Oxygen (1 mark), in the presence of sunlight and chlorophyll (1 mark)."},
+    {"q": "Why are leaves called the 'food factories' of plants?", "ans": "Leaves contain chlorophyll (1 mark) and prepare food (starch) using sunlight, water and carbon dioxide (1 mark)."},
+    {"q": "Name the tissues that carry (a) water and (b) food in plants.", "ans": "(a) Xylem carries water and minerals (1 mark). (b) Phloem carries food (1 mark)."},
+    {"q": "State two functions of stomata.", "ans": "Exchange of gases — CO₂ and O₂ — during photosynthesis and respiration (1 mark); water vapour escapes through them (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Describe Activity 10.1 with three pots A, B and C. What do you conclude?", "ans": "Pot A in sunlight with water, Pot B in sunlight without water, Pot C in the dark with water (1 mark). After two weeks A grows best, B may die, C grows poorly and is pale (1 mark). Conclusion: plants need both sunlight and water for growth (1 mark)."},
+    {"q": "A potato slice turns blue-black with iodine. Where did this starch come from?", "ans": "Food is made in the green leaves by photosynthesis (1 mark). It is carried through the phloem to the potato (1 mark), where it is stored as starch, so iodine turns it blue-black (1 mark)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Describe Activity 10.4 to show that carbon dioxide is needed for photosynthesis. Include the set-up, precautions, result and conclusion.", "ans": "Destarch a potted plant by keeping it in the dark for 2–3 days (1 mark). Put caustic soda (absorbs CO₂) in a wide-mouthed bottle and insert half of one leaf through a split cork; keep it in sunlight for a few hours (1 mark). Caution: only teachers handle caustic soda (1 mark). Iodine test: the outside half turns blue-black, the inside half does not (1 mark). Conclusion: carbon dioxide from air is essential for making starch (1 mark)."},
+    {"q": "Compare photosynthesis and respiration under: raw materials, products, where it happens, when it happens, importance.", "ans": "Raw materials: CO₂ + water vs glucose + O₂ (1). Products: glucose + O₂ vs CO₂ + water + energy (1). Where: green parts with chlorophyll vs all living parts (1). When: only in sunlight vs all the time, day and night (1). Importance: makes food and releases oxygen vs releases energy for growth (1)."}]}
+  ]},
+  {"title": "Sample Paper 2", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "A plant kept in sunlight without water for two weeks will most likely:", "o": ["grow tallest", "wilt and may die", "turn blue-black", "grow more leaves"], "a": 1, "ans": "Without water the plant in Pot B may die even in sunlight."},
+    {"q": "Bhaskar kept one plant in the dark for:", "o": ["12 hours", "24 hours", "36 hours", "2 weeks"], "a": 2, "ans": "In Activity 10.3 the plant was kept in the dark for 36 hours."},
+    {"q": "In a variegated leaf from a sunlit plant, starch is found in:", "o": ["non-green patches", "the whole leaf", "no part", "green patches"], "a": 3, "ans": "Only green patches (with chlorophyll) turned blue-black."},
+    {"q": "Caustic soda (sodium hydroxide) absorbs:", "o": ["carbon dioxide", "oxygen", "water", "starch"], "a": 0, "ans": "It absorbs CO₂ from the air in the bottle."},
+    {"q": "Red ink in Activity 10.7 rises through the:", "o": ["phloem", "xylem", "stomata", "chlorophyll"], "a": 1, "ans": "Xylem carries water (with ink) upward."},
+    {"q": "Which Indian scientist studied the effect of water, temperature and colour of light on photosynthesis?", "o": ["Kamala Sohonie", "C. V. Raman", "R. H. Dastur", "J. C. Bose"], "a": 2, "ans": "Rustom Hormusji Dastur studied these factors."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Why should alcohol never be heated directly over a flame?", "ans": "Alcohol is highly flammable (1 mark); it can catch fire and cause burns, so it is heated in a water bath (1 mark)."},
+    {"q": "What is meant by destarching a plant? How is it done?", "ans": "Making the plant lose its stored starch (1 mark) by keeping it in the dark for 2–3 days (1 mark)."},
+    {"q": "Write the word equation for respiration.", "ans": "Glucose + Oxygen (1 mark) → Carbon dioxide + Water + Energy (1 mark)."},
+    {"q": "Name two places where food may be stored in a plant.", "ans": "Seeds (1 mark) and roots (1 mark) (also tubers like potato)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Describe the steps of testing a leaf for starch.", "ans": "Boil the leaf in water for 5 minutes to soften it (1). Place it in alcohol in a test tube kept in a beaker of boiling water until it becomes colourless (1). Put dilute iodine on it; blue-black colour shows starch (1)."},
+    {"q": "Why do the non-green patches of a sunlit leaf not turn blue-black? What does Bhaskar's experiment show?", "ans": "Non-green patches may not have sufficient chlorophyll to prepare enough starch to be detected (1). Starch formed only in green patches of the sunlit leaf, and not in the dark leaf (1). So chlorophyll and sunlight are essential for starch formation (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Vani keeps four potted plants with water: (a) sunlight with CO₂, (b) sunlight without CO₂, (c) dark with CO₂, (d) dark without CO₂. (i) In which will starch form? (ii) In which will oxygen be generated? (iii) Explain your answers. (iv) Does it support her idea?", "ans": "(i) Starch forms only in (a) (1). (ii) Oxygen is generated only in (a) (1). (iii) Photosynthesis needs both sunlight and CO₂ (with water and chlorophyll); (b) lacks CO₂, (c) lacks light, (d) lacks both (2). (iv) Yes, comparing (a) and (b) shows CO₂ is essential (1)."},
+    {"q": "Describe Activity 10.5 (Barkha didi's experiment). What does it show?", "ans": "A water plant is placed under an inverted funnel in a beaker of water with an inverted test tube over the funnel; set-up A in sunlight, B in the dark (1). Bubbles rise and gas collects only in A (1). A lit matchstick put into the gas burns with an intense flame (1), so the gas is rich in oxygen (1). It shows oxygen is released in photosynthesis, which occurs in sunlight (1)."}]}
+  ]},
+  {"title": "Sample Paper 3", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "In Activity 10.1, the plant in the dark with water shows:", "o": ["the most growth", "pale yellow leaves and poor growth", "blue-black leaves", "no difference from Pot A"], "a": 1, "ans": "Without sunlight it grows poorly and turns pale."},
+    {"q": "The primary site of photosynthesis is the:", "o": ["root", "flower", "leaf", "seed"], "a": 2, "ans": "The leaf is the main site of photosynthesis."},
+    {"q": "Germinating seeds in a closed flask give out:", "o": ["oxygen", "starch", "iodine", "carbon dioxide"], "a": 3, "ans": "Respiring seeds produce carbon dioxide."},
+    {"q": "X + Y → Carbon dioxide + Z + Energy. Here Z is:", "o": ["Water", "Glucose", "Oxygen", "Starch"], "a": 0, "ans": "Glucose + Oxygen → CO₂ + Water + Energy, so Z is water."},
+    {"q": "Which plant leaf is suggested for observing stomata?", "o": ["Cactus spine", "Rhoeo", "Potato tuber", "Coconut shell"], "a": 1, "ans": "Rhoeo, money plant, onion, hibiscus, coleus or grass can be used."},
+    {"q": "Vrikshayurveda is:", "o": ["a plant pigment", "a scientist", "an ancient Indian text on plants and farming", "a type of manure"], "a": 2, "ans": "It is an ancient Indian text recording observations about plant growth and farming."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Why are most leaves broad and flat?", "ans": "Large surface captures more sunlight (1 mark) and has many stomata for gas exchange, making photosynthesis efficient (1 mark)."},
+    {"q": "What happens to glucose made in photosynthesis?", "ans": "It is used as an instant source of energy (1 mark) and is later converted into starch for storage (1 mark)."},
+    {"q": "Some leaves are red or violet. Can they photosynthesise? Give a reason.", "ans": "Yes (1 mark). They contain chlorophyll hidden by other pigments, and some of those pigments also help; an iodine test shows starch (1 mark)."},
+    {"q": "Why is the stem cut obliquely under water in Activity 10.7?", "ans": "So the cut surface is large for water to enter (1 mark), and cutting under water stops air entering the tubes so water can rise (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Describe Activity 10.8 to show that plants respire.", "ans": "Soaked moong seeds are placed on wet cotton in a conical flask closed with a two-holed cork and kept in the dark for 24 hours (1). The flask is connected to a test tube of lime water; another tube of lime water is kept for comparison (1). Lime water connected to the flask turns milky because the respiring seeds give out carbon dioxide (1)."},
+    {"q": "Explain the role of xylem and phloem using the red-ink activity.", "ans": "Twig in red-ink water shows red colour in stem, leaves and flowers next day (1). Cut stem shows red in the xylem, so water and dissolved minerals move up through xylem (1). Food made in leaves is carried to all parts through phloem (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Imagine all the organisms that carry out photosynthesis disappear. Explain the impact on living organisms.", "ans": "No food would be made, since all food chains start with photosynthesising organisms (1). Herbivores would starve, then carnivores (1). Oxygen would not be released, so oxygen for respiration would run out (1). Carbon dioxide would build up in the air (1). Eventually almost all life would end (1)."},
+    {"q": "Krishna places one potted plant in sunlight and an identical one in a dark room. (i) What idea is tested? (ii) What differences will be seen? (iii) Which leaves will give a positive iodine test? (iv) Why must the two plants be of the same size?", "ans": "(i) Whether sunlight is needed for plants to make food and grow (1). (ii) Sunlit plant is green and healthy; dark plant is pale/yellowish and weak (2). (iii) Leaves of the plant in sunlight turn blue-black (1). (iv) So that only one factor (light) differs and the comparison is fair (1)."}]}
+  ]},
+  {"title": "Sample Paper 4", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "Which part of the leaf inside the caustic soda bottle lacks carbon dioxide?", "o": ["The part outside", "The part inside", "Both parts", "Neither"], "a": 1, "ans": "The inside part lacks CO₂, so it makes no starch."},
+    {"q": "Minerals reach the leaves:", "o": ["through stomata", "through phloem", "dissolved in water through xylem", "from the air"], "a": 2, "ans": "Minerals dissolved in water move up through the xylem."},
+    {"q": "Which gas do plants take in for respiration?", "o": ["Carbon dioxide", "Nitrogen", "Hydrogen", "Oxygen"], "a": 3, "ans": "Respiration uses oxygen to break down glucose."},
+    {"q": "Kamala Sohonie's Ph.D. work was on:", "o": ["respiration in plants", "photosynthesis and light", "stomata", "xylem"], "a": 0, "ans": "She received a Ph.D. from Cambridge for work on respiration in plants."},
+    {"q": "In Ananya's experiment, tube D with only water is the:", "o": ["test tube with most CO₂", "control", "plant tube", "snail tube"], "a": 1, "ans": "D shows no change and is used for comparison (control)."},
+    {"q": "In a sealed bottle garden, the CO₂ used for photosynthesis comes from:", "o": ["the soil only", "outside air", "respiration of the plant", "the glass"], "a": 2, "ans": "CO₂ from the plant's respiration is used for photosynthesis."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "What are the raw materials and products of photosynthesis?", "ans": "Raw materials: carbon dioxide and water (1 mark). Products: glucose and oxygen (1 mark)."},
+    {"q": "At night, which gases pass in and out of stomata? Why?", "ans": "Oxygen goes in, carbon dioxide comes out (1 mark), because there is no photosynthesis at night and only respiration occurs (1 mark)."},
+    {"q": "Do green stems photosynthesise? Explain.", "ans": "Yes (1 mark), any green part with chlorophyll can perform photosynthesis (1 mark)."},
+    {"q": "Why does lime water turn milky?", "ans": "Lime water turns milky in the presence of more carbon dioxide (1 mark), which is produced by respiration of the seeds (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Ananya keeps A (snail), B (water plant), C (snail + plant), D (water) with a CO₂ indicator in light. What does she want to find out and what results do you expect?", "ans": "She wants to find how animals and plants change CO₂ levels: respiration adds CO₂ and photosynthesis uses it (1). Expected: A — more CO₂; B — less CO₂ (1). C — little change as CO₂ from the snail is used by the plant; D — no change, control (1)."},
+    {"q": "Design an experiment to see whether water transport is faster in warm or cold conditions.", "ans": "Take two similar twigs in two tumblers with equal water and red ink; cut stems obliquely under water (1). Keep one in a warm place and one in a cold place, all else the same (1). Note how quickly the red colour reaches the leaves/flowers; the faster one shows quicker transport (usually warm) (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Explain how the structure of a leaf helps photosynthesis. Include chlorophyll, shape and stomata, and name the gases exchanged.", "ans": "Leaves contain chlorophyll that captures sunlight (1). Broad, flat shape gives large surface area to receive light (1). Thin leaves let light and gases reach cells (1). Stomata on the surface allow gas exchange (1): CO₂ in and O₂ out during photosynthesis (1)."},
+    {"q": "Photosynthesis and respiration are essential to maintain balance in nature. Discuss.", "ans": "Photosynthesis uses CO₂ and releases O₂ (1). Respiration in all living beings uses O₂ and releases CO₂ (1). The O₂ from plants is used for respiration and the CO₂ from respiration is used in photosynthesis (1). This keeps the levels of O₂ and CO₂ in the air balanced (1). It also keeps food and energy available for all organisms (e.g. bottle garden) (1)."}]}
+  ]},
+  {"title": "Sample Paper 5", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "Which conditions are given to Pot C in Activity 10.1?", "o": ["Sunlight, water", "Sunlight, no water", "Dark, water", "Dark, no water"], "a": 2, "ans": "Pot C is kept in the dark with water."},
+    {"q": "After iodine, the leaf of a plant kept in the dark for 36 hours shows:", "o": ["blue-black green patches", "blue-black non-green patches", "blue-black whole leaf", "no blue-black colour"], "a": 3, "ans": "No starch is made in the dark, so no blue-black colour."},
+    {"q": "Photosynthesis takes place in the presence of:", "o": ["sunlight and chlorophyll", "darkness and iodine", "oxygen only", "lime water"], "a": 0, "ans": "Plants make food in the presence of sunlight and chlorophyll."},
+    {"q": "Which statement is correct?", "o": ["Only green parts respire", "All parts of a plant respire", "Plants respire only in light", "Roots never respire"], "a": 1, "ans": "All parts, green or non-green, carry out respiration."},
+    {"q": "The red colour seen in a white flower in Activity 10.7 reached it through:", "o": ["stomata", "phloem", "xylem", "roots of another plant"], "a": 2, "ans": "Water with ink moves up through xylem to leaves and flowers."},
+    {"q": "Energy released in respiration is used by plants for:", "o": ["making iodine", "absorbing CO₂ at night only", "making chlorophyll from soil", "growth and development"], "a": 3, "ans": "Respiration energy is used for growth and development."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Name the four things essential for photosynthesis.", "ans": "Sunlight, chlorophyll (1 mark), carbon dioxide and water (1 mark)."},
+    {"q": "Why did Barkha didi place her thumb on the test tube before removing it?", "ans": "To prevent the collected gas from escaping (1 mark), so she could test it with a lit matchstick (1 mark)."},
+    {"q": "How does a greenhouse help plants grow?", "ans": "It lets in light and allows control of water, warmth and carbon dioxide (1 mark), so plants photosynthesise and grow better (1 mark)."},
+    {"q": "Give two differences between xylem and phloem.", "ans": "Xylem carries water and minerals; phloem carries food (1 mark). Xylem carries upward from roots; phloem carries from leaves to all parts (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Describe how you would observe stomata in the lab.", "ans": "Peel a thin layer from the lower surface of a leaf (e.g. rhoeo) and keep it in water (1). Place it on a slide with water, add a drop of ink and cover with a coverslip (1). Observe under a microscope: tiny pores (stomata) are seen (1)."},
+    {"q": "Explain why a sealed bottle garden can keep growing.", "ans": "The plant respires and gives out CO₂, which it uses in photosynthesis (1). Photosynthesis gives out O₂, which is used in respiration (1). Gas exchange is balanced inside, and water recycles, so the plant keeps growing in light (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "How are photosynthesis, respiration, and water and food transport crucial for crop production?", "ans": "Photosynthesis makes food that becomes grains, fruits and vegetables (1). Xylem brings water and minerals from soil and manure to leaves (1). Phloem carries food to grains, fruits and tubers for storage (1). Respiration releases energy for growth; roots need air in soil (1). So good light, water, minerals and air give better yield (1)."},
+    {"q": "Read: 'A leaf with green and white patches from a sunlit plant was decolourised and tested with iodine.' (i) Which parts turn blue-black? (ii) Why decolourise first? (iii) What would happen if the plant had been in the dark for 36 hours? (iv) What conclusion can be drawn?", "ans": "(i) Only the green patches turn blue-black (1). (ii) Removing chlorophyll makes the colour change easy to see (1). (iii) No part would turn blue-black, as no starch is made without sunlight (1). (iv) Chlorophyll and sunlight are both essential for making starch (2)."}]}
+  ]}
+ ]
+}

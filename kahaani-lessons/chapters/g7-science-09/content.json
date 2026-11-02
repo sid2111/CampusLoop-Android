@@ -1,0 +1,117 @@
+{
+ "grade": 7, "chapter": 9, "n": 9, "title": "Life Processes in Animals", "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {"q": "Breaking down of food into fine pieces by chewing and crushing is called:", "o": ["Mechanical digestion", "Absorption", "Egestion", "Respiration"], "a": 0, "why": "Teeth crush and chew food into fine pieces; this initial breakdown is mechanical digestion."},
+  {"q": "Chewed boiled rice gives little or no blue-black colour with iodine because:", "o": ["Iodine does not work on chewed food", "Saliva has broken down the starch into sugar", "Chewing adds water to the rice", "Rice contains no starch"], "a": 1, "why": "Saliva contains a digestive juice that breaks starch into sugar, so little starch is left."},
+  {"q": "The longest part of the alimentary canal is the:", "o": ["Large intestine", "Food pipe", "Small intestine", "Stomach"], "a": 2, "why": "The small intestine is almost 6 m long; the large intestine is about 1.5 m."},
+  {"q": "Bile is secreted by the:", "o": ["Pancreas", "Stomach", "Small intestine", "Liver"], "a": 3, "why": "The liver secretes bile, which is mildly basic and breaks fats into tiny droplets."},
+  {"q": "Which part of the stomach secretion protects the stomach lining from acid?", "o": ["Mucus", "Bile", "Saliva", "Pancreatic juice"], "a": 0, "why": "Mucus protects the stomach lining from the acid, preventing damage."},
+  {"q": "Grit (small stones) helps to grind food in the ______ of birds.", "o": ["Rumen", "Gizzard", "Lungs", "Rectum"], "a": 1, "why": "Birds have no teeth; the gizzard's walls grind food, often with grit."},
+  {"q": "When we inhale, the diaphragm:", "o": ["Moves upwards", "Stays still", "Moves downwards", "Moves into the lungs"], "a": 2, "why": "During inhalation the diaphragm moves down and the ribs move up and out, increasing chest space."},
+  {"q": "Exchange of oxygen and carbon dioxide in the lungs takes place in the:", "o": ["Windpipe", "Nostrils", "Rib cage", "Alveoli"], "a": 3, "why": "Alveoli have thin walls surrounded by blood vessels where gases are exchanged."},
+  {"q": "Lime water turns milky when exhaled air is blown into it. This shows exhaled air has more:", "o": ["Carbon dioxide", "Oxygen", "Water", "Dust"], "a": 0, "why": "Lime water turns milky when it reacts with carbon dioxide."},
+  {"q": "An adult frog living in water exchanges gases mainly through its:", "o": ["Gills", "Skin", "Gizzard", "Rumen"], "a": 1, "why": "Adult frogs use lungs on land and their skin for gas exchange in water; tadpoles use gills."}
+ ],
+ "papers": [
+  {"title": "Sample Paper 1", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "Food is partially digested first in the:", "o": ["Stomach", "Mouth", "Small intestine", "Large intestine"], "a": 1, "ans": "Mouth — saliva starts breaking down starch into sugar."},
+    {"q": "The secretion of the stomach contains:", "o": ["Bile, acid and mucus", "Saliva and bile", "Digestive juice, acid and mucus", "Pancreatic juice and mucus"], "a": 2, "ans": "The stomach lining secretes digestive juice, acid and mucus."},
+    {"q": "Finger-like projections are found in the inner lining of the:", "o": ["Small intestine", "Stomach", "Food pipe", "Rectum"], "a": 0, "ans": "They increase the surface area of the small intestine for absorption."},
+    {"q": "Semi-solid waste stored in the rectum is called:", "o": ["Bile", "Mucus", "Saliva", "Stool"], "a": 3, "ans": "Stool, formed after the large intestine absorbs water and salts."},
+    {"q": "Which animal is a ruminant?", "o": ["Sparrow", "Cow", "Python", "Frog"], "a": 1, "ans": "Cows bring partly digested food back to the mouth to chew it again."},
+    {"q": "Fish breathe through:", "o": ["Lungs", "Moist skin", "Gills", "Nostrils only"], "a": 2, "ans": "Gills are richly supplied with blood vessels and exchange gases with water."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Why does chapati taste sweet if chewed for a long time?", "ans": "Chapati contains starch (1 mark). Saliva contains a digestive juice that breaks starch into sugar, which tastes sweet (1 mark)."},
+    {"q": "Write the word equation of respiration.", "ans": "Glucose + Oxygen → Carbon dioxide + Water + Energy (2 marks: reactants 1, products 1)."},
+    {"q": "Why is the large intestine called 'large' though it is shorter than the small intestine?", "ans": "Its length is about 1.5 m, shorter than the 6 m small intestine (1 mark), but it is wider than the small intestine, hence 'large' (1 mark)."},
+    {"q": "Why should we breathe through the nose and not through the mouth?", "ans": "The nostrils have tiny hair and mucus (1 mark) which trap dust and dirt from the air we breathe in, so cleaner air reaches the lungs (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Describe the role of the stomach in digestion.", "ans": "Walls contract and relax to churn food (1). Digestive juice breaks down proteins; acid helps break proteins and kills harmful bacteria (1). Mucus protects the lining from acid; food becomes a semi-liquid mass (1)."},
+    {"q": "State three differences between breathing and respiration.", "ans": "Breathing is inhaling and exhaling air; respiration is breaking down glucose with oxygen to release energy (1). Breathing is a physical process; respiration is a chemical process (1). Breathing involves lungs, ribs and diaphragm; respiration occurs inside the body and produces carbon dioxide, water and energy (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Trace the journey of food through the human alimentary canal, naming each part and what happens there.", "ans": "Mouth: teeth chew (mechanical digestion), saliva breaks starch (1). Oesophagus: wave-like contraction and relaxation pushes food to the stomach (1). Stomach: churning with digestive juice, acid and mucus; proteins digested (1). Small intestine: bile, pancreatic juice and intestinal juice complete digestion; nutrients absorbed into blood through finger-like projections (1). Large intestine absorbs water and salts → stool, stored in rectum, expelled through anus (egestion) (1)."},
+    {"q": "Case: In Activity 9.1, test tube A has boiled rice and test tube B has chewed boiled rice. Water and iodine are added to both. (a) What colour appears in A and why? (b) What is seen in B and why? (c) What change would you make if B still shows colour? (d) What does this show about digestion?", "ans": "(a) Blue-black — iodine gives blue-black with starch; rice has starch (1.5). (b) No change or very light blue-black — saliva broke most starch into sugar (1.5). (c) Chew the rice for a longer time and repeat (1). (d) Digestion of starch begins in the mouth by saliva (1)."}]}
+  ]},
+  {"title": "Sample Paper 2", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "Bile is:", "o": ["Mildly basic", "Strongly acidic", "Neutral", "Mildly acidic"], "a": 0, "ans": "Bile is mildly basic and neutralises acid from the stomach."},
+    {"q": "Which juice breaks down carbohydrates, proteins and fats?", "o": ["Saliva", "Bile", "Mucus", "Pancreatic juice"], "a": 3, "ans": "Pancreatic juice acts on all three."},
+    {"q": "The small balloon-like sacs in the lungs are:", "o": ["Nostrils", "Alveoli", "Villi", "Ribs"], "a": 1, "ans": "Branches of the windpipe end in alveoli."},
+    {"q": "Inhaled air contains nearly ___ oxygen.", "o": ["4–5%", "16–17%", "21%", "0.04%"], "a": 2, "ans": "Inhaled air has nearly 21% oxygen."},
+    {"q": "The rib cage:", "o": ["Protects the lungs", "Digests food", "Produces bile", "Exchanges gases"], "a": 0, "ans": "Our lungs are protected by the rib cage."},
+    {"q": "Earthworms breathe through their:", "o": ["Gills", "Lungs", "Gizzard", "Moist skin"], "a": 3, "ans": "Earthworms exchange gases through their moist skin."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "What is absorption? Where does it mainly take place?", "ans": "Passing of digested nutrients into the blood (1 mark), mainly through the walls of the small intestine (1 mark)."},
+    {"q": "What is egestion?", "ans": "Removal of stool, the undigested semi-solid waste (1 mark), through the anus (1 mark)."},
+    {"q": "Give two functions of the acid in the stomach.", "ans": "Helps break down proteins (1 mark); kills many harmful bacteria (1 mark)."},
+    {"q": "What do the balloons and the rubber sheet represent in the breathing model (Activity 9.2)?", "ans": "Balloons represent the lungs (1 mark); the rubber sheet represents the diaphragm (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Explain how the small intestine is suited for absorption of nutrients.", "ans": "It is very long (about 6 m) (1). Its inner lining is thin and has thousands of finger-like projections that increase surface area (1). Blood vessels in its walls take in nutrients and carry them to the body (1)."},
+    {"q": "Explain the process of rumination.", "ans": "Cows and buffaloes partially chew grass and swallow it (1). Partial digestion takes place in the stomach (rumen) (1). Partly digested food is brought back to the mouth and chewed thoroughly, then passes down for further digestion (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Describe the mechanism of breathing with the help of the movements of ribs and diaphragm.", "ans": "Inhalation: ribs move up and outwards (1); diaphragm, a dome-shaped muscle below the lungs, moves down (1); space inside the chest increases and air enters the lungs (1). Exhalation: ribs move down and inwards, diaphragm moves up (1); space reduces and air is pushed out (1)."},
+    {"q": "Case: Rakshita passes inhaled air through lime water in tube A using a pichkari, and blows exhaled air into lime water in tube B. (a) What does she observe? (b) Which gas causes this? (c) What does she conclude? (d) Give the approximate percentage of this gas in inhaled and exhaled air.", "ans": "(a) Lime water in B turns milky; A does not (1.5). (b) Carbon dioxide (1). (c) Exhaled air contains more carbon dioxide than inhaled air (1.5). (d) About 0.04% in inhaled air and 4–5% in exhaled air (1)."}]}
+  ]},
+  {"title": "Sample Paper 3", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "The food pipe is also called the:", "o": ["Windpipe", "Oesophagus", "Rectum", "Rumen"], "a": 1, "ans": "The food pipe is the oesophagus."},
+    {"q": "Iodine solution gives a blue-black colour with:", "o": ["Sugar", "Fat", "Starch", "Protein"], "a": 2, "ans": "Blue-black colour indicates starch."},
+    {"q": "Celiac disease is a reaction to:", "o": ["Gluten", "Fibre", "Sugar", "Bile"], "a": 0, "ans": "The body reacts to gluten, a protein in wheat, barley and rye."},
+    {"q": "Which is gluten-free?", "o": ["Wheat", "Barley", "Rye", "Ragi"], "a": 3, "ans": "Millets like ragi, jowar and bajra are naturally gluten-free."},
+    {"q": "Exhaled air contains nearly ___ carbon dioxide.", "o": ["0.04%", "4–5%", "21%", "16–17%"], "a": 1, "ans": "Exhaled air has nearly 4–5% carbon dioxide."},
+    {"q": "Tadpoles breathe through:", "o": ["Lungs", "Skin only", "Gills", "Alveoli"], "a": 2, "ans": "Tadpoles breathe through gills."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Name the three sources of digestive secretions received by the small intestine.", "ans": "Inner lining of the small intestine (1 mark); liver and pancreas (1 mark)."},
+    {"q": "How does food move down the food pipe?", "ans": "The walls of the food pipe contract and relax (1 mark) in a wave-like motion that pushes the food down into the stomach (1 mark)."},
+    {"q": "Name two fermented foods good for digestion and say why.", "ans": "Curd, buttermilk (any two of curd, buttermilk, shrikhand, kanji, pickles, gundruk, poita bhat) (1 mark); they keep the digestive system healthy (1 mark)."},
+    {"q": "What is passive smoking?", "ans": "When non-smokers inhale air polluted by someone's smoke (1 mark); it is dangerous especially for children, pregnant women and the elderly (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Give the roles of bile and pancreatic juice in digestion.", "ans": "Bile (from liver) is mildly basic, neutralises acid from the stomach (1) and breaks fats into tiny droplets (1). Pancreatic juice is basic, neutralises acid and breaks down carbohydrates, proteins and fats (1)."},
+    {"q": "Describe the pathway of air from the nostrils to the alveoli.", "ans": "Air enters through nostrils into nasal passages, where hair and mucus trap dust (1). It passes through the windpipe, which branches into the two lungs (1). Branches divide into finer branches ending in alveoli (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "How does exchange of gases take place in the alveoli? How is the oxygen then used in the body?", "ans": "Fresh air fills the alveoli, which have thin walls surrounded by fine blood vessels (1). Blood brings carbon dioxide from the body and releases it into the alveoli (1). Oxygen passes from alveoli into the blood and is carried to all parts of the body (1). There oxygen breaks down glucose to release energy (respiration) (1): Glucose + Oxygen → Carbon dioxide + Water + Energy (1)."},
+    {"q": "Case: Sahil put chapati pieces in tube A, Neha chewed chapati in tube B, and Santushti boiled mashed potato in tube C, then added iodine. (a) Observation in A? (b) In B? (c) In C? (d) Give reasons.", "ans": "(a) A: blue-black (1). (b) B: no change or very light blue-black (1). (c) C: blue-black (1). (d) Chapati and potato contain starch, which gives blue-black with iodine (1); in B saliva broke starch into sugar (1)."}]}
+  ]},
+  {"title": "Sample Paper 4", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "Which organ is NOT a part of the alimentary canal?", "o": ["Stomach", "Food pipe", "Pancreas", "Small intestine"], "a": 2, "ans": "The pancreas is an associated gland; food does not pass through it."},
+    {"q": "The large intestine is about ___ long.", "o": ["1.5 m", "6 m", "15 m", "0.5 m"], "a": 0, "ans": "About 1.5 metres."},
+    {"q": "A cow spends about how many hours a day chewing food?", "o": ["2 hours", "8 hours", "16 hours", "24 hours"], "a": 1, "ans": "About 8 hours a day."},
+    {"q": "Breathing is a ___ process.", "o": ["Chemical", "Digestive", "Excretory", "Physical"], "a": 3, "ans": "Breathing is physical; respiration is chemical."},
+    {"q": "The heart, blood and blood vessels form the:", "o": ["Respiratory system", "Circulatory system", "Digestive system", "Skeletal system"], "a": 1, "ans": "The circulatory system transports nutrients and oxygen."},
+    {"q": "What is the role of the diaphragm?", "o": ["To filter air", "To produce sound", "To help in inhalation and exhalation", "To absorb oxygen"], "a": 2, "ans": "Its downward and upward movement helps inhalation and exhalation."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Why do we sneeze when we inhale dust-laden air?", "ans": "Dust trapped in the nasal passages irritates the nose (1 mark); sneezing forcefully expels the dust and keeps it from reaching the lungs (1 mark)."},
+    {"q": "What are the functions of the large intestine?", "ans": "Absorbs water and some salts from undigested food (1 mark), making semi-solid stool which is stored in the rectum (1 mark)."},
+    {"q": "Whose statement is correct: Anu 'We inhale air', Shanu 'We inhale oxygen', Tanu 'We inhale air rich in oxygen'? Why?", "ans": "Anu is correct (1 mark): we inhale air, a mixture of gases of which only about 21% is oxygen, so it is neither pure oxygen nor rich in oxygen (1 mark)."},
+    {"q": "How do birds break down food without teeth?", "ans": "They have a chamber called the gizzard (1 mark) whose walls contract and relax to grind food, often helped by swallowed grit (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Yadu kept rice flour + water in tube A and rice flour + water + saliva in tube B for 35–45 minutes, then added iodine. A turned blue-black but B did not. What was he testing? Explain.", "ans": "He wanted to test whether saliva breaks down starch (1). A has starch, so iodine gives blue-black (1). In B saliva broke starch into sugar, so no blue-black (1)."},
+    {"q": "Paridhi and Anusha ran together; afterwards Anusha breathed faster. Give two possible explanations and the reason behind faster breathing.", "ans": "Anusha may have run faster or longer (1); Paridhi may be fitter/more used to running (1). More activity needs more energy, so more oxygen for respiration — hence faster breathing (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "How do different animals breathe? Explain with examples of fish, frog, earthworm and land animals.", "ans": "Land animals like birds, elephants, lions, cows, lizards, snakes breathe through lungs of different structures (1). Fish breathe through gills rich in blood vessels, exchanging gases with oxygen dissolved in water (1). Tadpoles use gills (1). Adult frogs use lungs on land and skin in water (1). Earthworms use moist skin; each mechanism suits the habitat (1)."},
+    {"q": "Case: Activity 9.2 uses a bottomless bottle, a Y-tube with two balloons, and a rubber sheet at the base. (a) What happens when the sheet is pulled down? (b) When released? (c) What do balloons, Y-tube and sheet represent? (d) Relate (a) to inhalation in the body.", "ans": "(a) Balloons inflate (1). (b) Balloons deflate (1). (c) Balloons — lungs, Y-tube — windpipe and its branches, rubber sheet — diaphragm (1.5). (d) In inhalation the diaphragm moves down and ribs up and out, increasing chest space so air enters the lungs (1.5)."}]}
+  ]},
+  {"title": "Sample Paper 5", "marks": 30, "minutes": 40, "sections": [
+   {"name": "Section A — Multiple choice", "each": 1, "qs": [
+    {"q": "Snakes like the python:", "o": ["Suck nectar", "Filter food from water", "Swallow their prey", "Drink milk only"], "a": 2, "ans": "Pythons swallow the animals they prey upon."},
+    {"q": "Mucus in the stomach:", "o": ["Protects the stomach lining from acid", "Kills bacteria", "Digests starch", "Absorbs water"], "a": 0, "ans": "Mucus protects the lining from acid."},
+    {"q": "Who observed digestion through a permanent opening in Alexis St. Martin's stomach?", "o": ["Charaka", "William Beaumont", "Sushruta", "Louis Pasteur"], "a": 1, "ans": "Dr William Beaumont, after the 1822 accident."},
+    {"q": "Breathing exercise practised in Ladakh that keeps the body warm:", "o": ["Box breathing", "Chanting", "Pranayama", "Tummo breathing"], "a": 3, "ans": "Tummo breathing improves lung function and keeps the body warm."},
+    {"q": "In the alveoli, oxygen moves:", "o": ["From blood to air", "From air into blood", "From blood to stomach", "Nowhere"], "a": 1, "ans": "Oxygen passes from the alveoli into the blood."},
+    {"q": "The process of converting nutrients into usable energy is:", "o": ["Digestion", "Absorption", "Respiration", "Egestion"], "a": 2, "ans": "Respiration releases energy from nutrients like glucose."}]},
+   {"name": "Section B — Very short answer", "each": 2, "qs": [
+    {"q": "Fill in the journey: Food → Mouth → __ → Stomach → __ → __ → __ → Anus.", "ans": "Oesophagus (0.5), small intestine (0.5), large intestine (0.5), rectum (0.5)."},
+    {"q": "How do fibre-rich foods help digestion?", "ans": "They help the large intestine function properly (1 mark) by making the stool easier to pass; gut bacteria break down fibre and produce nutrients (1 mark)."},
+    {"q": "Why does exhaled air still contain oxygen?", "ans": "Not all the inhaled oxygen is used up (1 mark): inhaled air has about 21% oxygen and exhaled air still has about 16–17% (1 mark)."},
+    {"q": "Give two harmful effects of smoking.", "ans": "Damages lungs and increases risk of lung cancer and respiratory illnesses (1 mark); causes persistent cough and infections, and harms others through passive smoking (1 mark)."}]},
+   {"name": "Section C — Short answer", "each": 3, "qs": [
+    {"q": "Anil says breathing and respiration are the same. Write three questions Sanvi can ask him to correct this idea.", "ans": "(1) Does breathing release energy from food, or does respiration? (2) Which is a physical process and which is chemical? (3) What are the products of respiration — carbon dioxide, water and energy — and where does it occur? (1 mark each)"},
+    {"q": "What is celiac disease? How can it be managed?", "ans": "A condition in which the body reacts to gluten, a protein in wheat, barley and rye (1). It damages the inner lining of the small intestine so nutrients are not absorbed properly (1). Managed only by avoiding gluten; millets like jowar, bajra, ragi are good alternatives (1)."}]},
+   {"name": "Section D — Long answer / case based", "each": 5, "qs": [
+    {"q": "Compare digestion in humans, ruminants and birds.", "ans": "Humans: teeth chew food, saliva starts starch digestion; stomach and small intestine complete digestion; large intestine absorbs water (2). Ruminants: partially chew grass, swallow, partial digestion in rumen, food returned to mouth and chewed thoroughly (rumination) (1.5). Birds: no teeth; gizzard grinds food with grit (1). Alimentary canals vary to suit different food (0.5)."},
+    {"q": "Case: Inhaled air — nearly 21% oxygen, 0.04% carbon dioxide; exhaled air — nearly 16–17% oxygen, 4–5% carbon dioxide. (a) Which gas decreases? (b) Which increases? (c) Why do these changes happen? (d) Write the word equation involved. (e) Which system carries oxygen to all body parts?", "ans": "(a) Oxygen (1). (b) Carbon dioxide (1). (c) Oxygen is used in respiration to break down glucose and carbon dioxide is produced and breathed out (1). (d) Glucose + Oxygen → Carbon dioxide + Water + Energy (1). (e) The circulatory system — heart, blood and blood vessels (1)."}]}
+  ]}
+ ]
+}

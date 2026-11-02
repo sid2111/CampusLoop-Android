@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 8,
+ "n": 8,
+ "title": "Measurement of Time and Motion",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "The time taken by a pendulum to complete one oscillation is called its:",
+   "o": [
+    "time period",
+    "speed",
+    "frequency of the bob",
+    "mean position"
+   ],
+   "a": 0,
+   "why": "By definition, time for one oscillation = time period."
+  },
+  {
+   "q": "The SI unit of time is:",
+   "o": [
+    "minute",
+    "hour",
+    "second",
+    "day"
+   ],
+   "a": 2,
+   "why": "The second (s) is the SI unit of time."
+  },
+  {
+   "q": "A car travels 150 m in 10 s. Its speed in km/h is:",
+   "o": [
+    "15 km/h",
+    "54 km/h",
+    "1.5 km/h",
+    "150 km/h"
+   ],
+   "a": 1,
+   "why": "15 m/s × 3600 ÷ 1000 = 54 km/h."
+  },
+  {
+   "q": "The time period of a simple pendulum depends on:",
+   "o": [
+    "the mass of the bob",
+    "the colour of the bob",
+    "the length of the string",
+    "the material of the support"
+   ],
+   "a": 2,
+   "why": "Time period depends on length, not on mass."
+  },
+  {
+   "q": "The Ghatika-yantra bowl took how long to fill and sink?",
+   "o": [
+    "24 minutes",
+    "60 minutes",
+    "24 seconds",
+    "1 hour"
+   ],
+   "a": 0,
+   "why": "One ghati = 24 minutes; 60 ghatis = 24 h."
+  },
+  {
+   "q": "Which is written correctly?",
+   "o": [
+    "5 Sec.",
+    "5 secs",
+    "5sec",
+    "5 s"
+   ],
+   "a": 3,
+   "why": "Lowercase, singular symbol, no full stop, space after the number."
+  },
+  {
+   "q": "72 km/h is equal to:",
+   "o": [
+    "7.2 m/s",
+    "20 m/s",
+    "72 m/s",
+    "259.2 m/s"
+   ],
+   "a": 1,
+   "why": "72 × 1000 ÷ 3600 = 20 m/s."
+  },
+  {
+   "q": "An object covering equal distances in equal intervals of time along a straight line is in:",
+   "o": [
+    "non-uniform linear motion",
+    "oscillatory motion",
+    "circular motion",
+    "uniform linear motion"
+   ],
+   "a": 3,
+   "why": "Equal distances in equal times along a straight line = uniform linear motion."
+  },
+  {
+   "q": "A train at 90 km/h covers 360 km in:",
+   "o": [
+    "4 h",
+    "3 h",
+    "40 h",
+    "0.25 h"
+   ],
+   "a": 0,
+   "why": "Time = 360 ÷ 90 = 4 h."
+  },
+  {
+   "q": "An instrument that shows the distance travelled by a vehicle is the:",
+   "o": [
+    "speedometer",
+    "odometer",
+    "stopwatch",
+    "sundial"
+   ],
+   "a": 1,
+   "why": "An odometer measures distance in km; a speedometer shows speed."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "In a sundial, time is found from:",
+       "o": [
+        "the flow of sand",
+        "the position of the shadow of an object",
+        "the flow of water",
+        "a burning candle"
+       ],
+       "a": 1,
+       "ans": "A sundial uses the changing position of the shadow cast by sunlight."
+      },
+      {
+       "q": "One oscillation of a pendulum is:",
+       "o": [
+        "O → A",
+        "A → B",
+        "O → A → B → O",
+        "O → B"
+       ],
+       "a": 2,
+       "ans": "The bob must go O → A → B and back to O."
+      },
+      {
+       "q": "60 min is equal to:",
+       "o": [
+        "1 s",
+        "1 h",
+        "1 day",
+        "100 s"
+       ],
+       "a": 1,
+       "ans": "60 min = 1 h."
+      },
+      {
+       "q": "The SI unit of speed is:",
+       "o": [
+        "km/h",
+        "m/s",
+        "m",
+        "s"
+       ],
+       "a": 1,
+       "ans": "SI unit of length ÷ SI unit of time = m/s."
+      },
+      {
+       "q": "Who invented the pendulum clock in 1656?",
+       "o": [
+        "Galileo Galilei",
+        "Christiaan Huygens",
+        "Aryabhata",
+        "Varahamihira"
+       ],
+       "a": 1,
+       "ans": "Christiaan Huygens invented it in 1656 and patented it in 1657."
+      },
+      {
+       "q": "A train starting from a station and slowly speeding up is in:",
+       "o": [
+        "uniform linear motion",
+        "non-uniform linear motion",
+        "no motion",
+        "periodic motion"
+       ],
+       "a": 1,
+       "ans": "Its speed keeps changing, so the motion is non-uniform."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Define time period of a simple pendulum. How can you measure it accurately?",
+       "ans": "Time taken to complete one oscillation (1 mark). Time 10 oscillations with a watch and divide by 10 (1 mark)."
+      },
+      {
+       "q": "Convert 54 km/h into m/s.",
+       "ans": "54 × 1000 m ÷ 3600 s (1 mark) = 15 m/s (1 mark)."
+      },
+      {
+       "q": "Write two rules for writing units of time.",
+       "ans": "Any two (1 mark each): lowercase symbols s, min, h; singular (no ‘secs’, ‘hrs’); no full stop after the symbol; a space between number and unit."
+      },
+      {
+       "q": "Swati’s school is 3.6 km away and she takes 15 min by bicycle. Find her speed in m/s.",
+       "ans": "3.6 km = 3600 m; 15 min = 900 s (1 mark). Speed = 3600 ÷ 900 = 4 m/s (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A runner covers 400 m in 50 s and another in 45 s. Who is faster and by how much?",
+       "ans": "Speed 1 = 400 ÷ 50 = 8 m/s (1 mark). Speed 2 = 400 ÷ 45 ≈ 8.89 m/s (1 mark). Second runner faster by about 0.89 m/s (1 mark)."
+      },
+      {
+       "q": "Describe a water clock of the floating-bowl type. Why was it better than the outflow type?",
+       "ans": "A bowl with a fine hole floats on water, slowly fills and sinks in a fixed time, then is lifted and floated again (2 marks). In outflow clocks the flow rate decreased as the water level dropped, making them inaccurate; the sinking bowl gave a steady fixed interval of 24 min (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe Activity 8.2 to find the time period of a pendulum of length 100 cm. If 10 oscillations take 20 s, find the time period. Does it change if the bob is made heavier?",
+       "ans": "Tie a bob to a 150 cm string, fix it to a rigid support with about 100 cm between support and bob (1 mark). Displace slightly and release gently without pushing, string taut (1 mark). Time 10 oscillations; repeat 3–4 times; record in a table (1 mark). T = 20 ÷ 10 = 2 s (1 mark). No: the time period does not depend on the mass of the bob, only on the length (1 mark)."
+      },
+      {
+       "q": "Case: Table 8.3 shows Train X at 0, 20, 40, 60, 80, 100, 120 km and Train Y at 0, 20, 35, 50, 75, 95, 120 km at 10-minute intervals from 10:00 to 11:00 AM. (a) Which train is in uniform motion? (b) Distance covered by Y between 10:30 and 10:40? (c) Average speed of each train in km/h.",
+       "ans": "(a) Train X: covers 20 km every 10 min, equal distances in equal times (2 marks). (b) 75 − 50 = 25 km (1 mark). (c) Both cover 120 km in 1 h, so 120 km/h each (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "A day was defined by the cycle of:",
+       "o": [
+        "phases of the Moon",
+        "rising and setting of the Sun",
+        "changing seasons",
+        "tides"
+       ],
+       "a": 1,
+       "ans": "Sunrise and sunset define a day."
+      },
+      {
+       "q": "An hourglass measures time using:",
+       "o": [
+        "flowing sand",
+        "a shadow",
+        "burning wax",
+        "a pendulum"
+       ],
+       "a": 0,
+       "ans": "Sand flows from one bulb to another."
+      },
+      {
+       "q": "A bus moves at 50 km/h for 2 h. It covers:",
+       "o": [
+        "25 km",
+        "52 km",
+        "100 km",
+        "48 km"
+       ],
+       "a": 2,
+       "ans": "Distance = 50 × 2 = 100 km."
+      },
+      {
+       "q": "The time period of a pendulum does NOT depend on:",
+       "o": [
+        "length of the string",
+        "mass of the bob",
+        "place where it is used",
+        "none of these"
+       ],
+       "a": 1,
+       "ans": "The mass of the bob does not affect the time period."
+      },
+      {
+       "q": "The smallest interval a wall clock with a seconds hand can measure is:",
+       "o": [
+        "1 min",
+        "1 h",
+        "1 s",
+        "1 ms"
+       ],
+       "a": 2,
+       "ans": "The seconds hand moves one mark per second."
+      },
+      {
+       "q": "Uniform linear motion means:",
+       "o": [
+        "changing speed in a straight line",
+        "constant speed in a straight line",
+        "moving in a circle",
+        "being at rest"
+       ],
+       "a": 1,
+       "ans": "Straight line with constant speed."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "A train travels 180 km in 3 h. Find its speed in km/h and m/s.",
+       "ans": "180 ÷ 3 = 60 km/h (1 mark). 60 × 1000 ÷ 3600 ≈ 16.67 m/s (1 mark)."
+      },
+      {
+       "q": "How many ghatis are there in a day? Show working.",
+       "ans": "24 h = 1440 min (1 mark); 1440 ÷ 24 = 60 ghatis (1 mark)."
+      },
+      {
+       "q": "Give the difference between a speedometer and an odometer.",
+       "ans": "Speedometer measures and displays speed in km/h (1 mark); odometer measures distance travelled in km (1 mark)."
+      },
+      {
+       "q": "What is average speed? Why do we usually use it?",
+       "ans": "Total distance ÷ total time (1 mark). Objects rarely move at constant speed; they speed up and slow down, so we use the average (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A car covers 60 km in the first hour, 70 km in the second and 50 km in the third. Is the motion uniform? Find the average speed.",
+       "ans": "Distances in equal 1 h intervals are unequal (60, 70, 50 km), so the motion is non-uniform (1.5 marks). Average speed = 180 km ÷ 3 h = 60 km/h (1.5 marks)."
+      },
+      {
+       "q": "Explain how you would make a simple water clock from a plastic bottle and use it.",
+       "ans": "Cut the bottle in two; make a small hole in the cap with a drawing pin; invert the upper part over the lower half (1 mark). Fill the top with coloured water; mark the level in the lower part every minute using a watch (1 mark). To use: pour the water back up; each time the level reaches a mark, one more minute has passed (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "A vehicle covers 2 km in a straight line: first 500 m at 10 m/s, next 500 m at 5 m/s. (a) Time for the first 1000 m. (b) Speed needed for the remaining distance to finish in 200 s. (c) Average speed for the journey.",
+       "ans": "(a) 500 ÷ 10 = 50 s; 500 ÷ 5 = 100 s; total 150 s (2 marks). (b) Remaining 1000 m in 200 − 150 = 50 s → 1000 ÷ 50 = 20 m/s (2 marks). (c) 2000 m ÷ 200 s = 10 m/s (1 mark)."
+      },
+      {
+       "q": "Case: Galileo watched a swinging lamp in a church and timed its swings using his pulse. (a) What did he find? (b) Suggest an experiment to test whether the time period depends on length. (c) What did Huygens build using this idea and when? (d) Why is the pulse not a perfect timer?",
+       "ans": "(a) The lamp took the same time for each swing (1 mark). (b) Same bob, two or three different lengths; time 10 oscillations each and compare (2 marks). (c) The pendulum clock, invented in 1656 (patented 1657) (1 mark). (d) Pulse rate changes, for example after exercise (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The world’s largest stone sundial, the Samrat Yantra, is at:",
+       "o": [
+        "Delhi",
+        "Jaipur",
+        "Ujjain",
+        "Varanasi"
+       ],
+       "a": 1,
+       "ans": "It is at Jantar Mantar, Jaipur."
+      },
+      {
+       "q": "1 h is equal to:",
+       "o": [
+        "60 s",
+        "360 s",
+        "3600 s",
+        "1000 s"
+       ],
+       "a": 2,
+       "ans": "60 × 60 = 3600 s."
+      },
+      {
+       "q": "Time = ?",
+       "o": [
+        "Distance × Speed",
+        "Speed ÷ Distance",
+        "Distance ÷ Speed",
+        "Distance + Speed"
+       ],
+       "a": 2,
+       "ans": "Time = Distance ÷ Speed."
+      },
+      {
+       "q": "A horse at 18 m/s and a train at 72 km/h. Which is faster?",
+       "o": [
+        "Horse",
+        "Train",
+        "Equal",
+        "Cannot say"
+       ],
+       "a": 1,
+       "ans": "72 km/h = 20 m/s > 18 m/s."
+      },
+      {
+       "q": "Atomic clocks are so precise that they lose only:",
+       "o": [
+        "1 s a day",
+        "10 s a day",
+        "1 s in millions of years",
+        "1 min a year"
+       ],
+       "a": 2,
+       "ans": "Atomic clocks lose only one second in millions of years."
+      },
+      {
+       "q": "Movement of a car in city traffic is an example of:",
+       "o": [
+        "uniform motion",
+        "non-uniform motion",
+        "no motion",
+        "oscillation"
+       ],
+       "a": 1,
+       "ans": "Its speed keeps changing."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "A train travels at 25 m/s and covers 360 km. How long does it take?",
+       "ans": "360 km = 360000 m; time = 360000 ÷ 25 = 14400 s (1 mark) = 4 h (1 mark)."
+      },
+      {
+       "q": "What is meant by periodic motion? Give an example.",
+       "ans": "Motion that repeats its path after a fixed interval of time (1 mark). Example: a pendulum or a swing (1 mark)."
+      },
+      {
+       "q": "Name the two types of water clocks.",
+       "ans": "Outflow type: water flows out of a marked vessel (1 mark); floating/sinking bowl type (Ghatika-yantra) (1 mark)."
+      },
+      {
+       "q": "Why is a pendulum useful for measuring time?",
+       "ans": "Its time period for a given length is constant at a place (1 mark), so each swing marks an equal interval of time (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "An object is in uniform motion: 0 m at 0 s, 8 m at 10 s, 24 m at 30 s, 32 m, 40 m at 50 s, and 56 m at 70 s. Fill in the gaps.",
+       "ans": "Speed = 8 m per 10 s = 0.8 m/s (1 mark). At 20 s: 16 m; 32 m is at 40 s (1 mark). Blank column at 60 s: 48 m (1 mark)."
+      },
+      {
+       "q": "Distinguish between uniform and non-uniform motion with the example of a car on an empty highway and a car in city traffic.",
+       "ans": "Highway: constant speed on a straight road, equal distances in equal times: uniform (1.5 marks). City: stops, slows, speeds up; unequal distances in equal times: non-uniform (1.5 marks)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Data: Time (s) 0, 10, 20, 30, 40, 50, 60, 70, 80, 90, 100; Distance (m) 0, 6, 10, 16, 21, 29, 35, 42, 45, 55, 60. (a) Find the distances covered in each 10 s interval. (b) Is the motion uniform? (c) Find the average speed. (d) In which interval is it fastest?",
+       "ans": "(a) 6, 4, 6, 5, 8, 6, 7, 3, 10, 5 m (2 marks). (b) Unequal distances in equal times: non-uniform (1 mark). (c) 60 m ÷ 100 s = 0.6 m/s (1 mark). (d) 80–90 s, 10 m (1 mark)."
+      },
+      {
+       "q": "Write a short note on ancient Indian time measurement: shadows, water clocks and the Ghatika-yantra.",
+       "ans": "Shadow-based time first referred to in Kautilya’s Arthasastra; Varahamihira (≈ 530 CE) gave an expression for time from a stick’s shadow (2 marks). Outflow water clocks in the Arthasastra and Sardulakarnavadana were inaccurate as flow slowed (1 mark). Ghatika-yantra (first mentioned by Aryabhata): a bowl that sank in 24 min = 1 ghati; 60 ghatis = 1 day; announced by drums, conches or gongs; used until the late 19th century (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "A candle clock shows time by:",
+       "o": [
+        "shadow",
+        "burning of a marked candle",
+        "sand",
+        "water"
+       ],
+       "a": 1,
+       "ans": "Marks on the candle show time as it burns."
+      },
+      {
+       "q": "The bob of a pendulum at rest is at its:",
+       "o": [
+        "extreme position",
+        "mean position",
+        "highest point",
+        "pivot"
+       ],
+       "a": 1,
+       "ans": "At rest it is in its mean position."
+      },
+      {
+       "q": "A pendulum takes 15 s for 10 oscillations. Its time period is:",
+       "o": [
+        "150 s",
+        "1.5 s",
+        "15 s",
+        "0.15 s"
+       ],
+       "a": 1,
+       "ans": "15 ÷ 10 = 1.5 s."
+      },
+      {
+       "q": "Distance = ?",
+       "o": [
+        "Speed × Time",
+        "Speed ÷ Time",
+        "Time ÷ Speed",
+        "Speed + Time"
+       ],
+       "a": 0,
+       "ans": "Distance = Speed × Time."
+      },
+      {
+       "q": "One millisecond is:",
+       "o": [
+        "[1/100] s",
+        "[1/1000] s",
+        "1000 s",
+        "[1/1000000] s"
+       ],
+       "a": 1,
+       "ans": "Milli = one-thousandth."
+      },
+      {
+       "q": "Which is an example of uniform linear motion (nearly)?",
+       "o": [
+        "A bus in a market",
+        "A train at constant speed on a straight track",
+        "A ball thrown upward",
+        "A swing"
+       ],
+       "a": 1,
+       "ans": "Straight line and constant speed."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Find the speed of a car that covers 150 m in 10 s, in m/s and km/h.",
+       "ans": "150 ÷ 10 = 15 m/s (1 mark). 15 × 3600 ÷ 1000 = 54 km/h (1 mark)."
+      },
+      {
+       "q": "The Samrat Yantra’s shadow moves about 1 mm per second. How far does it move in 5 minutes?",
+       "ans": "5 min = 300 s (1 mark). 300 × 1 mm = 300 mm = 30 cm (1 mark)."
+      },
+      {
+       "q": "State two things that affect and one that does not affect the time period of a pendulum.",
+       "ans": "Affects: length of the string; the place (location) (1 mark). Does not affect: mass of the bob (1 mark)."
+      },
+      {
+       "q": "What do modern quartz and atomic clocks use to measure time?",
+       "ans": "Very rapid, tiny vibrations of a quartz crystal (1 mark) or of specific atoms (1 mark) — a periodically repeating process."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A train travels 180 km in 3 h. Find (i) speed in km/h, (ii) speed in m/s, (iii) distance in 4 h at the same speed.",
+       "ans": "(i) 60 km/h (1 mark). (ii) 60 × 1000 ÷ 3600 ≈ 16.67 m/s (1 mark). (iii) 60 × 4 = 240 km (1 mark)."
+      },
+      {
+       "q": "Which type of motion is more common in daily life? Give three examples.",
+       "ans": "Non-uniform motion is more common (1 mark). Examples (any three, 2 marks): bus stopping at stops, cycling up and down slopes, a runner starting a race, an auto in traffic, a lift starting and stopping."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Activity 8.4: The nearest station is A. Train P goes 60 km to the next station in 1 h 30 min; Train Q goes 120 km in 2 h; Train R goes 45 km in 45 min. (a) Find each speed in km/h. (b) Which is fastest? (c) Why is the value you found an average speed?",
+       "ans": "(a) P: 60 ÷ 1.5 = 40 km/h; Q: 120 ÷ 2 = 60 km/h; R: 45 ÷ 0.75 = 60 km/h (3 marks). (b) Q and R are equally fastest at 60 km/h (1 mark). (c) Trains speed up and slow down between stations, so total distance ÷ total time is an average (1 mark)."
+      },
+      {
+       "q": "Case: Prerna makes a 100 cm pendulum. Her readings for 10 oscillations are 20.1 s, 20.0 s, 20.2 s, 20.1 s. (a) Find the time period for each reading. (b) What does she conclude? (c) Give two reasons for small differences and how to reduce them.",
+       "ans": "(a) 2.01 s, 2.00 s, 2.02 s, 2.01 s (2 marks). (b) The time period of a pendulum of given length is almost constant (1 mark). (c) Reaction time with the watch; miscounting; pushing the bob; air or shaky support (1 mark). Reduce by timing more oscillations, releasing gently from the same small angle, firm support, one person counting aloud (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Time measured by a sundial is:",
+       "o": [
+        "Indian Standard Time",
+        "local solar time",
+        "atomic time",
+        "Greenwich time"
+       ],
+       "a": 1,
+       "ans": "A sundial measures local or solar time; a correction gives IST."
+      },
+      {
+       "q": "A pendulum’s motion is periodic because:",
+       "o": [
+        "it moves in a straight line",
+        "it repeats its path after a fixed interval",
+        "it stops quickly",
+        "its bob is heavy"
+       ],
+       "a": 1,
+       "ans": "Periodic motion repeats after a fixed interval of time."
+      },
+      {
+       "q": "The speed of a train covering 120 km in 1 h is:",
+       "o": [
+        "12 km/h",
+        "120 km/h",
+        "1.2 km/h",
+        "60 km/h"
+       ],
+       "a": 1,
+       "ans": "120 ÷ 1 = 120 km/h."
+      },
+      {
+       "q": "Which unit is correctly written?",
+       "o": [
+        "3 Hrs",
+        "3 h",
+        "3 hr.",
+        "3hrs"
+       ],
+       "a": 1,
+       "ans": "Lowercase, singular symbol with a space: 3 h."
+      },
+      {
+       "q": "Mechanical clocks driven by weights, gears and springs developed from the:",
+       "o": [
+        "10th century",
+        "14th century",
+        "20th century",
+        "2nd century BCE"
+       ],
+       "a": 1,
+       "ans": "From the fourteenth century onwards."
+      },
+      {
+       "q": "Equal distances in equal intervals of time on a distance–time graph give:",
+       "o": [
+        "a straight line",
+        "a curve",
+        "a circle",
+        "a zig-zag"
+       ],
+       "a": 0,
+       "ans": "Uniform motion gives a straight-line graph."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Express 36 km/h in m/s and 5 m/s in km/h.",
+       "ans": "36 × 1000 ÷ 3600 = 10 m/s (1 mark). 5 × 3600 ÷ 1000 = 18 km/h (1 mark)."
+      },
+      {
+       "q": "If a Ghatika-yantra bowl sank 5 times, how much time passed in hours?",
+       "ans": "5 × 24 min = 120 min (1 mark) = 2 h (1 mark)."
+      },
+      {
+       "q": "How is speed used to compare runners in races of different distances?",
+       "ans": "Compare distance covered in unit time (1 mark), i.e. speed = distance ÷ time; higher speed is faster (1 mark)."
+      },
+      {
+       "q": "Name any two places where measuring tiny fractions of a second is important.",
+       "ans": "Any two (1 mark each): sports timing (photo finish), ECG heart monitors, digital music recording, computers and phones (microseconds), space science."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Raghav’s bus moves at 50 km/h. (a) How far will it go in 2 h? (b) How long will it take to cover 175 km? (c) Express its speed in m/s.",
+       "ans": "(a) 50 × 2 = 100 km (1 mark). (b) 175 ÷ 50 = 3.5 h (1 mark). (c) 50 × 1000 ÷ 3600 ≈ 13.89 m/s (1 mark)."
+      },
+      {
+       "q": "Explain one oscillation of a simple pendulum with a labelled description of positions O, A and B.",
+       "ans": "O is the mean (rest) position; A and B are extreme positions (1 mark). From O the bob goes to A, changes direction, goes to B, changes direction and returns to O: one oscillation (1 mark). A → B → A is also one oscillation; time for it = time period (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Case: A train goes from station A to D on a straight track. It starts slowly from A, speeds up till B, runs at a constant speed from B to C, then slows down and stops at D. (a) Name the type of motion from A to D. (b) In which part is the motion uniform? (c) In which parts is it non-uniform and why? (d) If B to C is 60 km covered in 45 min, find the speed in km/h.",
+       "ans": "(a) Linear motion (along a straight line) (1 mark). (b) B to C (1 mark). (c) A to B (speeding up) and C to D (slowing down): speed keeps changing (1 mark). (d) 45 min = 0.75 h; 60 ÷ 0.75 = 80 km/h (2 marks)."
+      },
+      {
+       "q": "Describe how timekeeping developed from nature’s cycles to atomic clocks. Mention at least four devices.",
+       "ans": "Natural cycles (day, Moon phases, seasons) gave calendars (1 mark). Sundials (shadows), water clocks, hourglasses and candle clocks measured time within a day (1 mark). Mechanical clocks with weights, gears and springs from the 14th century (1 mark). Huygens’ pendulum clock 1656, gaining or losing about 10 s a day (1 mark). Quartz and atomic clocks using rapid vibrations; atomic clocks lose 1 s in millions of years (1 mark)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

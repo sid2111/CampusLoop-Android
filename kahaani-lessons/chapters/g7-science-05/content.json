@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 5,
+ "n": 5,
+ "title": "Changes Around Us: Physical and Chemical",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "Which of these is a physical change?",
+   "o": [
+    "Burning wood",
+    "Rusting of iron",
+    "Melting of ice",
+    "Curdling of milk"
+   ],
+   "a": 2,
+   "why": "Melting changes only the state; ice and water are the same substance."
+  },
+  {
+   "q": "Lime water turns milky when this gas is passed through it:",
+   "o": [
+    "Oxygen",
+    "Carbon dioxide",
+    "Nitrogen",
+    "Hydrogen"
+   ],
+   "a": 1,
+   "why": "Carbon dioxide reacts with lime water to form insoluble calcium carbonate."
+  },
+  {
+   "q": "The white powder left after burning magnesium ribbon is:",
+   "o": [
+    "Magnesium oxide",
+    "Calcium carbonate",
+    "Iron oxide",
+    "Baking soda"
+   ],
+   "a": 0,
+   "why": "Magnesium + Oxygen → Magnesium oxide + Heat + Light."
+  },
+  {
+   "q": "The lowest temperature at which a substance catches fire is called its:",
+   "o": [
+    "Boiling point",
+    "Melting point",
+    "Freezing point",
+    "Ignition temperature"
+   ],
+   "a": 3,
+   "why": "This is the definition of ignition temperature."
+  },
+  {
+   "q": "A candle covered with a glass tumbler goes out after some time because:",
+   "o": [
+    "The wax is used up",
+    "The tumbler cools it",
+    "It gets no continuous supply of oxygen",
+    "Light cannot reach it"
+   ],
+   "a": 2,
+   "why": "Oxygen supports combustion; the tumbler cuts off fresh air."
+  },
+  {
+   "q": "In a burning candle, which is a chemical change?",
+   "o": [
+    "Melting of wax",
+    "Burning of wax vapour",
+    "Solidifying of wax drips",
+    "Rising of liquid wax up the wick"
+   ],
+   "a": 1,
+   "why": "The burning of wax vapour forms new substances; the rest only change state or position."
+  },
+  {
+   "q": "Which mixture gives a gas that turns lime water milky?",
+   "o": [
+    "Lemon juice + baking soda",
+    "Lemon juice + vinegar",
+    "Vinegar + common salt",
+    "Baking soda + water"
+   ],
+   "a": 0,
+   "why": "Acids like lemon juice react with baking soda to give carbon dioxide."
+  },
+  {
+   "q": "Which of these changes cannot be reversed?",
+   "o": [
+    "Folding a handkerchief",
+    "Melting ice",
+    "Rolling up a mat",
+    "Making popcorn from corn"
+   ],
+   "a": 3,
+   "why": "Popcorn cannot go back to its original corn form."
+  },
+  {
+   "q": "Light produced by fireflies through a chemical change, without heat, is called:",
+   "o": [
+    "Combustion",
+    "Weathering",
+    "Bioluminescence",
+    "Erosion"
+   ],
+   "a": 2,
+   "why": "Light production without heat in living organisms is bioluminescence."
+  },
+  {
+   "q": "Fine sand carried by flowing water and settling in a lake is an example of:",
+   "o": [
+    "Erosion, a physical change",
+    "Rusting, a chemical change",
+    "Combustion",
+    "Bioluminescence"
+   ],
+   "a": 0,
+   "why": "Moving of rock, soil and sediments by water or wind is erosion, a physical change."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of the following is a chemical change?",
+       "o": [
+        "Tearing paper",
+        "Dissolving sugar in water",
+        "Ripening of fruits",
+        "Folding clothes"
+       ],
+       "a": 2,
+       "ans": "Ripening forms new substances (changes in taste, colour, smell) — a chemical change."
+      },
+      {
+       "q": "The chemical name of baking soda is:",
+       "o": [
+        "Sodium chloride",
+        "Sodium hydrogen carbonate",
+        "Calcium hydroxide",
+        "Calcium carbonate"
+       ],
+       "a": 1,
+       "ans": "Baking soda is sodium hydrogen carbonate."
+      },
+      {
+       "q": "Which of these is NOT needed for combustion?",
+       "o": [
+        "Fuel",
+        "Oxygen",
+        "Heat to reach ignition temperature",
+        "Water"
+       ],
+       "a": 3,
+       "ans": "The fire triangle has fuel, oxygen and heat; water is not needed."
+      },
+      {
+       "q": "Rust is chemically:",
+       "o": [
+        "Iron oxide",
+        "Magnesium oxide",
+        "Calcium carbonate",
+        "Carbon dioxide"
+       ],
+       "a": 0,
+       "ans": "Rusting forms a new brown substance, iron oxide."
+      },
+      {
+       "q": "Crushing a piece of chalk into powder is a:",
+       "o": [
+        "Chemical change",
+        "Physical change",
+        "Both physical and chemical",
+        "No change"
+       ],
+       "a": 1,
+       "ans": "The powder is still chalk; only the size changes."
+      },
+      {
+       "q": "Which of these is a combustible substance?",
+       "o": [
+        "Stone",
+        "Glass",
+        "Kerosene",
+        "Sand"
+       ],
+       "a": 2,
+       "ans": "Kerosene burns in air giving heat and light."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Define a physical change. Give one example.",
+       "ans": "A change in which only physical properties such as shape, size or state change and no new substance is formed (1). Example: melting of ice / folding paper (1)."
+      },
+      {
+       "q": "What do you observe when you blow air through a straw into lime water? Name the gas responsible.",
+       "ans": "Lime water turns milky; a white substance settles later (1). The gas is carbon dioxide from exhaled air (1)."
+      },
+      {
+       "q": "Write the word equation for the burning of magnesium ribbon.",
+       "ans": "Magnesium + Oxygen → Magnesium oxide + Heat + Light (1 for reactants and product, 1 for heat and light)."
+      },
+      {
+       "q": "Why should a synthetic blanket never be used to put out a fire on a person's clothes?",
+       "ans": "Synthetic cloth can melt in the heat (1) and stick to the skin, causing severe burns; use a cotton blanket to cut off air (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe an activity to show that oxygen is needed for burning.",
+       "ans": "Light two identical candles on petri dishes (1). Cover one with a glass tumbler (1). The covered candle goes out after some time while the open one keeps burning, showing that a continuous supply of air (oxygen) is needed (1)."
+      },
+      {
+       "q": "Explain why burning of a candle involves both physical and chemical changes.",
+       "ans": "Wax melts, rises up the wick and evaporates; drips solidify — physical changes, no new substance (1½). The wax vapour burns with oxygen to form new substances like carbon dioxide, giving heat and light — chemical change (1½)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "(a) What is the fire triangle? (b) Paper kept in air does not catch fire, but paper under a magnifying glass in sunlight does. Explain. (c) Why does paper catch fire almost immediately from a lighted matchstick?",
+       "ans": "(a) The three requirements of combustion: fuel (combustible substance), oxygen, and heat to reach ignition temperature (2). (b) In air the paper is below its ignition temperature; focused sunrays heat it until it reaches its ignition temperature and it burns (2). (c) The lighted match is already hotter than the ignition temperature of paper (1)."
+      },
+      {
+       "q": "Case study: Ravi mixed vinegar and baking soda in a bottle and passed the gas through lime water. (a) What did he see in the bottle? (b) What happened to the lime water? (c) Name the gas. (d) Is this a physical or chemical change? Why? (e) What would happen if he used water instead of vinegar?",
+       "ans": "(a) Fizzing and gas bubbles (1). (b) Lime water turned milky (1). (c) Carbon dioxide (1). (d) Chemical change, because a new substance (carbon dioxide) is formed (1). (e) Baking soda just dissolves; no bubbles, lime water stays clear — a physical change (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "When lime water turns milky, the white insoluble substance formed is:",
+       "o": [
+        "Calcium hydroxide",
+        "Calcium carbonate",
+        "Sodium chloride",
+        "Magnesium oxide"
+       ],
+       "a": 1,
+       "ans": "Calcium hydroxide + Carbon dioxide → Calcium carbonate (insoluble) + Water."
+      },
+      {
+       "q": "Which is an undesirable change?",
+       "o": [
+        "Milk changing to curd",
+        "Cooking food",
+        "Rusting of iron",
+        "Ripening of fruits"
+       ],
+       "a": 2,
+       "ans": "Rusting damages iron objects."
+      },
+      {
+       "q": "Erosion of rocks by flowing water is a:",
+       "o": [
+        "Chemical change",
+        "Physical change",
+        "Combustion",
+        "Reversible change"
+       ],
+       "a": 1,
+       "ans": "Rocks are only broken and moved; no new substance."
+      },
+      {
+       "q": "Statement: 'Collecting water vapour by condensing involves a chemical change.' This statement is:",
+       "o": [
+        "True",
+        "False — it is a physical change",
+        "True only in summer",
+        "False — it is combustion"
+       ],
+       "a": 1,
+       "ans": "Condensation only changes state; it is physical."
+      },
+      {
+       "q": "Which of these changes can be reversed?",
+       "o": [
+        "Burning wood",
+        "Making idlis from batter",
+        "Dissolving sugar in water",
+        "Grinding wheat to flour"
+       ],
+       "a": 2,
+       "ans": "Sugar can be got back by evaporating the water."
+      },
+      {
+       "q": "A firefly produces light by:",
+       "o": [
+        "A physical change with heat",
+        "A chemical change without heat",
+        "Combustion",
+        "Reflecting moonlight"
+       ],
+       "a": 1,
+       "ans": "Bioluminescence is light from a chemical change, without heat."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Is curdling of milk a physical or chemical change? Justify.",
+       "ans": "Chemical change (1). Curd is a new substance with different taste and texture and cannot be turned back into milk (1)."
+      },
+      {
+       "q": "What is combustion? Name two combustible substances.",
+       "ans": "A chemical reaction in which a substance reacts with oxygen and gives heat and/or light (1). Examples: wood, paper, cotton, kerosene — any two (1)."
+      },
+      {
+       "q": "Give one example where a change undesirable in one situation is desirable in another.",
+       "ans": "Decay of food is undesirable during storage (1) but decomposition of food waste into compost is useful (1)."
+      },
+      {
+       "q": "What are sediments? How are they formed?",
+       "ans": "Heaps of sand, soil and stones at the base of mountains (1). They form when large rocks break into smaller pieces by temperature changes, growing roots and freezing water in cracks (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Nalini noticed brown deposits on her cycle handle. (a) What are they? (b) Is this a physical or chemical change? (c) Is this change desirable?",
+       "ans": "(a) Rust (iron oxide) (1). (b) Chemical change, since a new substance is formed (1). (c) Undesirable, as it weakens and spoils the iron (1)."
+      },
+      {
+       "q": "Explain the changes of water to ice and water to steam. Are they physical or chemical?",
+       "ans": "Both are physical changes (1). Only the state changes: liquid to solid on freezing and liquid to gas on boiling; ice, water and steam are all water — no new substance (1). Both can be reversed by melting or condensing (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain weathering of rocks with examples of both physical and chemical changes. How does it lead to soil formation?",
+       "ans": "Physical: temperature changes (day heating, night cooling), growing roots and freezing water in cracks break rocks into pieces/sediments (2). Chemical: water or chemicals in water react with rocks, e.g. black basalt containing iron forms a red iron-oxide layer when exposed to water or moist air (2). Together these changes are weathering, which over long periods breaks rocks into fine particles forming soil (1)."
+      },
+      {
+       "q": "Sort into physical (A), chemical (B), or both (C): burning a candle, tearing paper, rusting, curdling of milk, melting of ice, burning magnesium, mixing baking soda with vinegar, folding clothes, ripening of fruits.",
+       "ans": "A: tearing paper, melting of ice, folding clothes (1½). B: rusting, curdling of milk, burning magnesium, baking soda + vinegar, ripening of fruits (2½). C: burning a candle (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which property changes when ice melts?",
+       "o": [
+        "Colour",
+        "State",
+        "Smell",
+        "The substance itself"
+       ],
+       "a": 1,
+       "ans": "Ice (solid) becomes water (liquid): only the state changes."
+      },
+      {
+       "q": "Lime water is a solution of:",
+       "o": [
+        "Calcium hydroxide",
+        "Calcium carbonate",
+        "Sodium hydrogen carbonate",
+        "Magnesium oxide"
+       ],
+       "a": 0,
+       "ans": "Lime water is calcium hydroxide solution."
+      },
+      {
+       "q": "Which of these is both a physical and a chemical change?",
+       "o": [
+        "Melting wax",
+        "Burning a candle",
+        "Rusting",
+        "Tearing paper"
+       ],
+       "a": 1,
+       "ans": "Wax melts (physical) and its vapour burns (chemical)."
+      },
+      {
+       "q": "Increased use of fuels in vehicles increases which gas in the atmosphere?",
+       "o": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+       ],
+       "a": 2,
+       "ans": "Burning fuel produces carbon dioxide."
+      },
+      {
+       "q": "Michael Faraday's lectures on the candle were called:",
+       "o": [
+        "The Chemistry of Fire",
+        "Chemical History of a Candle",
+        "The Candle and the Flame",
+        "Light and Heat"
+       ],
+       "a": 1,
+       "ans": "Faraday gave lectures called Chemical History of a Candle."
+      },
+      {
+       "q": "Gas bubbles and fizzing when lemon juice is added to baking soda show:",
+       "o": [
+        "A physical change",
+        "Evaporation",
+        "A chemical change forming carbon dioxide",
+        "Condensation"
+       ],
+       "a": 2,
+       "ans": "A new substance (carbon dioxide gas) is formed."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What is ignition temperature?",
+       "ans": "The minimum (lowest) temperature at which a substance catches fire (2)."
+      },
+      {
+       "q": "Why do river pebbles appear smooth?",
+       "ans": "Flowing water constantly rubs the pebbles (1); this erosion wears away their sharp edges and makes them smooth (1)."
+      },
+      {
+       "q": "State whether True or False and correct if false: 'Melting of wax is necessary for burning a candle.'",
+       "ans": "True (1). The wax must melt and evaporate; it is the wax vapour that burns (1)."
+      },
+      {
+       "q": "Why is the turning of lime water milky used as a test for carbon dioxide?",
+       "ans": "Carbon dioxide reacts with lime water to form insoluble white calcium carbonate (1), which makes it milky; so milkiness shows the presence of carbon dioxide (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Prithvi chops vegetables, collects peels in a clay pot, the peels turn into compost, and seeds grow into flowers. Classify each change as physical or chemical.",
+       "ans": "Chopping vegetables/peeling: physical (½+½). Collecting peels in a pot: physical (½). Decomposition into compost: chemical (½+½). Seeds germinating and growing into flowers: chemical (½)."
+      },
+      {
+       "q": "Give three differences between physical and chemical changes.",
+       "ans": "(i) Physical: no new substance; chemical: new substance(s) formed (1). (ii) Physical: only physical properties like shape, size, state change; chemical: a chemical reaction takes place, shown by a chemical equation (1). (iii) Many physical changes can be reversed (e.g. melting ice); most chemical changes cannot (e.g. burning) (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe Activity 5.3 (blowing air into tap water and lime water). Write the observation in each glass, the conclusion and the word equation.",
+       "ans": "Fill one-fourth of glass A with tap water and B with lime water; blow exhaled air into each with separate straws (1). A: only bubbles, no change in appearance (1). B: lime water turns milky and a white substance settles (1). Conclusion: carbon dioxide in exhaled air reacts with lime water forming a new substance — a chemical change (1). Calcium hydroxide + Carbon dioxide → Calcium carbonate + Water (1)."
+      },
+      {
+       "q": "Case: In Fig. 5.11, gas from (a) vinegar + baking soda, (b) lemon juice + vinegar, (c) vinegar + common salt, (d) lemon juice + baking soda is passed into lime water. (a) In which cases does lime water turn milky? (b) Why? (c) Why does nothing happen in the other cases? (d) What type of change occurs in (a)?",
+       "ans": "(a) Cases (a) and (d) (2). (b) Vinegar and lemon juice react with baking soda to give carbon dioxide, which turns lime water milky (1). (c) In (b) and (c) no reaction produces carbon dioxide; the substances only mix or dissolve (1). (d) Chemical change (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of the following is a slow natural change?",
+       "o": [
+        "Burning of paper",
+        "Fizzing of baking soda and vinegar",
+        "Popping corn",
+        "Weathering of rocks"
+       ],
+       "a": 3,
+       "ans": "Weathering of rocks takes thousands of years."
+      },
+      {
+       "q": "Which of these is a desirable change?",
+       "o": [
+        "Rusting of a gate",
+        "Decay of stored food",
+        "Milk changing into curd",
+        "Breaking of a window"
+       ],
+       "a": 2,
+       "ans": "Curd is useful to us."
+      },
+      {
+       "q": "Burning of magnesium ribbon produces:",
+       "o": [
+        "Only heat",
+        "Only light",
+        "Heat and light with a new white powder",
+        "No new substance"
+       ],
+       "a": 2,
+       "ans": "Magnesium oxide forms, along with heat and light."
+      },
+      {
+       "q": "Folding a handkerchief is a ______ change and can be ______.",
+       "o": [
+        "chemical; reversed",
+        "physical; reversed",
+        "physical; never reversed",
+        "chemical; never reversed"
+       ],
+       "a": 1,
+       "ans": "Folding only changes shape and the handkerchief can be unfolded."
+      },
+      {
+       "q": "The red layer seen on weathered basalt rock is due to:",
+       "o": [
+        "Iron oxide",
+        "Calcium carbonate",
+        "Magnesium oxide",
+        "Paint"
+       ],
+       "a": 0,
+       "ans": "Iron in basalt forms red iron oxide with water or moist air."
+      },
+      {
+       "q": "Which of these changes cannot be reversed?",
+       "o": [
+        "Twisting a straight string",
+        "Rolling up a mat",
+        "Drawing water from a well",
+        "Ripening of fruits"
+       ],
+       "a": 3,
+       "ans": "Ripe fruit cannot become unripe again."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What is a chemical equation? Write the word equation for vinegar reacting with baking soda.",
+       "ans": "A short way of showing a chemical reaction with reactants and products (1). Vinegar + Baking soda → Carbon dioxide + Other substances (1)."
+      },
+      {
+       "q": "Name the senses we use to observe changes. Give one change noticed by smell.",
+       "ans": "Sight, smell, touch, hearing and taste (1). Smell: a banana getting overripe / popcorn being made / burning wood (1)."
+      },
+      {
+       "q": "What is erosion? Give one example.",
+       "ans": "Breaking down and moving of rock pebbles, soil and sediments from one place to another by wind and flowing water (1). Example: landslide / sand collecting on riverbeds (1)."
+      },
+      {
+       "q": "Why does the paper used in Activity 5.6 emit smoke before catching fire?",
+       "ans": "Focused sunrays raise the temperature of the paper gradually (1); it begins to char and smoke as it heats, and catches fire only when it reaches its ignition temperature (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "How can you test for the carbon dioxide formed when a candle burns under a glass tumbler? Where does this carbon dioxide come from?",
+       "ans": "Put a small amount of lime water in the petri dish under the tumbler (1); it turns milky, showing carbon dioxide (1). The carbon comes from the wax and the oxygen from the air, so oxygen is required for combustion (1)."
+      },
+      {
+       "q": "Predict whether these can be reversed: (i) making idlis from batter (ii) dissolving sugar in water (iii) boiling water in an open pan. Explain any one you are not sure about.",
+       "ans": "(i) Cannot be reversed (1). (ii) Can be reversed — evaporate the water to get the sugar back (1). (iii) Not sure: the steam escapes into air; it could be condensed back only with special arrangements, so it is hard to reverse in an open pan (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe the changes that take place when a candle burns, and classify each as physical or chemical. Who used the candle to teach science?",
+       "ans": "Wax near the flame melts — physical (1). Liquid wax is carried up the wick — physical (1). It evaporates due to the heat of the flame — physical (1). The wax vapour burns with oxygen producing new substances, heat and light — chemical (1). Michael Faraday, in his lectures 'Chemical History of a Candle' (1)."
+      },
+      {
+       "q": "Case: Meera's clothes catch fire while lighting diyas. (a) What should be done immediately? (b) Why does this work? (c) Which side of the fire triangle is removed? (d) What must not be used, and why? (e) Name the three requirements of combustion.",
+       "ans": "(a) Wrap a blanket or cloth around her (1). (b) It cuts off the supply of air and the fire is extinguished (1). (c) Oxygen (1). (d) A synthetic blanket — it can melt and stick to the skin (1). (e) Fuel, oxygen, and heat to reach ignition temperature (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "In Activity 5.3, blowing air into tap water shows:",
+       "o": [
+        "Milky water",
+        "Only bubbles with no change in appearance",
+        "A white solid at once",
+        "Fizzing and colour change"
+       ],
+       "a": 1,
+       "ans": "Tap water does not react; only bubbles form."
+      },
+      {
+       "q": "Which of these is a combustible substance?",
+       "o": [
+        "Iron nail",
+        "Cotton",
+        "Stone",
+        "Glass"
+       ],
+       "a": 1,
+       "ans": "Cotton burns in air."
+      },
+      {
+       "q": "Which characteristics describe a physical change? (i) The state may or may not change (ii) A new substance is formed (iii) No new substance is formed (iv) A chemical reaction occurs",
+       "o": [
+        "(i) and (ii)",
+        "(ii) and (iii)",
+        "(i) and (iii)",
+        "(iii) and (iv)"
+       ],
+       "a": 2,
+       "ans": "Physical change: state may or may not change and no new substance forms."
+      },
+      {
+       "q": "Formation of soil from rocks is:",
+       "o": [
+        "Only physical",
+        "Only chemical",
+        "Both physical and chemical (weathering)",
+        "Neither"
+       ],
+       "a": 2,
+       "ans": "Rocks break (physical) and react with water and air (chemical)."
+      },
+      {
+       "q": "Drying of paint on walls causes:",
+       "o": [
+        "Formation of rust",
+        "Atmospheric pollution by substances released through evaporation",
+        "Erosion",
+        "Bioluminescence"
+       ],
+       "a": 1,
+       "ans": "The chapter says drying paint releases substances that pollute the air."
+      },
+      {
+       "q": "Mixing baking soda with lemon juice is a chemical change. This statement is:",
+       "o": [
+        "True — carbon dioxide is formed",
+        "False — it is physical",
+        "False — nothing happens",
+        "True — only because it is a mixture"
+       ],
+       "a": 0,
+       "ans": "A new gas, carbon dioxide, forms."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Give two examples each of physical and chemical changes from your kitchen.",
+       "ans": "Physical: melting ghee, boiling water, chopping vegetables, dissolving sugar — any two (1). Chemical: cooking food, curdling milk, burning LPG, making popcorn/toasting — any two (1)."
+      },
+      {
+       "q": "Why can paper stay in air for a long time without catching fire?",
+       "ans": "Paper is combustible and air has oxygen (1), but paper is below its ignition temperature; heat is needed to start combustion (1)."
+      },
+      {
+       "q": "What happens to sediments carried during erosion when the speed of water decreases?",
+       "ans": "They settle down at the bottom, e.g. in lakes and oceans (1), and over time harden into new rocks (1)."
+      },
+      {
+       "q": "Magnesium burnt in air produces ______. The substance formed is ______ in nature. Burning of magnesium is a ______ change.",
+       "ans": "Magnesium oxide (1); basic (½); chemical (½)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe the yeast–sugar–balloon activity. What do you observe and conclude?",
+       "ans": "Make sugar solution in a bottle, add yeast and cover the mouth with a balloon; leave for about an hour (1). The balloon inflates as gas forms (1). When the gas is shaken with lime water, it turns milky, so the gas is carbon dioxide; yeast acts on sugar to produce carbon dioxide, which makes bread soft and fluffy (1)."
+      },
+      {
+       "q": "Write a secret message with lemon juice and heat the paper later. Which changes take place and can they be reversed?",
+       "ans": "On drying, the water in the juice evaporates — physical change; the writing becomes invisible (1). On warming, the lemon juice turns dark brown — new substances form, a chemical change (1). The browning cannot be reversed (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain with examples: (a) changes that can be reversed and those that cannot; (b) desirable and undesirable changes.",
+       "ans": "(a) Reversible: melting ice can be refrozen; evaporated water can be condensed (1½). Irreversible: chopped vegetables, popcorn, burning wood cannot return to original form (1). (b) Desirable: milk to curd, ripening, cooking (1). Undesirable: rusting of iron, decay of stored food; but decomposition of waste into compost is desirable (1½)."
+      },
+      {
+       "q": "Case: A student lights two identical candles and covers one with a glass tumbler on a petri dish of lime water. (a) What happens to each candle? (b) Why? (c) What happens to the lime water? (d) What does this prove? (e) Is the burning of the candle a physical or chemical change?",
+       "ans": "(a) The covered candle goes out after some time; the open one keeps burning (1). (b) The covered one gets no continuous supply of air/oxygen (1). (c) It turns milky (1). (d) Carbon dioxide forms, from carbon of the wax and oxygen of the air; oxygen is required for combustion (1). (e) Both: melting/evaporating wax is physical, burning of wax vapour is chemical (1)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

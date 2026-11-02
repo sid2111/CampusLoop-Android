@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 3,
+ "n": 3,
+ "title": "A Peek Beyond the Point",
+ "book": "Ganita Prakash (Grade 7) Part I",
+ "quiz": [
+  {
+   "q": "What is 2 7/10 cm written as a decimal?",
+   "o": [
+    "2.7 cm",
+    "27 cm",
+    "2.07 cm",
+    "0.27 cm"
+   ],
+   "a": 0,
+   "why": "2 7/10 = 2 + 7 tenths = 2.7."
+  },
+  {
+   "q": "How many hundredths make one tenth?",
+   "o": [
+    "100",
+    "1",
+    "10",
+    "1000"
+   ],
+   "a": 2,
+   "why": "1/10 = 10/100."
+  },
+  {
+   "q": "Which number is the largest?",
+   "o": [
+    "0.2",
+    "0.02",
+    "0.002",
+    "0.199"
+   ],
+   "a": 0,
+   "why": "0.2 = 0.200 has the most tenths."
+  },
+  {
+   "q": "234 tenths in decimal form is:",
+   "o": [
+    "2.34",
+    "23.4",
+    "234.0",
+    "0.234"
+   ],
+   "a": 1,
+   "why": "234/10 = 20 + 3 + 4/10 = 23.4."
+  },
+  {
+   "q": "465 g in kilograms is:",
+   "o": [
+    "4.65 kg",
+    "46.5 kg",
+    "0.0465 kg",
+    "0.465 kg"
+   ],
+   "a": 3,
+   "why": "1 g = 0.001 kg, so 465 g = 0.465 kg."
+  },
+  {
+   "q": "Which of these is equal to 4.5?",
+   "o": [
+    "4.05",
+    "4.50",
+    "4.005",
+    "0.45"
+   ],
+   "a": 1,
+   "why": "Adding a zero at the right end does not change the value."
+  },
+  {
+   "q": "2.7 + 3.5 = ?",
+   "o": [
+    "5.12",
+    "6.2",
+    "5.2",
+    "6.12"
+   ],
+   "a": 1,
+   "why": "7 + 5 = 12 tenths = 1 unit 2 tenths; 2 + 3 + 1 = 6."
+  },
+  {
+   "q": "The bus arrives 4.5 hours after noon. That is:",
+   "o": [
+    "4:05 p.m.",
+    "4:50 p.m.",
+    "4:30 p.m.",
+    "4:25 p.m."
+   ],
+   "a": 2,
+   "why": "0.5 hour = 5/10 × 60 = 30 minutes."
+  },
+  {
+   "q": "Which decimal is closest to 1?",
+   "o": [
+    "0.9",
+    "1.1",
+    "1.11",
+    "1.01"
+   ],
+   "a": 3,
+   "why": "1.01 is only 0.01 away from 1."
+  },
+  {
+   "q": "In 7.05, the digit 5 is in the:",
+   "o": [
+    "tenths place",
+    "units place",
+    "hundredths place",
+    "thousandths place"
+   ],
+   "a": 2,
+   "why": "7.05 = 7 + 0/10 + 5/100."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "3 4/10 is the same as:",
+       "o": [
+        "34/100",
+        "34/10",
+        "3/40",
+        "304/10"
+       ],
+       "a": 1,
+       "ans": "3 units = 30 tenths, plus 4 tenths = 34/10."
+      },
+      {
+       "q": "1 mm is equal to:",
+       "o": [
+        "1 cm",
+        "0.01 cm",
+        "0.1 cm",
+        "10 cm"
+       ],
+       "a": 2,
+       "ans": "1 cm = 10 mm, so 1 mm = 1/10 cm = 0.1 cm."
+      },
+      {
+       "q": "Which is greater: 1.009 or 1.090?",
+       "o": [
+        "1.009",
+        "1.090",
+        "They are equal",
+        "Cannot say"
+       ],
+       "a": 1,
+       "ans": "Hundredths: 9 > 0, so 1.090 is greater."
+      },
+      {
+       "q": "75 paise in rupees is:",
+       "o": [
+        "₹7.5",
+        "₹0.075",
+        "₹0.75",
+        "₹75"
+       ],
+       "a": 2,
+       "ans": "75/100 rupee = ₹0.75."
+      },
+      {
+       "q": "The decimal for 5/100 is:",
+       "o": [
+        "0.5",
+        "0.05",
+        "5.00",
+        "0.005"
+       ],
+       "a": 1,
+       "ans": "5 hundredths = 0.05."
+      },
+      {
+       "q": "How many thousandths make one tenth?",
+       "o": [
+        "10",
+        "1000",
+        "1",
+        "100"
+       ],
+       "a": 3,
+       "ans": "1/10 = 100/1000."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Add 2 7/10 and 3 6/10. Write the answer as a mixed number.",
+       "ans": "Units 2 + 3 = 5, tenths 7 + 6 = 13 (1 mark). 13 tenths = 1 unit + 3 tenths, so 6 3/10 (1 mark)."
+      },
+      {
+       "q": "Convert: (a) 134 mm to cm (b) 2.07 m to cm.",
+       "ans": "(a) 134 ÷ 10 = 13.4 cm (1 mark). (b) 2.07 × 100 = 207 cm (1 mark)."
+      },
+      {
+       "q": "Write 0.362 as a sum of tenths, hundredths and thousandths.",
+       "ans": "0.362 = 3/10 + 6/100 + 2/1000 (1 mark for place values, 1 mark for correct sum)."
+      },
+      {
+       "q": "Arrange in increasing order: 4 1/10, 4/10, 41/10, 41 1/10.",
+       "ans": "In tenths: 41, 4, 41, 411 (1 mark). 4/10 < 41/10 = 4 1/10 < 41 1/10 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Shylaja's hand is 12 4/10 units long and her palm is 6 7/10 units. Find the length of her middle finger. Show regrouping.",
+       "ans": "Need 12 4/10 − 6 7/10 (1 mark). 4 tenths < 7 tenths, so split a unit: 11 units 14 tenths (1 mark). 14 − 7 = 7 tenths, 11 − 6 = 5: 5 7/10 units (1 mark)."
+      },
+      {
+       "q": "Fill in: (a) 465 g = ___ kg (b) ___ g = 2.5 kg (c) 68 g = ___ kg.",
+       "ans": "(a) 0.465 kg (1 mark) (b) 2500 g (1 mark) (c) 0.068 kg (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Priya needs 2.7 m of cloth and Shylaja needs 3.5 m. (a) Find the total cloth. (b) How much more does Shylaja need? (c) If the shop has 10 m, how much is left after both buy? Show working.",
+       "ans": "(a) 2.7 + 3.5: 7 + 5 = 12 tenths = 1.2, so 6.2 m (2 marks). (b) 3.5 − 2.7 = 0.8 m (split 1 unit into 10 tenths: 15 − 7 = 8 tenths) (2 marks). (c) 10.0 − 6.2 = 3.8 m (1 mark)."
+      },
+      {
+       "q": "Locate 4.185 using zoomed number lines and explain each step. Then compare 4.185 with 4.158.",
+       "ans": "0 to 10: between 4 and 5 (1 mark). zoom into 4 to 5: between 4.1 and 4.2 (1 mark). 4.1 to 4.2: between 4.18 and 4.19 (1 mark); 5 thousandths after 4.18 (1 mark). Compare: units, tenths equal; hundredths 8 > 5, so 4.185 > 4.158 (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "70.5 is read as:",
+       "o": [
+        "seven hundred five",
+        "seventy point five",
+        "seven point zero five",
+        "seventy-five tenths"
+       ],
+       "a": 1,
+       "ans": "70.5 = 7 tens and 5 tenths: seventy point five."
+      },
+      {
+       "q": "1 cm in metres is:",
+       "o": [
+        "0.1 m",
+        "0.01 m",
+        "0.001 m",
+        "100 m"
+       ],
+       "a": 1,
+       "ans": "1 m = 100 cm, so 1 cm = 1/100 m."
+      },
+      {
+       "q": "Which pair is equal?",
+       "o": [
+        "4.05 and 4.5",
+        "4.05 and 4.050",
+        "0.405 and 4.05",
+        "4.005 and 4.05"
+       ],
+       "a": 1,
+       "ans": "Trailing zero does not change the value."
+      },
+      {
+       "q": "12 tens and 12 tenths make:",
+       "o": [
+        "12.12",
+        "121.2",
+        "120.12",
+        "1212"
+       ],
+       "a": 1,
+       "ans": "120 + 1.2 = 121.2."
+      },
+      {
+       "q": "The next term of 4.4, 4.8, 5.2, 5.6, ... is:",
+       "o": [
+        "5.10",
+        "6.0",
+        "5.8",
+        "6.4"
+       ],
+       "a": 1,
+       "ans": "Add 0.4: 5.6 + 0.4 = 6.0."
+      },
+      {
+       "q": "5.5 overs in cricket means:",
+       "o": [
+        "5 overs and 3 balls",
+        "5 overs and 5 balls",
+        "5.5 balls",
+        "55 balls"
+       ],
+       "a": 1,
+       "ans": "1 over = 6 balls; 5.5 overs = 5 overs and 5 balls."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write in decimal form: (a) 234 hundredths (b) 105 tenths.",
+       "ans": "(a) 234/100 = 2.34 (1 mark). (b) 105/10 = 10.5 (1 mark)."
+      },
+      {
+       "q": "Find 15 3/10 4/100 + 2 6/10 8/100.",
+       "ans": "Units 17, tenths 9, hundredths 12 = 1 tenth 2 hundredths (1 mark). 10 tenths = 1 unit: 18 2/100 (1 mark)."
+      },
+      {
+       "q": "Which is closest to 4: 3.56, 3.65, 3.099? Give a reason.",
+       "ans": "Distances: 0.44, 0.35, 0.901 (1 mark). 3.65 is closest (1 mark)."
+      },
+      {
+       "q": "How many millimetres make 1 kilometre?",
+       "ans": "1 km = 1000 m (1 mark); 1 m = 1000 mm, so 1000 × 1000 = 10,00,000 mm (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Mahi buys 0.25 kg beans, 0.3 kg carrots, 0.5 kg potatoes, 0.2 kg capsicums and 0.05 kg ginger. Find the total weight.",
+       "ans": "Write with 2 places: 0.25 + 0.30 + 0.50 + 0.20 + 0.05 (1 mark). Add: 1.30 (1 mark). Total = 1.3 kg (1 mark)."
+      },
+      {
+       "q": "Arrange in descending order: 2.567, 2.675, 2.768, 2.499, 2.698.",
+       "ans": "Units all 2; compare tenths 5, 6, 7, 4, 6 (1 mark). 2.675 vs 2.698: hundredths 7 < 9 (1 mark). 2.768 > 2.698 > 2.675 > 2.567 > 2.499 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Pinto supplies 3.79 L, 4.2 L and 4.25 L of milk in the first three days. In 6 days he supplies 25 L. (a) Milk in the first three days? (b) Milk in the last three days? (c) If he supplied equal amounts on the last three days, was it more or less than 4 L a day?",
+       "ans": "(a) 3.79 + 4.20 + 4.25 = 12.24 L (2 marks). (b) 25.00 − 12.24 = 12.76 L (2 marks). (c) 3 × 4 = 12 < 12.76, so more than 4 L a day (1 mark)."
+      },
+      {
+       "q": "Sarayu reads 'the bus reaches 4.5 hours post noon'. A girl tells a carpenter '2.5 ft' for an opening of 2 ft 5 in. Explain both mistakes with working.",
+       "ans": "0.5 hour = 5/10 × 60 min = 30 min (1 mark), so the bus arrives at 4:30 p.m., not 4:05 or 4:50 (1 mark). 0.5 ft = 5/10 × 12 in = 6 in (1 mark), so the door is 2 ft 6 in (1 mark) and does not fit an opening of 2 ft 5 in; decimals mean tenths, not minutes or inches (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "1 g in kilograms is:",
+       "o": [
+        "0.1 kg",
+        "0.01 kg",
+        "0.001 kg",
+        "1000 kg"
+       ],
+       "a": 2,
+       "ans": "1 kg = 1000 g."
+      },
+      {
+       "q": "The divisions between 1 and 1.1 are:",
+       "o": [
+        "1.1, 1.2, ...",
+        "1.01, 1.02, ..., 1.09",
+        "1.001, ...",
+        "0.1, 0.2, ..."
+       ],
+       "a": 1,
+       "ans": "1 to 1.1 split into hundredths."
+      },
+      {
+       "q": "Which is the smallest?",
+       "o": [
+        "0.2",
+        "0.20",
+        "0.02",
+        "0.002"
+       ],
+       "a": 3,
+       "ans": "0.002 has only 2 thousandths."
+      },
+      {
+       "q": "9.9 − 9.09 = ?",
+       "o": [
+        "0.9",
+        "0.81",
+        "0.09",
+        "0.18"
+       ],
+       "a": 1,
+       "ans": "9.90 − 9.09 = 0.81."
+      },
+      {
+       "q": "Each division on a line from 5 to 10 with 10 equal divisions is:",
+       "o": [
+        "0.1",
+        "0.5",
+        "1",
+        "5"
+       ],
+       "a": 1,
+       "ans": "5 units ÷ 10 = 0.5."
+      },
+      {
+       "q": "[3/4] as a decimal is:",
+       "o": [
+        "0.34",
+        "0.75",
+        "0.43",
+        "3.4"
+       ],
+       "a": 1,
+       "ans": "3/4 = 75/100 = 0.75."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "A Celestial Pearl Danio is 2 4/10 cm and a Philippine Goby is 9/10 cm. Find the difference.",
+       "ans": "2 4/10 = 1 14/10 (1 mark). 14 − 9 = 5 tenths: 1 5/10 cm = 1.5 cm (1 mark)."
+      },
+      {
+       "q": "Fill in: 10 p = ₹___ and 250 p = ₹___.",
+       "ans": "10 p = ₹0.10 (1 mark); 250 p = ₹2.50 (1 mark)."
+      },
+      {
+       "q": "Is 0.2 = 0.20 = 0.200? Explain with place value.",
+       "ans": "All three have 0 units and 2 tenths; the other places are 0 (1 mark). So they are equal (1 mark)."
+      },
+      {
+       "q": "Find the next two terms: 5.5, 6.4, 6.39, 7.29, 7.28, 8.18, 8.17, ...",
+       "ans": "Pattern: +0.9, −0.01 (1 mark). Next: 9.07, 9.06 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Find 84.691 − 77.345, showing regrouping.",
+       "ans": "Thousandths: 1 < 5, split a hundredth: 11 − 5 = 6 (1 mark). Hundredths 8 − 4 = 4, tenths 6 − 3 = 3; units 4 < 7, split a ten: 14 − 7 = 7 (1 mark). Tens 7 − 7 = 0: answer 7.346 (1 mark)."
+      },
+      {
+       "q": "On a number line from 6.4 to 6.6, each tenth is split into 4 equal parts. Find a (2 parts after 6.4), c (1 part after 6.5), b (2 parts after 6.5).",
+       "ans": "One part = 0.1 ÷ 4 = 0.025 (1 mark). a = 6.45 (1 mark). c = 6.525, b = 6.55 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "A honeybee has head 2 3/10 units, thorax 5 4/10 units and abdomen 7 5/10 units. (a) Find its total length. (b) How much longer is the abdomen than the head? (c) Write both answers as decimals.",
+       "ans": "(a) 2 + 5 + 7 = 14; 3 + 4 + 5 = 12 tenths = 1 unit 2 tenths; total 15 2/10 (2 marks). (b) 7 5/10 − 2 3/10 = 5 2/10 (2 marks). (c) 15.2 units and 5.2 units (1 mark)."
+      },
+      {
+       "q": "Using the digits 1, 4, 0, 8, 6 exactly once, make (a) the decimal closest to 30 (b) the smallest decimal between 100 and 1000. Explain.",
+       "ans": "(a) Below 30 the largest is 18.64 (11.36 away) (1 mark); above 30 the smallest is 40.168 (10.168 away) (1 mark); so 40.168 (1 mark). (b) Start with the smallest three-digit whole part 104, then .68: 104.68 (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "1 4/10 4/100 is the same as:",
+       "o": [
+        "1 44/100",
+        "1 14/100",
+        "144/10",
+        "1 4/100"
+       ],
+       "a": 1,
+       "ans": "1 tenth = 10 hundredths, so 1 14/100."
+      },
+      {
+       "q": "Which is greater: 3.81 or 13.800?",
+       "o": [
+        "3.81",
+        "13.800",
+        "Equal",
+        "Cannot say"
+       ],
+       "a": 1,
+       "ans": "13 units > 3 units."
+      },
+      {
+       "q": "0.75 + 0.03 = ?",
+       "o": [
+        "0.78",
+        "1.05",
+        "0.105",
+        "0.708"
+       ],
+       "a": 0,
+       "ans": "7 tenths, 5 + 3 = 8 hundredths."
+      },
+      {
+       "q": "A 'decimal' system is based on the number:",
+       "o": [
+        "2",
+        "12",
+        "10",
+        "100"
+       ],
+       "a": 2,
+       "ans": "'Decem' means ten."
+      },
+      {
+       "q": "10 tens, 10 ones, 10 tenths and 10 hundredths make:",
+       "o": [
+        "10.101",
+        "111.1",
+        "1010.10",
+        "111.11"
+       ],
+       "a": 1,
+       "ans": "100 + 10 + 1 + 0.1 = 111.1."
+      },
+      {
+       "q": "36 cm in metres is:",
+       "o": [
+        "3.6 m",
+        "0.036 m",
+        "0.36 m",
+        "36.0 m"
+       ],
+       "a": 2,
+       "ans": "36/100 m = 0.36 m."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write 7.05 in place value form and read it.",
+       "ans": "7.05 = 7 × 1 + 0 × 1/10 + 5 × 1/100 (1 mark). Read: seven point zero five (1 mark)."
+      },
+      {
+       "q": "Find 25 9/10 − 6 4/10 7/100.",
+       "ans": "Split a tenth: 25 8/10 10/100 (1 mark). Subtract: 19 4/10 3/100 (1 mark)."
+      },
+      {
+       "q": "Tinku weighed 35.75 kg in January and 34.50 kg in February. Did he gain or lose? By how much?",
+       "ans": "34.50 < 35.75, so he lost weight (1 mark). 35.75 − 34.50 = 1.25 kg (1 mark)."
+      },
+      {
+       "q": "Which is greater: 10/1000 or 1/10?",
+       "ans": "10/1000 = 0.01 and 1/10 = 0.1 (1 mark). 1/10 is greater (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Find 75.345 + 86.691 and explain the regrouping.",
+       "ans": "Thousandths 6; hundredths 13 = 1 tenth + 3 (1 mark). Tenths 3 + 6 + 1 = 10 = 1 unit + 0; units 5 + 6 + 1 = 12 (1 mark). Tens 7 + 8 + 1 = 16: total 162.036 (1 mark)."
+      },
+      {
+       "q": "Sonu claims: the sum of two decimals is more than the sum of their whole parts and less than 2 more. Check with 25.936 + 8.202.",
+       "ans": "Sum = 34.138 (1 mark). Whole parts: 25 + 8 = 33 and 33 + 2 = 35 (1 mark). 33 < 34.138 < 35, so the claim holds; each fractional part is less than 1 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Indian Railways insurance costs 45 paise per passenger. (a) Write 45 paise in rupees. (b) Find the fee for 1 lakh passengers. (c) Find the fee for 2500 passengers.",
+       "ans": "(a) 45/100 = ₹0.45 (1 mark). (b) 1,00,000 × 0.45 = ₹45,000 (2 marks). (c) 2500 × 0.45 = ₹1125 (2 marks)."
+      },
+      {
+       "q": "A silk sheet is 8 9/10 units long and is folded in half. (a) Between which two tenths does the fold end? (b) Find its exact length using hundredths. (c) Write it in three ways.",
+       "ans": "(a) Between 4 4/10 and 4 5/10 (1 mark). (b) 8 9/10 = 890 hundredths; half = 445 hundredths = 4 4/10 5/100 (2 marks). (c) 4 4/10 5/100 = 4 45/100 = 4.45 (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "0.274 is read as:",
+       "o": [
+        "zero point two hundred seventy-four",
+        "zero point two seven four",
+        "two seventy-four",
+        "two point seven four"
+       ],
+       "a": 1,
+       "ans": "Digits after the point are read one by one."
+      },
+      {
+       "q": "17 − 0.05 = ?",
+       "o": [
+        "16.5",
+        "16.95",
+        "16.05",
+        "17.05"
+       ],
+       "a": 1,
+       "ans": "17.00 − 0.05 = 16.95."
+      },
+      {
+       "q": "[1/5] as a decimal is:",
+       "o": [
+        "0.15",
+        "0.5",
+        "0.2",
+        "5.0"
+       ],
+       "a": 2,
+       "ans": "1/5 = 2/10 = 0.2."
+      },
+      {
+       "q": "Which is the closest to 1: 0.8, 0.69, 1.08?",
+       "o": [
+        "0.8",
+        "0.69",
+        "1.08",
+        "All equally close"
+       ],
+       "a": 2,
+       "ans": "1.08 is 0.08 away."
+      },
+      {
+       "q": "704 g in kilograms is:",
+       "o": [
+        "7.04 kg",
+        "0.704 kg",
+        "0.0704 kg",
+        "70.4 kg"
+       ],
+       "a": 1,
+       "ans": "704/1000 = 0.704."
+      },
+      {
+       "q": "The change in 12.45, 11.95, 11.45, ... is:",
+       "o": [
+        "−0.5",
+        "+0.5",
+        "−0.05",
+        "−0.45"
+       ],
+       "a": 0,
+       "ans": "12.45 − 11.95 = 0.5, decreasing."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write 1 ten and 5 tenths, and 4 ones and 6 hundredths in decimal form.",
+       "ans": "10.5 (1 mark); 4.06 (1 mark)."
+      },
+      {
+       "q": "Name the place value of each digit of 4.185.",
+       "ans": "4 units, 1 tenth (1 mark); 8 hundredths, 5 thousandths (1 mark)."
+      },
+      {
+       "q": "Find the next three terms: 8.5, 9.4, 10.3, ...",
+       "ans": "Change +0.9 (1 mark). 11.2, 12.1, 13.0 (1 mark)."
+      },
+      {
+       "q": "Will a decimal with more digits always be greater? Give an example.",
+       "ans": "No (1 mark). 2.5 > 2.05 although 2.05 has more digits (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Write 25 tens, 25 ones, 25 tenths and 25 hundredths as a decimal.",
+       "ans": "250 + 25 (1 mark) + 2.5 + 0.25 (1 mark) = 277.75 (1 mark)."
+      },
+      {
+       "q": "Find 15 3/10 4/100 − 2 6/10 8/100.",
+       "ans": "4 < 8 hundredths: split a tenth, 2 tenths 14 hundredths (1 mark). 2 < 6 tenths: split a unit, 14 units 12 tenths (1 mark). 14 − 2 = 12, 12 − 6 = 6, 14 − 8 = 6: 12 6/10 6/100 (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Decimal disasters: (a) Amsterdam paid €188 million instead of €1.8 million because cents were read as euros. How many times bigger was the wrong payment, roughly? (b) Reading 0.05 mg as 0.5 mg: how many times the dose? (c) Give one rule to avoid such mistakes.",
+       "ans": "(a) 188 ÷ 1.8 ≈ 104, about 100 times bigger (cents vs euros: 1 euro = 100 cents) (2 marks). (b) 0.5 ÷ 0.05 = 10 times (2 marks). (c) Always check the unit and the position of the decimal point (1 mark)."
+      },
+      {
+       "q": "Using each digit 0–9 at most once, fill □.□□□ + □.□□□ so the sum is as close as possible to 10.5. Explain your strategy.",
+       "ans": "Units must add to 9 or 10 with a carry from the tenths (1 mark). Example: 9.476 + 1.025 = 10.501 (2 marks). Even exact: 0.643 + 9.857 = 10.500, all digits different (2 marks)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

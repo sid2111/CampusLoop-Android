@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 6,
+ "n": 6,
+ "title": "Adolescence: A Stage of Growth and Change",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "Adolescence generally lasts from about",
+   "o": [
+    "10 to 19 years",
+    "2 to 10 years",
+    "19 to 30 years",
+    "5 to 12 years"
+   ],
+   "a": 0,
+   "why": "It starts around 10 years and usually lasts until 19 years."
+  },
+  {
+   "q": "The bump seen in the throat of many adolescent boys is called",
+   "o": [
+    "Voice box",
+    "Adam’s apple",
+    "Pimple",
+    "Tonsil"
+   ],
+   "a": 1,
+   "why": "The growing voice box shows as a bump called the Adam’s apple."
+  },
+  {
+   "q": "Acne in adolescents is mainly caused by",
+   "o": [
+    "Too little sweat",
+    "Drinking water",
+    "Increased oily secretions that clog skin pores",
+    "Cold weather"
+   ],
+   "a": 2,
+   "why": "More oil from the skin clogs pores, which can get infected."
+  },
+  {
+   "q": "The menstrual cycle generally recurs every",
+   "o": [
+    "7–10 days",
+    "14–15 days",
+    "60 days",
+    "28–30 days"
+   ],
+   "a": 3,
+   "why": "It generally recurs every 28–30 days (21–35 days in many healthy girls)."
+  },
+  {
+   "q": "Which is a secondary sexual characteristic?",
+   "o": [
+    "Growth of facial hair in boys",
+    "Increase in height of a 5-year-old",
+    "Learning to walk",
+    "Losing milk teeth"
+   ],
+   "a": 0,
+   "why": "It helps distinguish males from females but is not directly involved in reproduction."
+  },
+  {
+   "q": "Iron in our food mainly helps in",
+   "o": [
+    "Bone growth",
+    "Formation of blood",
+    "Hair growth",
+    "Making the voice hoarse"
+   ],
+   "a": 1,
+   "why": "Table 6.3: iron (spinach, kidney beans, raisins, figs) helps form blood."
+  },
+  {
+   "q": "Used sanitary pads should be",
+   "o": [
+    "Flushed in the toilet",
+    "Thrown in the open",
+    "Wrapped in newspaper and put inside a dustbin",
+    "Buried in the classroom garden"
+   ],
+   "a": 2,
+   "why": "This protects community health and keeps surroundings clean."
+  },
+  {
+   "q": "Spreading false rumours about someone in a group chat is",
+   "o": [
+    "Peer education",
+    "Social work",
+    "Responsible posting",
+    "Cyberbullying"
+   ],
+   "a": 3,
+   "why": "Cyberbullying is harassing others using digital devices."
+  },
+  {
+   "q": "The National De-addiction Helpline number is",
+   "o": [
+    "14446",
+    "112",
+    "1098",
+    "108"
+   ],
+   "a": 0,
+   "why": "The Government launched helpline 14446 to deal with drug addiction."
+  },
+  {
+   "q": "Changes during adolescence are mainly controlled by",
+   "o": [
+    "Vitamins",
+    "Hormones",
+    "Pimples",
+    "Exercise"
+   ],
+   "a": 1,
+   "why": "Hormones, released on signals from the brain, regulate growth and development."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Adolescence is the stage between",
+       "o": [
+        "childhood and adulthood",
+        "infancy and childhood",
+        "adulthood and old age",
+        "birth and infancy"
+       ],
+       "a": 0,
+       "ans": "Adolescence is the period of change from childhood to adulthood."
+      },
+      {
+       "q": "The voice of adolescent boys becomes hoarse because of the growth of the",
+       "o": [
+        "lungs",
+        "voice box",
+        "teeth",
+        "nose"
+       ],
+       "a": 1,
+       "ans": "The voice box grows; in boys it grows more, so the voice sounds hoarse."
+      },
+      {
+       "q": "Menstruation may last for",
+       "o": [
+        "1 day",
+        "15 days",
+        "3 to 7 days",
+        "28 days"
+       ],
+       "a": 2,
+       "ans": "The blood-discharge phase may last three to seven days."
+      },
+      {
+       "q": "Which food group gives calcium for bone growth?",
+       "o": [
+        "Sugar",
+        "Chips and cola",
+        "Tea",
+        "Milk, curd, paneer"
+       ],
+       "a": 3,
+       "ans": "Milk, millets, curd, cheese and paneer give calcium."
+      },
+      {
+       "q": "Which of these is addictive and should be avoided?",
+       "o": [
+        "Tobacco",
+        "Fruit juice",
+        "Milk",
+        "Water"
+       ],
+       "a": 0,
+       "ans": "Tobacco is addictive and harmful; say NO."
+      },
+      {
+       "q": "Hormones are released at the right time in response to signals from the",
+       "o": [
+        "heart",
+        "brain",
+        "skin",
+        "stomach"
+       ],
+       "a": 1,
+       "ans": "Hormones are released in response to signals from the brain."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What are secondary sexual characteristics? Give one example.",
+       "ans": "Changes that help distinguish males from females but are not directly involved in reproduction (1). Example: facial hair in boys / development of breasts in girls / change in voice (1)."
+      },
+      {
+       "q": "Ramesh, aged 11, has pimples. Give two reasons.",
+       "ans": "His skin makes more oily secretions in adolescence (1); the oil clogs skin pores, which can get infected, causing pimples (1)."
+      },
+      {
+       "q": "Give two benefits of regular physical activity for adolescents.",
+       "ans": "Any two (1 each): keeps body and mind fit and healthy; builds stamina; boosts mood."
+      },
+      {
+       "q": "What is puberty?",
+       "ans": "Puberty is the stage in which the body of an adolescent undergoes external and internal changes (1) to develop into an adult capable of reproduction (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Name three changes in the body during adolescence that are common to both boys and girls.",
+       "ans": "Any three (1 each): increase in height; increase in weight/strength; hair in armpits; hair in pubic region; pimples; slight to marked change in voice."
+      },
+      {
+       "q": "Write three dos for responsible social media behaviour.",
+       "ans": "Any three (1 each): be respectful and kind; think before posting; protect privacy; seek guidance from elders; tell parents/teachers about bullying."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain the menstrual cycle: when it starts, how often it recurs, how long menstruation lasts and when it stops. Why should myths about it be rejected?",
+       "ans": "Starts in adolescent girls at puberty (1); recurs about every 28–30 days, 21–35 days in many healthy girls (1); menstruation lasts 3–7 days (1); stops naturally by 45–55 years (1); myths such as isolating girls have no scientific basis and cause fear, shame or guilt; it is a natural process (1)."
+      },
+      {
+       "q": "Case: Manoj’s friends tell him to try a cigarette ‘just once’. (a) What does ‘addictive’ mean? (b) Name two harmful effects of such substances. (c) What should Manoj do? (d) Where can someone already addicted get help?",
+       "ans": "(a) Once people start, they develop a strong urge to take it again and again (1). (b) Any two: breathing difficulties, memory loss, damage to lungs (2). (c) Say NO firmly the first time and every time (1). (d) Family, friends, teachers, counselling/medical advice, or helpline 14446 (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Most changes until 10–12 years of age are related to",
+       "o": [
+        "voice",
+        "height and weight",
+        "hair growth",
+        "pimples"
+       ],
+       "a": 1,
+       "ans": "Until about 10–12 years, changes are mostly in height and weight."
+      },
+      {
+       "q": "Which change is observed only in girls?",
+       "o": [
+        "Pimples",
+        "Hair in armpits",
+        "Development of breasts",
+        "Increase in height"
+       ],
+       "a": 2,
+       "ans": "Breasts develop only in girls."
+      },
+      {
+       "q": "A cycle length within the healthy range is",
+       "o": [
+        "15 days",
+        "40 days",
+        "50 days",
+        "32 days"
+       ],
+       "a": 3,
+       "ans": "Healthy cycles range from 21 to 35 days; 32 lies in this range."
+      },
+      {
+       "q": "Dorothy Hodgkin studied the structure of",
+       "o": [
+        "vitamin B12",
+        "iron",
+        "DNA",
+        "calcium"
+       ],
+       "a": 0,
+       "ans": "She studied vitamin B12 and won the Nobel Prize in Chemistry in 1964."
+      },
+      {
+       "q": "The Nasha Mukt Bharat Abhiyaan aims to",
+       "o": [
+        "promote online games",
+        "spread awareness about avoiding substance abuse",
+        "distribute sanitary pads",
+        "teach yoga"
+       ],
+       "a": 1,
+       "ans": "It spreads awareness about avoiding substance abuse."
+      },
+      {
+       "q": "Which of the following is a good way to handle mood swings?",
+       "o": [
+        "Picking fights",
+        "Skipping meals",
+        "Music, dance or sports",
+        "Staying alone always"
+       ],
+       "a": 2,
+       "ans": "Table 6.2: varied activities lead to self-exploration and creativity."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Shalu says adolescence brings only physical changes. Correct her.",
+       "ans": "She is only partly correct (1); adolescence also brings internal changes and emotional and behavioural changes such as mood swings and stronger emotions (1)."
+      },
+      {
+       "q": "Why is a nutritious diet important in adolescence? Name one food rich in iron.",
+       "ans": "Adolescence is a period of rapid growth and many body changes, so a nutritious diet is of utmost importance (1). Iron-rich: spinach / kidney beans / raisins / figs (1)."
+      },
+      {
+       "q": "What is cyberbullying? Give one example.",
+       "ans": "Using digital devices or online platforms to harass others (1). Example: spreading false rumours / misleading messages / sharing personal information without consent (1)."
+      },
+      {
+       "q": "Unscramble: (a) urtypeb (b) iceov xob",
+       "ans": "(a) puberty (1) (b) voice box (1)"
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Mary (11) got a neck bulge and was given medicine and an iodine-rich diet; Manoj (12) got a neck bump and was told it was part of growing up. Explain.",
+       "ans": "Mary’s bulge is due to iodine deficiency, a health problem needing treatment (1½). Manoj’s bump is the Adam’s apple, the growing voice box, a normal change of adolescence in boys (1½)."
+      },
+      {
+       "q": "Name any three government initiatives for menstrual hygiene and state what one of them does.",
+       "ans": "Any three (½ each = 1½): Menstrual Hygiene Scheme, RKSK, Suvidha Sanitary Napkin Initiative, Shuchi (Karnataka) / free pads in Tamil Nadu and Odisha. One function (1½), e.g., Suvidha provides affordable biodegradable pads through Jan Aushadhi Kendras."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe the changes in height, body structure, voice and hair during adolescence. What key point must we remember about these changes?",
+       "ans": "Height increases most prominently (1); boys gain weight, broader shoulders, wider chest; girls change in height, weight and develop breasts (1); voice box grows, hoarse voice and Adam’s apple in boys, slight change in girls (1); hair in armpits and pubic region in both, facial hair in boys (1); timing, nature and extent vary among individuals, and this is completely normal (1)."
+      },
+      {
+       "q": "Complete Table 6.3 with three rows: food sources, nutrients, functions. Why is Plate (ii) (thali) better than Plate (i) (burgers, pizza, fries)?",
+       "ans": "Milk/curd/paneer: calcium, proteins, fats: bone growth (1); dal/eggs: proteins: growth, strength, energy (1); spinach/kidney beans/raisins: iron: formation of blood (1). The thali gives proteins, carbohydrates, fats, vitamins and minerals in balance (1); junk food has too much fat, salt and sugar and few nutrients (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The correct order of life stages is",
+       "o": [
+        "childhood, infancy, adolescence, adulthood, old age",
+        "infancy, adolescence, childhood, adulthood, old age",
+        "infancy, childhood, adolescence, adulthood, old age",
+        "childhood, adolescence, infancy, old age, adulthood"
+       ],
+       "a": 2,
+       "ans": "Infancy → childhood → adolescence → adulthood → old age."
+      },
+      {
+       "q": "Acne is a condition; pimples are",
+       "o": [
+        "its cure",
+        "a vitamin",
+        "a hormone",
+        "its manifestation"
+       ],
+       "a": 3,
+       "ans": "Pimples are how acne shows up."
+      },
+      {
+       "q": "Physical isolation of menstruating girls is",
+       "o": [
+        "a myth with no scientific basis",
+        "a scientific practice",
+        "needed for health",
+        "a government rule"
+       ],
+       "a": 0,
+       "ans": "Such myths have no scientific basis."
+      },
+      {
+       "q": "Body hygiene is especially important in the",
+       "o": [
+        "hair only",
+        "armpits and pubic region",
+        "nails only",
+        "teeth only"
+       ],
+       "a": 1,
+       "ans": "Cleaning these areas may protect us from infections."
+      },
+      {
+       "q": "RKSK encourages",
+       "o": [
+        "online gaming",
+        "junk food",
+        "peer education",
+        "isolation"
+       ],
+       "a": 2,
+       "ans": "RKSK encourages peer education, where older students help younger ones."
+      },
+      {
+       "q": "Some hormones also influence",
+       "o": [
+        "only height",
+        "eye colour only",
+        "the weather",
+        "mood and behaviour"
+       ],
+       "a": 3,
+       "ans": "Some hormones influence mood and behaviour."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Why can a seedling not produce seeds right after germination? How is this similar to humans?",
+       "ans": "It must first grow and reach maturity (1); humans also cannot reproduce right after birth, their bodies need to grow and mature (1)."
+      },
+      {
+       "q": "What is the Adam’s apple? Is it seen in everyone?",
+       "ans": "It is the bump in the throat formed by the growth of the voice box (1); no, it is not noticeable in every individual (1)."
+      },
+      {
+       "q": "How should used sanitary pads be disposed of, and why?",
+       "ans": "Wrap in newspaper and put inside a dustbin (1); to ensure community health and environmental cleanliness (1)."
+      },
+      {
+       "q": "Give two ways strong emotions can lead to positive growth.",
+       "ans": "Compassion for others (1); involvement in social work / social initiatives for the needy (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Give three tips for a healthy lifestyle in adolescence for a poster.",
+       "ans": "Any three (1 each): balanced diet; personal and menstrual hygiene; daily exercise/yoga; responsible social media use; say NO to harmful substances; seek guidance from trusted adults."
+      },
+      {
+       "q": "A girl’s period starts on 3 June and her cycle is 30 days. On which date would her next cycle probably begin? Show working.",
+       "ans": "3 June is day 1 (1); 30 days cover 3 June to 2 July (1); next cycle begins on day 31 = 3 July (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "What are hormones? How do they bring about the changes in adolescence? Name three changes they control.",
+       "ans": "Hormones are chemicals produced in our bodies (1), in different parts of the body (1), released at an appropriate time in response to signals from the brain (1). They regulate growth and development; e.g., menstruation, other signs of puberty such as voice change or facial hair, mood and behaviour (2)."
+      },
+      {
+       "q": "Activity 6.4: Make a table of three dos and three don’ts for social media. What should you do if someone bullies you online?",
+       "ans": "Dos (1½): be respectful and kind; think before posting; protect privacy. Don’ts (1½): do not share personal photos with strangers; do not spread rumours; do not share passwords/personal details. If bullied: do not feel scared or helpless, handle it wisely and seek help from parents and teachers (2)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Devyani noticed Venkatesh had a thin moustache. This is an example of",
+       "o": [
+        "a disease",
+        "infancy",
+        "old age",
+        "a change of adolescence"
+       ],
+       "a": 3,
+       "ans": "Facial hair in boys is a change of adolescence."
+      },
+      {
+       "q": "Menstruation usually stops by the age of",
+       "o": [
+        "45–55",
+        "30–35",
+        "20–25",
+        "70–80"
+       ],
+       "a": 0,
+       "ans": "It stops naturally by 45–55 years."
+      },
+      {
+       "q": "Which pair is correctly matched?",
+       "o": [
+        "Iron – bone growth",
+        "Iron – formation of blood",
+        "Calcium – formation of blood",
+        "Proteins – hoarse voice"
+       ],
+       "a": 1,
+       "ans": "Iron helps form blood; calcium helps bones."
+      },
+      {
+       "q": "The ‘Shuchi Scheme’ for free sanitary pads belongs to",
+       "o": [
+        "Kerala",
+        "Punjab",
+        "Karnataka",
+        "Assam"
+       ],
+       "a": 2,
+       "ans": "Shuchi is a Karnataka scheme."
+      },
+      {
+       "q": "Vitamin B12 must be obtained from food because",
+       "o": [
+        "it is made by the brain",
+        "it is a hormone",
+        "it is found only in water",
+        "it cannot be made in the human body"
+       ],
+       "a": 3,
+       "ans": "Like most vitamins it cannot be made in the body."
+      },
+      {
+       "q": "The best response to peer pressure to try alcohol is",
+       "o": [
+        "say NO firmly",
+        "try it once",
+        "try it secretly",
+        "keep it as a secret"
+       ],
+       "a": 0,
+       "ans": "Say NO the first time and every time."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What is substance abuse?",
+       "ans": "Harmful substances are addictive: once started, people feel a strong urge to take them again and again (1); using them regularly over time is called substance abuse (1)."
+      },
+      {
+       "q": "Give two changes that indicate reproductive capability in adolescence.",
+       "ans": "Maturation of the body parts involved in reproduction in boys and girls (1); onset of the menstrual cycle in girls (1)."
+      },
+      {
+       "q": "Why should we seek guidance from elders and teachers while using social media?",
+       "ans": "Sometimes we use platforms carelessly, knowingly or unknowingly (1); guidance helps us use them positively and responsibly for everyone’s well-being (1)."
+      },
+      {
+       "q": "Unscramble: (a) nstmnoiaretu (b) lahoclo",
+       "ans": "(a) menstruation (1) (b) alcohol (1)"
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Ramesh wants relief from pimples. Suggest three things he can do.",
+       "ans": "Any three (1 each): wash face gently with clean water 2–3 times a day; do not squeeze or pick pimples; eat a balanced diet and drink water; keep the skin clean; see a doctor if severe."
+      },
+      {
+       "q": "Mohini found used pads scattered near the bin. Suggest three menstrual hygiene and sanitary habits.",
+       "ans": "Any three (1 each): use clean sanitary pads or reusable cloth pads and change regularly; wrap used pads in newspaper and put them inside the dustbin; wash hands with soap; dry cloth pads in sunlight; prefer biodegradable pads; ensure clean facilities in schools; reduce stigma."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Q9: Categorise into ‘only in boys’, ‘only in girls’ and ‘common’: change in voice, development of breasts, growth of moustache, growth of facial hair, pimples, hair in pubic region, hair in armpits. Explain your placement of ‘change in voice’.",
+       "ans": "Only boys: moustache, facial hair (1). Only girls: development of breasts (1). Common: pimples, hair in pubic region, hair in armpits (1½). Change in voice: voice box grows in both, so it changes in both, but it is marked (hoarse) in boys and slight in girls; it may be placed under common with this note (or under boys as the prominent change) (1½)."
+      },
+      {
+       "q": "Explain the emotional and behavioural changes in adolescence using Table 6.2. Why is understanding them important?",
+       "ans": "Mood swings → varied activities like music, dance, sports → self-exploration, creativity and innovation (2). Strong emotions → increased sensitivity → compassion, social work (2). Understanding how emotions influence behaviour helps us make better choices and respond thoughtfully (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Adolescence usually begins at around",
+       "o": [
+        "10 years",
+        "5 years",
+        "15 years",
+        "19 years"
+       ],
+       "a": 0,
+       "ans": "It starts around 10 years of age."
+      },
+      {
+       "q": "Which is NOT observed in both boys and girls?",
+       "o": [
+        "Hair in armpits",
+        "Growth of moustache",
+        "Pimples",
+        "Increase in height"
+       ],
+       "a": 1,
+       "ans": "Moustache grows only in boys."
+      },
+      {
+       "q": "The phase of the menstrual cycle when blood discharge occurs is called",
+       "o": [
+        "puberty",
+        "ovulation",
+        "menstruation",
+        "adolescence"
+       ],
+       "a": 2,
+       "ans": "That phase is menstruation."
+      },
+      {
+       "q": "Suvidha sanitary pads are",
+       "o": [
+        "free for all adults",
+        "made of plastic only",
+        "sold only abroad",
+        "biodegradable and affordable"
+       ],
+       "a": 3,
+       "ans": "Suvidha provides affordable biodegradable pads via Jan Aushadhi Kendras."
+      },
+      {
+       "q": "Prolonged exposure to beedi/cigarette smoke damages the",
+       "o": [
+        "lungs",
+        "nails",
+        "hair",
+        "bones only"
+       ],
+       "a": 0,
+       "ans": "Fig. 6.5 shows damaged lungs."
+      },
+      {
+       "q": "Which statement is true?",
+       "o": [
+        "Everyone reaches puberty at exactly 12",
+        "Variations in the timing of changes are normal",
+        "Adolescents need no nutrition",
+        "Hormones are made only in the stomach"
+       ],
+       "a": 1,
+       "ans": "Timing, nature and extent of changes vary and are normal."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Write two points about the Menstrual Hygiene Scheme.",
+       "ans": "Provides sanitary pads free or at reduced price to adolescent girls in rural areas (1); conducts awareness programmes on menstrual hygiene and health (1)."
+      },
+      {
+       "q": "Name four stages of human life in order after infancy.",
+       "ans": "Childhood, adolescence, adulthood, old age (½ each)."
+      },
+      {
+       "q": "Why must we be cautious while uploading pictures or sharing personal information online?",
+       "ans": "Strangers may misuse them / they can be used to harass or bully (1); so protect privacy and do not share with strangers or virtual friends (1)."
+      },
+      {
+       "q": "‘If someone tries a harmful substance once, they can stop anytime.’ Write two questions to check this claim.",
+       "ans": "Any two (1 each): What does ‘addictive’ mean? Why do people feel an urge to take it again and again? Did addicted people also start with ‘just one time’? Why do they need counselling and helplines if stopping is easy?"
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "What is a growth spurt? Why may two 13-year-olds be of very different heights?",
+       "ans": "Height increases throughout but most prominently in adolescence: a rapid growth spurt (1½). Each person experiences adolescence at their own pace; timing and extent of changes vary, which is normal (1½)."
+      },
+      {
+       "q": "Find out: what health problem can iron or vitamin B12 deficiency cause, and how can iron deficiency be managed?",
+       "ans": "Blood-related problem: anaemia, causing tiredness and weakness (1). Eat iron-rich foods like spinach, kidney beans, raisins, figs, jaggery (1). Take iron supplements if a doctor advises / government programmes like Anaemia Mukt Bharat, weekly iron-folic acid tablets in schools (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe five ways to make adolescence a joyful experience, as given in Section 6.4.",
+       "ans": "Meeting nutritional needs with a balanced diet (1); personal and menstrual hygiene (1); regular physical activity (1); balanced social life, polite and responsible in person and online (1); avoiding harmful substances, saying NO (1)."
+      },
+      {
+       "q": "Case: A girl in your class is told by an elder that she must not enter the kitchen or play during her period. (a) Is this belief scientific? (b) What is menstruation? (c) How long does it last and how often does the cycle recur? (d) How can a scientific outlook help?",
+       "ans": "(a) No, it is a myth/taboo with no scientific basis (1). (b) The phase of the menstrual cycle when blood discharge occurs; a natural process (1). (c) 3–7 days; cycle recurs every 28–30 days generally, 21–35 days in many healthy girls (2). (d) It removes fear, shame and guilt and promotes reproductive health and a healthier lifestyle for women (1)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

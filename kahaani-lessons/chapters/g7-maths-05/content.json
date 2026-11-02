@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 5,
+ "n": 5,
+ "title": "Parallel and Intersecting Lines",
+ "book": "Ganita Prakash (Grade 7) Part I",
+ "quiz": [
+  {
+   "q": "Two lines intersect and one angle is 110°. What is the angle vertically opposite to it?",
+   "o": [
+    "70°",
+    "110°",
+    "90°",
+    "250°"
+   ],
+   "a": 1,
+   "why": "Vertically opposite angles are equal."
+  },
+  {
+   "q": "Two lines intersect and ∠a = 65°. What is the angle forming a linear pair with ∠a?",
+   "o": [
+    "115°",
+    "65°",
+    "25°",
+    "135°"
+   ],
+   "a": 0,
+   "why": "Linear pairs add to 180°: 180° − 65° = 115°."
+  },
+  {
+   "q": "If all four angles at an intersection are equal, each angle is",
+   "o": [
+    "45°",
+    "60°",
+    "90°",
+    "180°"
+   ],
+   "a": 2,
+   "why": "360° ÷ 4 = 90°; the lines are perpendicular."
+  },
+  {
+   "q": "A transversal cuts two lines. At most how many distinct angle measures are formed?",
+   "o": [
+    "8",
+    "2",
+    "6",
+    "4"
+   ],
+   "a": 3,
+   "why": "8 angles form 4 vertically opposite pairs."
+  },
+  {
+   "q": "A transversal cuts two lines, making corresponding angles of 72° and 72°. The two lines are",
+   "o": [
+    "parallel",
+    "perpendicular",
+    "intersecting at 72°",
+    "cannot say"
+   ],
+   "a": 0,
+   "why": "Equal corresponding angles mean the lines are parallel."
+  },
+  {
+   "q": "l ∥ m and a transversal makes an interior angle of 48°. The interior angle on the same side at the other line is",
+   "o": [
+    "48°",
+    "132°",
+    "42°",
+    "90°"
+   ],
+   "a": 1,
+   "why": "Interior angles on the same side add to 180°."
+  },
+  {
+   "q": "l ∥ m. One alternate angle is 105°. The other alternate angle is",
+   "o": [
+    "75°",
+    "180°",
+    "105°",
+    "85°"
+   ],
+   "a": 2,
+   "why": "Alternate angles on parallel lines are equal."
+  },
+  {
+   "q": "A square sheet is folded horizontally in half 3 times (folding the folded sheet). How many parallel lines (edges + creases) appear?",
+   "o": [
+    "6",
+    "7",
+    "8",
+    "9"
+   ],
+   "a": 3,
+   "why": "2³ + 1 = 9."
+  },
+  {
+   "q": "Lines l and m are cut by t with ∠a = 120° (above l, left of t) and the corresponding angle at m is 115°. Then",
+   "o": [
+    "l and m are not parallel",
+    "l ∥ m",
+    "l ⟂ m",
+    "t ∥ l"
+   ],
+   "a": 0,
+   "why": "Corresponding angles are unequal, so the lines meet."
+  },
+  {
+   "q": "A line on the table top and a line on the blackboard never meet. They are",
+   "o": [
+    "always parallel",
+    "not called parallel, as they are not on the same plane",
+    "perpendicular",
+    "intersecting"
+   ],
+   "a": 1,
+   "why": "Parallel lines must lie on the same plane."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Two straight lines can intersect in at most",
+       "o": [
+        "1 point",
+        "2 points",
+        "3 points",
+        "infinitely many points"
+       ],
+       "a": 0,
+       "ans": "Two different straight lines meet at most once."
+      },
+      {
+       "q": "If ∠a = 140° at an intersection, its linear pair is",
+       "o": [
+        "140°",
+        "40°",
+        "50°",
+        "220°"
+       ],
+       "a": 1,
+       "ans": "180° − 140° = 40°."
+      },
+      {
+       "q": "Perpendicular lines meet at an angle of",
+       "o": [
+        "45°",
+        "60°",
+        "90°",
+        "180°"
+       ],
+       "a": 2,
+       "ans": "By definition, at right angles."
+      },
+      {
+       "q": "In the notation for parallel lines we use",
+       "o": [
+        "a square",
+        "a dot",
+        "an arc",
+        "arrow marks"
+       ],
+       "a": 3,
+       "ans": "Arrows (>) mark parallel lines; >> for a second set."
+      },
+      {
+       "q": "When a transversal cuts two parallel lines, corresponding angles are",
+       "o": [
+        "equal",
+        "supplementary always",
+        "complementary",
+        "unequal"
+       ],
+       "a": 0,
+       "ans": "Corresponding angles on parallel lines are equal."
+      },
+      {
+       "q": "l ∥ m; one interior angle on one side is 70°. The other interior angle on the same side is",
+       "o": [
+        "70°",
+        "110°",
+        "20°",
+        "90°"
+       ],
+       "a": 1,
+       "ans": "They add to 180°."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Two lines intersect. One angle is 35°. Find the other three angles.",
+       "ans": "Linear pair: 180° − 35° = 145° (1 mark). Vertically opposite angles: 35° and 145°. So the angles are 35°, 145°, 35°, 145° (1 mark)."
+      },
+      {
+       "q": "Define vertically opposite angles and state their property.",
+       "ans": "Opposite angles formed when two lines intersect (1 mark). They are always equal (1 mark)."
+      },
+      {
+       "q": "A transversal makes corresponding angles 58° and 62° with lines l and m. Are l and m parallel? Give a reason.",
+       "ans": "No (1 mark). For parallel lines, corresponding angles must be equal; 58° ≠ 62° (1 mark)."
+      },
+      {
+       "q": "How many parallel lines (edges and creases) do you get after folding a square sheet horizontally in half twice?",
+       "ans": "One fold: 3 lines; second fold adds 2 creases (1 mark). Total 5 parallel lines (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Prove that vertically opposite angles are equal.",
+       "ans": "Let lines meet forming ∠a, ∠b, ∠c, ∠d in order. ∠a + ∠b = 180° (linear pair) (1 mark). ∠b + ∠c = 180° (linear pair) (1 mark). So ∠a + ∠b = ∠b + ∠c, giving ∠a = ∠c. Similarly ∠b = ∠d (1 mark)."
+      },
+      {
+       "q": "l ∥ m are cut by t. ∠6 = 135° (above m, right of t). Find ∠2, ∠8 and ∠5 (∠2 above l right of t, ∠8 below m left of t, ∠5 above m left of t).",
+       "ans": "∠2 = ∠6 = 135° (corresponding) (1 mark). ∠8 = ∠6 = 135° (vertically opposite) (1 mark). ∠5 = 180° − 135° = 45° (linear pair) (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "ABCD has AB ∥ CD and AD ∥ BC. ∠DAC = 65° and ∠ADC = 60°. Find ∠CAB, ∠ABC and ∠BCD.",
+       "ans": "AD is a transversal of AB ∥ CD: ∠DAB = 180° − 60° = 120° (1 mark). ∠CAB = 120° − 65° = 55° (1 mark). CD is a transversal of AD ∥ BC: ∠BCD = 180° − 60° = 120° (1½ marks). BC is a transversal of AB ∥ CD: ∠ABC = 180° − 120° = 60° (1½ marks)."
+      },
+      {
+       "q": "Case: Saroja draws line l and point A above it. (a) Describe how to draw a line through A parallel to l with a ruler and set square. (b) Why is the new line parallel to l?",
+       "ans": "(a) Place a side of the set square along l, hold a ruler against another side (1 mark); slide the set square along the ruler until its edge reaches A (1 mark); draw along the edge through A (1 mark). (b) Both lines make the same angle with the ruler line (a transversal); equal corresponding angles mean the lines are parallel (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The sum of a linear pair of angles is",
+       "o": [
+        "90°",
+        "360°",
+        "180°",
+        "120°"
+       ],
+       "a": 2,
+       "ans": "They form a straight angle."
+      },
+      {
+       "q": "A transversal cutting two lines forms how many angles?",
+       "o": [
+        "4",
+        "6",
+        "10",
+        "8"
+       ],
+       "a": 3,
+       "ans": "4 at each crossing."
+      },
+      {
+       "q": "l ∥ m. Alternate angle of 64° is",
+       "o": [
+        "64°",
+        "116°",
+        "26°",
+        "36°"
+       ],
+       "a": 0,
+       "ans": "Alternate angles are equal."
+      },
+      {
+       "q": "Which pair are always equal for any two intersecting lines?",
+       "o": [
+        "linear pairs",
+        "vertically opposite angles",
+        "adjacent angles",
+        "none"
+       ],
+       "a": 1,
+       "ans": "Vertically opposite angles are equal."
+      },
+      {
+       "q": "Lines on the same plane that never meet are called",
+       "o": [
+        "perpendicular",
+        "intersecting",
+        "parallel",
+        "transversal"
+       ],
+       "a": 2,
+       "ans": "Definition of parallel lines."
+      },
+      {
+       "q": "If corresponding angles are 90° and 90°, the two lines are",
+       "o": [
+        "perpendicular to each other",
+        "parallel",
+        "the same line",
+        "cannot say"
+       ],
+       "a": 1,
+       "ans": "Equal corresponding angles → parallel."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "∠b = 48° at an intersection. Find ∠a, its linear pair, and ∠d, its vertically opposite angle.",
+       "ans": "∠a = 180° − 48° = 132° (1 mark). ∠d = ∠b = 48° (1 mark)."
+      },
+      {
+       "q": "Can all eight angles formed by a transversal on two lines be different? Why?",
+       "ans": "No (1 mark). Each pair of vertically opposite angles is equal, so there are at most 4 different measures (1 mark)."
+      },
+      {
+       "q": "If ∠3 = 50° (below l, right of t) and l ∥ m, find ∠6 (above m, right of t).",
+       "ans": "∠2 = 180° − 50° = 130° (linear pair) (1 mark). ∠6 = ∠2 = 130° (corresponding) (1 mark)."
+      },
+      {
+       "q": "Why might measured linear pairs not add up to exactly 180°?",
+       "ans": "Measurement errors in using the protractor (1 mark); drawn lines have thickness, while ideal lines have none (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Show that alternate angles formed by a transversal on parallel lines are equal.",
+       "ans": "Let ∠f be at m and ∠b its corresponding angle at l: ∠f = ∠b (l ∥ m) (1 mark). ∠d is vertically opposite ∠b: ∠b = ∠d (1 mark). Hence ∠f = ∠d, i.e. alternate angles are equal (1 mark)."
+      },
+      {
+       "q": "In a figure, AB ∥ CD ∥ EF are vertical, EA ⟂ AB, and the line from E meets CD at D and AB at B with ∠BEF = 55°. Find x = ∠ at B below AB on the side towards E, and y at D similarly.",
+       "ans": "∠ABE = ∠BEF = 55° (alternate, AB ∥ EF) (1 mark). x = 180° − 55° = 125° (linear pair) (1 mark). y = x = 125° (corresponding, AB ∥ CD) (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Lines l and m are cut by t. ∠a = 120° (above l, left of t) and ∠f = 70° (above m, right of t). (a) Find ∠b (above l, right of t). (b) Are l and m parallel? (c) What should ∠f be for l ∥ m?",
+       "ans": "(a) ∠b = 180° − 120° = 60° (linear pair) (2 marks). (b) ∠b and ∠f are corresponding; 60° ≠ 70°, so l and m are not parallel (2 marks). (c) ∠f = 60° (1 mark)."
+      },
+      {
+       "q": "Case: Folding paper. (a) A square sheet is folded horizontally in half again and again. Copy and complete: folds 1, 2, 3, 4 → parallel lines 3, 5, __, __. (b) Write the rule. (c) A vertical fold is made. How is it related to the horizontal creases?",
+       "ans": "(a) 9 and 17 (2 marks). (b) Lines = 2ⁿ + 1 for n folds, since the strips double each time (2 marks). (c) It is perpendicular to them (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "If two lines intersect and one angle is 90°, the other three angles are",
+       "o": [
+        "90° each",
+        "45° each",
+        "90°, 180°, 90°",
+        "cannot say"
+       ],
+       "a": 0,
+       "ans": "Linear pair and vertically opposite give 90° each."
+      },
+      {
+       "q": "∠1 and ∠5 at two crossings of a transversal (same position) are called",
+       "o": [
+        "alternate angles",
+        "corresponding angles",
+        "vertically opposite angles",
+        "linear pair"
+       ],
+       "a": 1,
+       "ans": "Same position at each crossing."
+      },
+      {
+       "q": "l ∥ m and ∠d = 99° is an interior angle. Its co-interior angle on the same side is",
+       "o": [
+        "99°",
+        "9°",
+        "81°",
+        "91°"
+       ],
+       "a": 2,
+       "ans": "180° − 99° = 81°."
+      },
+      {
+       "q": "The opposite edges of a rectangular sheet are",
+       "o": [
+        "perpendicular",
+        "intersecting",
+        "equal angles",
+        "parallel"
+       ],
+       "a": 3,
+       "ans": "They never meet."
+      },
+      {
+       "q": "Which is NOT a plane surface?",
+       "o": [
+        "table top",
+        "blackboard",
+        "a ball",
+        "sheet of paper"
+       ],
+       "a": 2,
+       "ans": "A ball is curved."
+      },
+      {
+       "q": "A transversal crosses two parallel lines making 8 angles. How many distinct measures if t is not perpendicular?",
+       "o": [
+        "8",
+        "4",
+        "2",
+        "1"
+       ],
+       "a": 2,
+       "ans": "The angles are x or 180° − x only."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Name the linear pairs in a figure where ∠a, ∠b, ∠c, ∠d go round an intersection.",
+       "ans": "∠a and ∠b, ∠b and ∠c (1 mark); ∠c and ∠d, ∠d and ∠a (1 mark)."
+      },
+      {
+       "q": "l ∥ m; ∠ between t and l is 132° on the left, above m. Find the interior angle f below l on the left of t.",
+       "ans": "They are interior angles on the same side (1 mark). f = 180° − 132° = 48° (1 mark)."
+      },
+      {
+       "q": "What are perpendicular lines? How are they marked?",
+       "ans": "Lines intersecting at right angles (90°) (1 mark). A small square is drawn at the angle between them (1 mark)."
+      },
+      {
+       "q": "Is a line on the table parallel to a line on the board if they never meet? Explain.",
+       "ans": "No (1 mark). Parallel lines must lie on the same plane; these lie on different planes (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Two parallel lines are cut by a line making 42° with the top line (above it, right of t). Find the angle a above the bottom line, left of t.",
+       "ans": "Angle above the top line, left of t = 180° − 42° = 138° (linear pair) (1½ marks). a corresponds to it, so a = 138° (1½ marks)."
+      },
+      {
+       "q": "Describe how to make a line parallel to a crease l through a point A by paper folding, and justify.",
+       "ans": "Fold a crease t through A perpendicular to l (1 mark). Fold a crease m through A perpendicular to t (1 mark). l and m both make 90° with transversal t: equal corresponding angles, so m ∥ l (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "In a figure, IA ∥ GD. Line JF passes through K (on IA) and E (on GD); line HC passes through E and B (on IA). ∠ABC = 45°, ∠IKJ = 78°. Find ∠GEH, ∠FED and ∠HEF.",
+       "ans": "∠BED = ∠ABC = 45° (corresponding); ∠GEH = ∠BED = 45° (vertically opposite) (2 marks). ∠KEG = ∠IKJ = 78° (corresponding); ∠FED = ∠KEG = 78° (vertically opposite) (2 marks). ∠HEF = 180° − 45° − 78° = 57° (straight angle GED) (1 mark)."
+      },
+      {
+       "q": "Case: Kiran draws l ∥ m and t with ∠3 (below l, right of t) = x and ∠6 (above m, right of t) = 3x. (a) What is the relation between ∠3 and ∠6? (b) Find x. (c) Find all eight angles' measures.",
+       "ans": "(a) Interior angles on the same side: ∠3 + ∠6 = 180° (1 mark). (b) x + 3x = 180°, 4x = 180°, x = 45° (2 marks). (c) Four angles are 45° and four are 135° (2 marks)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "∠a and ∠c are vertically opposite and ∠a = 73°. ∠c =",
+       "o": [
+        "107°",
+        "17°",
+        "73°",
+        "146°"
+       ],
+       "a": 2,
+       "ans": "Vertically opposite angles are equal."
+      },
+      {
+       "q": "If a transversal makes unequal corresponding angles with two lines, the lines",
+       "o": [
+        "are parallel",
+        "will meet",
+        "are perpendicular",
+        "are the same"
+       ],
+       "a": 1,
+       "ans": "Unequal corresponding angles: not parallel."
+      },
+      {
+       "q": "l ∥ m. If one of the eight angles is 58°, which other measure also appears?",
+       "o": [
+        "58° only",
+        "32°",
+        "142°",
+        "122°"
+       ],
+       "a": 3,
+       "ans": "Its linear pair 180° − 58° = 122°."
+      },
+      {
+       "q": "A set square slid along a ruler draws lines that are",
+       "o": [
+        "parallel",
+        "perpendicular to each other",
+        "intersecting",
+        "curved"
+       ],
+       "a": 0,
+       "ans": "Same angle with the ruler line: equal corresponding angles."
+      },
+      {
+       "q": "Which pair of angles lies between two lines on opposite sides of the transversal?",
+       "o": [
+        "corresponding",
+        "alternate",
+        "vertically opposite",
+        "linear pair"
+       ],
+       "a": 1,
+       "ans": "Definition of alternate angles."
+      },
+      {
+       "q": "On dot paper, a segment goes 2 right and 3 down. A perpendicular segment goes",
+       "o": [
+        "2 right, 3 up",
+        "3 right, 2 down",
+        "3 right, 2 up",
+        "2 right, 3 down"
+       ],
+       "a": 2,
+       "ans": "Swap the steps and reverse one direction."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "At an intersection ∠a = 120°. Find ∠b, ∠c and ∠d (in order round the point).",
+       "ans": "∠b = 60° (linear pair) (1 mark). ∠c = 120°, ∠d = 60° (vertically opposite) (1 mark)."
+      },
+      {
+       "q": "In Fig. 5.13, which line is parallel to a: b or c? How do you decide?",
+       "ans": "c (1 mark). Draw a transversal: a and c make equal corresponding angles (equal distance apart), b does not (1 mark)."
+      },
+      {
+       "q": "l ∥ m. ∠f = 120°. Find its alternate angle ∠d.",
+       "ans": "∠b = ∠f = 120° (corresponding) (1 mark); ∠d = ∠b = 120° (vertically opposite) (1 mark)."
+      },
+      {
+       "q": "Two parallel lines and a perpendicular to both; a slant through the foot of the perpendicular on the lower line makes 65° with the perpendicular. Find the angle x the slant makes with the lower line (vertically opposite side).",
+       "ans": "Slant makes 90° − 65° = 25° with the lower line (1 mark). x is vertically opposite: x = 25° (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Three horizontal parallel lines. A slanting line meets the top line making 110° (above it, right of the slant) and reaches V on the middle line. Another line through V makes 35° with the slant. Find a, the angle that line makes above the bottom line, on its left.",
+       "ans": "At V, the slant makes 180° − 110° = 70° with the middle line (alternate angles) (1 mark). The second line makes 70° + 35° = 105° with the middle line (1 mark). a is the corresponding angle: a = 105° (1 mark)."
+      },
+      {
+       "q": "Give reasons: (i) ∠1 = ∠3, (ii) ∠2 + ∠3 = 180°, (iii) ∠2 = ∠6 when l ∥ m (Fig. 5.14 numbering).",
+       "ans": "(i) Vertically opposite angles (1 mark). (ii) Linear pair (1 mark). (iii) Corresponding angles on parallel lines (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "In a zigzag L–M–N–O–P–Q, LM ∥ PQ, ∠LMN = 40°, ∠MNO = 96°, ∠OPQ = 52°. Find ∠NOP. (Hint: draw lines through N and O parallel to LM.)",
+       "ans": "Through N: the part of ∠MNO next to the parallel on M's side is 40° (alternate with ∠LMN), so the other part is 96° − 40° = 56° (2 marks). Through O: one part is 56° (alternate with that 56°) (1 mark), the other is 52° (alternate with ∠OPQ) (1 mark). ∠NOP = 56° + 52° = 108° (1 mark)."
+      },
+      {
+       "q": "Case: Optical illusions. (a) Two parallel lines are drawn over a star of rays and seem to bend. How can you check they are parallel? (b) What causes such illusions? (c) Why do we rely on reasoning in geometry?",
+       "ans": "(a) Measure the distance between them at several places, or check equal corresponding angles with a transversal (2 marks). (b) The surrounding lines/rays affect how our brain judges direction (2 marks). (c) Eyes can be fooled; reasoning gives exact results (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "An angle and its vertically opposite angle together measure 140°. Each angle is",
+       "o": [
+        "70°",
+        "40°",
+        "110°",
+        "140°"
+       ],
+       "a": 0,
+       "ans": "They are equal: 140° ÷ 2."
+      },
+      {
+       "q": "Two parallel lines are cut by t. The sum of all 8 angles is",
+       "o": [
+        "360°",
+        "720°",
+        "540°",
+        "180°"
+       ],
+       "a": 1,
+       "ans": "360° at each crossing."
+      },
+      {
+       "q": "l ∥ m; corresponding angle of 97° is",
+       "o": [
+        "83°",
+        "180°",
+        "97°",
+        "7°"
+       ],
+       "a": 2,
+       "ans": "Corresponding angles are equal."
+      },
+      {
+       "q": "If two interior angles on the same side are 100° and 80°, the lines are",
+       "o": [
+        "perpendicular",
+        "not parallel",
+        "meeting at 20°",
+        "parallel"
+       ],
+       "a": 3,
+       "ans": "They add to 180°, which happens for parallel lines."
+      },
+      {
+       "q": "How many parallel lines appear on a square sheet after 4 successive horizontal half-folds?",
+       "o": [
+        "17",
+        "16",
+        "9",
+        "8"
+       ],
+       "a": 0,
+       "ans": "2⁴ + 1 = 17."
+      },
+      {
+       "q": "Equality of corresponding angles is",
+       "o": [
+        "not related to parallel lines",
+        "both necessary and sufficient for lines to be parallel",
+        "only for perpendicular lines",
+        "true for all lines"
+       ],
+       "a": 1,
+       "ans": "Parallel ⇔ equal corresponding angles."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Two parallel lines are cut by a transversal; at the lower line two angles shown are 81° and 99°. Find d, the angle below the upper line on the same side as 81°.",
+       "ans": "d and 81° are interior angles on the same side: they add to 180° (1 mark). d = 99° (1 mark)."
+      },
+      {
+       "q": "Two lines through a point P on the top line make 53° and 78° with the bottom parallel line (measured on the same side). Find the angle x between them.",
+       "ans": "At P they make 53° and 78° with the top line (corresponding) (1 mark). x = 78° − 53° = 25° (1 mark)."
+      },
+      {
+       "q": "Two parallel lines are cut by t; one angle is 58°. Write all eight angle measures.",
+       "ans": "Four are 58° (1 mark); four are 180° − 58° = 122° (1 mark)."
+      },
+      {
+       "q": "A right-angle mark is drawn between two lines. What does it tell you and what is each of the four angles?",
+       "ans": "The lines are perpendicular (1 mark). Each of the four angles is 90° (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Two slanting parallel lines rise from a base line. The left one makes 67° with the base. A vertical line stands on the base and meets the right parallel line at Q. Find the angle a at Q between the vertical and the right line.",
+       "ans": "The right line also makes 67° with the base (corresponding angles) (1 mark). Draw a line through Q parallel to the base: the right line makes 67° with it (alternate) (1 mark). The vertical makes 90° with it, so a = 90° − 67° = 23° (1 mark)."
+      },
+      {
+       "q": "Three parallel lines are cut by a transversal; it makes 97° with the first. What angle does it make with the third? Justify.",
+       "ans": "It makes 97° at the third line too (1 mark), since corresponding angles are equal at each parallel line (1 mark); the vertically opposite angle there is also 97° (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Activity 3: (a) Draw line l and transversal t at X with ∠a = 60°. How many distinct angles are at X? (b) Mark Y on t and draw m through Y. What angle must m make with t so that no new angle measure appears? (c) What do you observe about l and m and why?",
+       "ans": "(a) Two: 60° and 120° (2 marks). (b) 60° in the corresponding position (1 mark). (c) l and m are parallel because the corresponding angles are equal (2 marks)."
+      },
+      {
+       "q": "Case: In a weave plan, a transversal crosses two warp threads making ∠a = 60° at the first and ∠b = 70° at the second, in the corresponding position. (a) Are the threads parallel? (b) To what value must ∠b be changed (by turning the second thread) to make them parallel? (c) After the change, find the linear pair of ∠b.",
+       "ans": "(a) No: corresponding angles 60° ≠ 70° (2 marks). (b) ∠b = 60°, i.e. turn the thread by 10° (1 mark). (c) 180° − 60° = 120° (2 marks)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

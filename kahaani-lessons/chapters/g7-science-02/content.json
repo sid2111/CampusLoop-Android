@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 2,
+ "n": 2,
+ "title": "Exploring Substances: Acidic, Basic, and Neutral",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "Litmus is obtained from:",
+   "o": [
+    "Lichens",
+    "Red roses",
+    "Turmeric",
+    "Onions"
+   ],
+   "a": 0,
+   "why": "Litmus is a natural substance obtained from lichens."
+  },
+  {
+   "q": "A substance turns red litmus blue. It is:",
+   "o": [
+    "Acidic",
+    "Basic",
+    "Neutral",
+    "Salt"
+   ],
+   "a": 1,
+   "why": "Bases turn red litmus blue."
+  },
+  {
+   "q": "Red rose extract in a basic solution turns:",
+   "o": [
+    "Red",
+    "Yellow",
+    "Green",
+    "Blue"
+   ],
+   "a": 2,
+   "why": "Red rose extract gives green in basic and red in acidic solutions."
+  },
+  {
+   "q": "Turmeric paper turns red with:",
+   "o": [
+    "Lemon juice",
+    "Vinegar",
+    "Sugar solution",
+    "Soap solution"
+   ],
+   "a": 3,
+   "why": "Turmeric turns red only with basic substances like soap."
+  },
+  {
+   "q": "Which of these is neutral?",
+   "o": [
+    "Salt solution",
+    "Lime water",
+    "Tamarind water",
+    "Baking soda solution"
+   ],
+   "a": 0,
+   "why": "Salt solution changes neither blue nor red litmus."
+  },
+  {
+   "q": "The acid injected by a red ant is:",
+   "o": [
+    "Citric acid",
+    "Formic acid",
+    "Tartaric acid",
+    "Lactic acid"
+   ],
+   "a": 1,
+   "why": "An ant bite injects formic acid into the skin."
+  },
+  {
+   "q": "Acidic soil is treated with:",
+   "o": [
+    "Vinegar",
+    "Lemon juice",
+    "Lime",
+    "Manure only"
+   ],
+   "a": 2,
+   "why": "Lime is a base and neutralises acidic soil."
+  },
+  {
+   "q": "In neutralisation, an acid and a base form:",
+   "o": [
+    "Only water",
+    "Acid and heat",
+    "Litmus and salt",
+    "Salt, water and heat"
+   ],
+   "a": 3,
+   "why": "Acid + Base → Salt + Water + Heat."
+  },
+  {
+   "q": "Onion strips are an example of:",
+   "o": [
+    "Olfactory indicator",
+    "Synthetic indicator",
+    "Base",
+    "Acid"
+   ],
+   "a": 0,
+   "why": "Their odour changes in a basic medium, so they are olfactory indicators."
+  },
+  {
+   "q": "Hydrangea flowers in acidic soil are:",
+   "o": [
+    "Pink",
+    "Blue",
+    "Red",
+    "White"
+   ],
+   "a": 1,
+   "why": "Acidic soil gives blue hydrangea flowers; basic soil gives pink or red."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which substance turns blue litmus red?",
+       "o": [
+        "Soap solution",
+        "Lime water",
+        "Vinegar",
+        "Sugar solution"
+       ],
+       "a": 2,
+       "ans": "Vinegar is acidic; acids turn blue litmus red."
+      },
+      {
+       "q": "Substances that show different colours in acidic and basic solutions are called:",
+       "o": [
+        "Salts",
+        "Acid–base indicators",
+        "Neutral substances",
+        "Fertilisers"
+       ],
+       "a": 1,
+       "ans": "That is the definition of an acid–base indicator."
+      },
+      {
+       "q": "Basic substances generally feel:",
+       "o": [
+        "Rough",
+        "Sticky",
+        "Slippery (soapy)",
+        "Hot"
+       ],
+       "a": 2,
+       "ans": "Bases are generally slippery to touch."
+      },
+      {
+       "q": "The most common acid in curd is:",
+       "o": [
+        "Lactic acid",
+        "Citric acid",
+        "Acetic acid",
+        "Oxalic acid"
+       ],
+       "a": 0,
+       "ans": "Curd contains lactic acid."
+      },
+      {
+       "q": "Turmeric cannot tell the difference between:",
+       "o": [
+        "Acidic and basic",
+        "Basic and neutral",
+        "Acidic and neutral",
+        "Soap and lime water"
+       ],
+       "a": 2,
+       "ans": "Turmeric stays yellow in both acidic and neutral substances."
+      },
+      {
+       "q": "Lime water is a solution of:",
+       "o": [
+        "Calcium hydroxide",
+        "Sodium chloride",
+        "Citric acid",
+        "Sugar"
+       ],
+       "a": 0,
+       "ans": "Lime water is a solution of calcium hydroxide (from chuna) in water."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Name two natural indicators other than litmus.",
+       "ans": "Red rose extract (1 mark) and turmeric (1 mark). [Also accepted: red hibiscus, purple cabbage, beetroot, jamun.]"
+      },
+      {
+       "q": "What is neutralisation? Write its word equation.",
+       "ans": "The reaction of an acid with a base so that the result is neither acidic nor basic (1 mark). Acid + Base → Salt + Water + Heat (1 mark)."
+      },
+      {
+       "q": "Why should we never taste an unknown substance to find out if it is acidic?",
+       "ans": "It may be harmful or poisonous (1 mark); we should use an indicator like litmus instead (1 mark)."
+      },
+      {
+       "q": "Give the colour of red rose extract in (a) lemon juice (b) soap solution.",
+       "ans": "(a) Red, as lemon juice is acidic (1 mark). (b) Green, as soap solution is basic (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe how you would prepare red rose extract.",
+       "ans": "Collect fallen red rose petals and wash them (1 mark). Crush them in a mortar and pestle, put them in a tumbler and cover with hot water under adult supervision (1 mark). Cover for 5–10 minutes until the water is coloured, then filter; the filtrate is the indicator (1 mark)."
+      },
+      {
+       "q": "A red ant bites Keerthi. Why does applying moist baking soda give relief?",
+       "ans": "The ant injects formic acid, which is acidic (1 mark). Baking soda is a base (1 mark). The base neutralises the acid, removing the stinging effect (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Ashwin tests 6 samples with blue and red litmus: lemon juice, soap solution, tap water, vinegar, lime water, sugar solution. (a) Which turn blue litmus red? (b) Which turn red litmus blue? (c) Which change neither? (d) Name the three groups by nature.",
+       "ans": "(a) Lemon juice, vinegar (1 mark). (b) Soap solution, lime water (1 mark). (c) Tap water, sugar solution (1 mark). (d) (a) acidic, (b) basic, (c) neutral (2 marks)."
+      },
+      {
+       "q": "Explain Activity 2.7: lemon juice solution + blue litmus solution, then lime water drop by drop, then one more drop of lemon juice. Give the colour at each stage and the reason.",
+       "ans": "Lemon juice solution + blue litmus → red, since it is acidic (1 mark). Adding lime water drop by drop: stays red at first while the acid is being neutralised (1 mark). A stage comes when it turns blue: the acid is neutralised and a little base is in excess (1 mark). Adding lemon juice again neutralises the extra base and makes it acidic: red again (1 mark). Reaction: Acid + Base → Salt + Water + Heat (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of these is basic?",
+       "o": [
+        "Amla juice",
+        "Washing powder solution",
+        "Tamarind water",
+        "Salt solution"
+       ],
+       "a": 1,
+       "ans": "Washing powder solution turns red litmus blue."
+      },
+      {
+       "q": "Tamarind contains mainly:",
+       "o": [
+        "Tartaric acid",
+        "Lactic acid",
+        "Formic acid",
+        "Acetic acid"
+       ],
+       "a": 0,
+       "ans": "Tamarind contains tartaric acid."
+      },
+      {
+       "q": "Red rose extract in sugar solution:",
+       "o": [
+        "Turns red",
+        "Turns green",
+        "Turns yellow",
+        "Does not change"
+       ],
+       "a": 3,
+       "ans": "Sugar solution is neutral."
+      },
+      {
+       "q": "Basic soil can be treated with:",
+       "o": [
+        "Lime",
+        "Baking soda",
+        "Manure or compost",
+        "Soap"
+       ],
+       "a": 2,
+       "ans": "Organic matter releases acids that neutralise basic soil."
+      },
+      {
+       "q": "The ‘Father of Modern Indian Chemistry’ is:",
+       "o": [
+        "C.V. Raman",
+        "P.C. Ray",
+        "Homi Bhabha",
+        "J.C. Bose"
+       ],
+       "a": 1,
+       "ans": "Acharya Prafulla Chandra Ray."
+      },
+      {
+       "q": "A solution turns turmeric red. It is:",
+       "o": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "Cannot say"
+       ],
+       "a": 2,
+       "ans": "Turmeric turns red only in basic solutions."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What are lichens? Which indicator is obtained from them?",
+       "ans": "Lichens are an association of two organisms, a fungus and an alga (1 mark). Litmus is obtained from them (1 mark)."
+      },
+      {
+       "q": "Why is bitter taste alone not a test for a base? Give an example.",
+       "ans": "Bases generally taste bitter but not everything bitter is basic (1 mark). Example: bitter gourd (karela) is bitter but not basic (1 mark)."
+      },
+      {
+       "q": "What happens in a neutralisation reaction apart from the formation of salt and water?",
+       "ans": "Heat is evolved (released) (1 mark), so the mixture becomes warm (1 mark)."
+      },
+      {
+       "q": "How is turmeric paper made?",
+       "ans": "Make a paste of turmeric with a little water and dip filter paper in it till yellow (1 mark). Dry it and cut into thin strips (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A farmer’s plants are not growing well because excess fertiliser has made the soil acidic. What remedy would you suggest? What if the soil were basic instead?",
+       "ans": "Acidic soil: add lime, a base, to neutralise it (1+1 marks). Basic soil: add organic matter such as manure or composted leaves, which release acids (1 mark)."
+      },
+      {
+       "q": "Why did Keerthi’s curry stain turn red when soap was applied?",
+       "ans": "Curry contains turmeric, which is yellow (1 mark). Soap is basic (1 mark). Turmeric turns red in a basic medium (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "You are given blue litmus, red litmus and turmeric paper and three liquids: vinegar, lime water and salt solution. Make a table of the colour of each indicator with each liquid and state the nature of each liquid.",
+       "ans": "Vinegar: blue litmus → red, red litmus stays red, turmeric stays yellow → acidic (2 marks). Lime water: blue stays blue, red litmus → blue, turmeric → red → basic (2 marks). Salt solution: no change in any → neutral (1 mark)."
+      },
+      {
+       "q": "Gurbir says the fish in a lake near a factory are dying. (a) Give a possible cause. (b) If the waste is acidic, how can it be treated? (c) Name the process. (d) Write its word equation.",
+       "ans": "(a) Acidic factory waste released into the lake (1 mark). (b) Add basic substances to the waste before releasing it (2 marks). (c) Neutralisation (1 mark). (d) Acid + Base → Salt + Water + Heat (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Ascorbic acid is also called:",
+       "o": [
+        "Vitamin A",
+        "Vitamin C",
+        "Vitamin D",
+        "Vitamin K"
+       ],
+       "a": 1,
+       "ans": "Ascorbic acid is Vitamin C, found in amla."
+      },
+      {
+       "q": "Which pair are both acidic?",
+       "o": [
+        "Lemon juice and vinegar",
+        "Soap and vinegar",
+        "Sugar and salt",
+        "Lime water and baking soda"
+       ],
+       "a": 0,
+       "ans": "Both turn blue litmus red."
+      },
+      {
+       "q": "Olfactory indicators show a change in:",
+       "o": [
+        "Colour",
+        "Taste",
+        "Smell",
+        "Weight"
+       ],
+       "a": 2,
+       "ans": "Olfactory refers to the sense of smell."
+      },
+      {
+       "q": "Which is NOT a natural indicator?",
+       "o": [
+        "Turmeric",
+        "Red rose extract",
+        "Litmus",
+        "Common salt"
+       ],
+       "a": 3,
+       "ans": "Salt is a neutral substance, not an indicator."
+      },
+      {
+       "q": "P.C. Ray set up India’s first pharmaceutical company in:",
+       "o": [
+        "1901",
+        "1947",
+        "1857",
+        "1920"
+       ],
+       "a": 0,
+       "ans": "In 1901."
+      },
+      {
+       "q": "Excess vinegar is added to a solution that turned red litmus blue. The litmus will now be:",
+       "o": [
+        "Blue",
+        "Green",
+        "Red",
+        "Yellow"
+       ],
+       "a": 2,
+       "ans": "The base is neutralised and the solution becomes acidic."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Name the acid in (a) lemon (b) vinegar.",
+       "ans": "(a) Citric acid (1 mark). (b) Acetic acid (1 mark)."
+      },
+      {
+       "q": "Turmeric paper is dipped in liquid P and stays yellow. Can you say P is acidic? Why?",
+       "ans": "No (1 mark). Turmeric stays yellow in both acidic and neutral liquids, so P may be acidic or neutral (1 mark)."
+      },
+      {
+       "q": "Which indicator could a blindfolded person use? Why?",
+       "ans": "An olfactory indicator such as onion strips (1 mark), because it shows the result by a change of smell, which needs no sight (1 mark)."
+      },
+      {
+       "q": "Hydrangea flowers are blue in one garden and pink in another. What does this tell about the soils?",
+       "ans": "Blue flowers: acidic soil (1 mark). Pink/red flowers: basic soil (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe Activity 2.6 with onion strips and state the result with a basic substance.",
+       "ans": "Keep finely chopped onions with cloth strips in a closed container overnight (1 mark). Put tamarind water on one strip and baking soda solution on another and smell again (1 mark). The strip with baking soda (basic) loses its onion smell; with tamarind (acidic) the smell remains (1 mark)."
+      },
+      {
+       "q": "Grape juice + red rose extract gives a red tint. What happens on adding baking soda? Justify.",
+       "ans": "The red tint shows grape juice is acidic (1 mark). Baking soda, a base, neutralises the acid and the red fades (1 mark). With excess baking soda the mixture becomes basic and the extract turns green (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain how vinegar, baking soda solution and sugar solution can be identified using only turmeric paper.",
+       "ans": "Put a drop of each on turmeric paper (1 mark). Only baking soda solution turns it red: identified as basic (1 mark). Vinegar and sugar both leave it yellow (1 mark). Add a drop of each of these on the red spot (1 mark): vinegar turns it back to yellow by neutralisation (acidic); sugar solution leaves it red (neutral) (1 mark)."
+      },
+      {
+       "q": "Explain how the words ‘Welcome to the Wonderful World of Science’ appeared on the white sheet when it was sprayed. Suggest one more combination that would work.",
+       "ans": "The words were written with an invisible basic solution such as soap solution (1 mark). The spray was an indicator, e.g. turmeric solution (1 mark). Turmeric turned yellow on the sheet but red where it met the basic writing, so the words appeared (2 marks). Another combination: lemon juice writing with blue litmus spray gives red words on blue (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which sample is in Group C (no change in either litmus)?",
+       "o": [
+        "Amla juice",
+        "Baking soda solution",
+        "Tap water",
+        "Soap solution"
+       ],
+       "a": 2,
+       "ans": "Tap water is neutral."
+      },
+      {
+       "q": "Red rose extract turns liquid X green. X is:",
+       "o": [
+        "Acidic",
+        "Basic",
+        "Neutral",
+        "Sour"
+       ],
+       "a": 1,
+       "ans": "Green with rose extract shows a base."
+      },
+      {
+       "q": "Fertilisers in excess usually make soil:",
+       "o": [
+        "Acidic",
+        "Basic",
+        "Neutral",
+        "Sweet"
+       ],
+       "a": 0,
+       "ans": "The textbook case: excess chemical fertiliser made soil acidic."
+      },
+      {
+       "q": "Moist baking soda on an ant bite works because baking soda is:",
+       "o": [
+        "Acidic",
+        "Neutral",
+        "Basic",
+        "An indicator"
+       ],
+       "a": 2,
+       "ans": "It is a base that neutralises formic acid."
+      },
+      {
+       "q": "Which statement is correct?",
+       "o": [
+        "Turmeric turns red in acids",
+        "Blue litmus turns red in bases",
+        "Red litmus turns blue in acids",
+        "Red rose extract turns red in acids"
+       ],
+       "a": 3,
+       "ans": "Rose extract: red in acidic, green in basic."
+      },
+      {
+       "q": "The liquid that passes through a filter is called:",
+       "o": [
+        "Filtrate",
+        "Residue",
+        "Paste",
+        "Indicator"
+       ],
+       "a": 0,
+       "ans": "Filtrate is the liquid after filtration."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Name the acids present in tomato.",
+       "ans": "Citric acid (1 mark) and oxalic acid (1 mark)."
+      },
+      {
+       "q": "What would you observe when soap solution is put on red litmus paper and on blue litmus paper?",
+       "ans": "Red litmus turns blue (1 mark); blue litmus stays blue (1 mark), showing soap is basic."
+      },
+      {
+       "q": "Why is the soil sometimes neutral but plants still grow poorly?",
+       "ans": "Neutralisation is not the problem (1 mark); the soil may be deficient in nutrients (1 mark)."
+      },
+      {
+       "q": "Write two examples of neutralisation in daily life.",
+       "ans": "Moist baking soda on a red ant bite (1 mark); adding lime to acidic soil / treating acidic factory waste with a base (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "A liquid shows: red litmus — no change; blue litmus — turned red; turmeric — no change. Identify its nature and justify.",
+       "ans": "Acidic (1 mark). Blue litmus turns red only with acids (1 mark). No change with red litmus or turmeric shows it is not basic (1 mark)."
+      },
+      {
+       "q": "Keerthi wrote a secret message with orange juice. How can her grandmother read it? Explain.",
+       "ans": "Orange juice is acidic (1 mark). Spray blue litmus solution (or red rose extract) on the paper (1 mark). The writing turns red against the blue (or rose) background, so the message appears (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Complete the flowchart for a garden whose plants are in poor health: the soil can be ___ or ___; indicator to test it ___; acidic soil treated with ___; basic soil treated with ___. Explain each treatment.",
+       "ans": "Soil can be acidic (1 mark) or basic (1 mark). Indicator: litmus paper (or red rose extract) with soil-water filtrate (1 mark). Acidic soil: lime, a base that neutralises the acid (1 mark). Basic soil: manure/compost, organic matter that releases acids (1 mark)."
+      },
+      {
+       "q": "Case: In a test tube, 1 drop of lemon juice + 20 drops of water + blue litmus solution turned red. Aman added lime water drop by drop. (a) Why was it red at first? (b) What happened after enough lime water? (c) What was formed? (d) What would he feel if he touched the tube? (e) What happens if more lemon juice is added?",
+       "ans": "(a) Lemon juice is acidic, acids turn blue litmus red (1 mark). (b) It turned blue: the acid was neutralised (1 mark). (c) Salt and water (1 mark). (d) It feels warm: heat is evolved (1 mark). (e) It turns red again as it becomes acidic (1 mark)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of these is used to prepare lime water?",
+       "o": [
+        "Chuna (calcium oxide)",
+        "Lemon",
+        "Salt",
+        "Sugar"
+       ],
+       "a": 0,
+       "ans": "Lime (chuna) is mixed with water, left to settle and filtered."
+      },
+      {
+       "q": "Which substance tastes sour?",
+       "o": [
+        "Soap",
+        "Baking soda",
+        "Amla",
+        "Lime water"
+       ],
+       "a": 2,
+       "ans": "Sour taste indicates an acid; amla is acidic."
+      },
+      {
+       "q": "Red litmus is put in sugar solution. It:",
+       "o": [
+        "Turns blue",
+        "Stays red",
+        "Turns green",
+        "Turns yellow"
+       ],
+       "a": 1,
+       "ans": "Sugar solution is neutral."
+      },
+      {
+       "q": "Three solutions A, B, C: red litmus turns A blue, turmeric turns B red, rose extract turns C green. They are:",
+       "o": [
+        "Acidic, acidic, acidic",
+        "Neutral, basic, basic",
+        "Basic, basic, acidic",
+        "Basic, basic, basic"
+       ],
+       "a": 3,
+       "ans": "All three observations show bases."
+      },
+      {
+       "q": "Which solution would show writing on turmeric paper?",
+       "o": [
+        "Lemon juice",
+        "Lime water",
+        "Vinegar",
+        "Salt solution"
+       ],
+       "a": 1,
+       "ans": "Lime water is basic and turns turmeric red."
+      },
+      {
+       "q": "Bubbles form when vinegar falls on eggshell because vinegar is:",
+       "o": [
+        "Basic",
+        "Neutral",
+        "Acidic",
+        "An indicator"
+       ],
+       "a": 2,
+       "ans": "Acid reacts with eggshell (calcium carbonate), releasing carbon dioxide."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Why is litmus called an acid–base indicator?",
+       "ans": "It shows different colours in acidic and basic solutions (1 mark): blue litmus turns red in acids and red litmus turns blue in bases (1 mark)."
+      },
+      {
+       "q": "Name two substances from Fig. 2.4 that contain citric acid.",
+       "ans": "Orange (1 mark) and tomato / amla (1 mark)."
+      },
+      {
+       "q": "Why did bubbles not appear when soap solution fell on eggshell?",
+       "ans": "Soap solution is basic, not acidic (1 mark), so it does not react with the eggshell/marble to give gas (1 mark)."
+      },
+      {
+       "q": "State two achievements of P.C. Ray.",
+       "ans": "Established India’s first pharmaceutical company in 1901 (1 mark); wrote on the history of chemistry in India / advocated the mother tongue as medium of instruction (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Suggest three combinations of writing liquid and spray for a hidden message, giving the colour of the writing.",
+       "ans": "Soap solution + turmeric spray → red writing (1 mark). Lemon juice + blue litmus spray → red writing (1 mark). Baking soda solution + red rose extract spray → green writing (1 mark)."
+      },
+      {
+       "q": "Ashwin made a Guru Purnima card on turmeric-coated paper. Which solution could he write with, and why? Name one which would NOT work.",
+       "ans": "A basic solution such as baking soda / soap / lime water (1 mark), because turmeric turns red with bases and the writing appears (1 mark). Lemon juice / vinegar / sugar solution would not work as turmeric stays yellow (1 mark)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain, with examples, the three ways the textbook shows substances can be identified as acidic or basic without tasting: litmus, natural extracts and smell.",
+       "ans": "Litmus: acids turn blue litmus red, bases turn red litmus blue (2 marks). Natural extracts: red rose extract red in acid, green in base; turmeric red in base (2 marks). Olfactory: onion strips lose their smell with a base (1 mark)."
+      },
+      {
+       "q": "Plan an investigation to find whether water from rain, tap and river is acidic, basic or neutral. Mention materials, steps, precautions and how results are recorded.",
+       "ans": "Materials: clean labelled bottles, blue and red litmus paper, droppers (1 mark). Steps: collect each sample, put a drop on blue and red litmus (1 mark), note colour changes (1 mark). Precautions: clean dropper for each sample, do not taste (1 mark). Record in a table: sample, colour of blue and red litmus, nature (1 mark)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 4,
+ "n": 4,
+ "title": "The World of Metals and Non-metals",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "The property by which metals can be beaten into thin sheets is called:",
+   "o": [
+    "Malleability",
+    "Ductility",
+    "Sonority",
+    "Conduction"
+   ],
+   "a": 0,
+   "why": "Being beaten into thin sheets is malleability; gold and silver are the most malleable."
+  },
+  {
+   "q": "Which of these is brittle?",
+   "o": [
+    "Copper",
+    "Aluminium",
+    "Sulfur",
+    "Iron"
+   ],
+   "a": 2,
+   "why": "Sulfur (like coal) breaks into pieces when beaten."
+  },
+  {
+   "q": "Which metal is a liquid at room temperature?",
+   "o": [
+    "Sodium",
+    "Mercury",
+    "Potassium",
+    "Gold"
+   ],
+   "a": 1,
+   "why": "Mercury is a liquid metal, used in old thermometers."
+  },
+  {
+   "q": "Rusting of iron needs:",
+   "o": [
+    "dry air only",
+    "water only",
+    "oil and air",
+    "both air and water"
+   ],
+   "a": 3,
+   "why": "Activity 4.5: only the nail with both air and water (bottle C) rusted."
+  },
+  {
+   "q": "The solution of magnesium oxide in water:",
+   "o": [
+    "turns blue litmus red",
+    "turns red litmus blue",
+    "does not affect litmus",
+    "turns both papers green"
+   ],
+   "a": 1,
+   "why": "Magnesium oxide is basic, like most metal oxides."
+  },
+  {
+   "q": "Sulfur dioxide dissolved in water forms:",
+   "o": [
+    "sulfurous acid",
+    "magnesium oxide",
+    "rust",
+    "kerosene"
+   ],
+   "a": 0,
+   "why": "Non-metal oxides are acidic; SO₂ + water gives sulfurous acid."
+  },
+  {
+   "q": "Sodium is stored in:",
+   "o": [
+    "water",
+    "air",
+    "kerosene",
+    "vinegar"
+   ],
+   "a": 2,
+   "why": "It reacts vigorously with oxygen and water, so kerosene keeps them away."
+  },
+  {
+   "q": "Which of these is NOT an element?",
+   "o": [
+    "Carbon",
+    "Nitrogen",
+    "Copper",
+    "Plastic"
+   ],
+   "a": 3,
+   "why": "Plastic, glass, wood, rubber and paper are not elements, so neither metals nor non-metals."
+  },
+  {
+   "q": "The ringing sound of a school bell is due to the metal being:",
+   "o": [
+    "ductile",
+    "malleable",
+    "sonorous",
+    "brittle"
+   ],
+   "a": 2,
+   "why": "Sonority is the property of producing a ringing sound."
+  },
+  {
+   "q": "Which non-metal is used for purifying water?",
+   "o": [
+    "Chlorine",
+    "Iodine",
+    "Nitrogen",
+    "Oxygen"
+   ],
+   "a": 0,
+   "why": "Chlorine is commonly used in water purification; iodine solution is an antiseptic."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of the following is a non-metal?",
+       "o": [
+        "Iron",
+        "Sulfur",
+        "Copper",
+        "Aluminium"
+       ],
+       "a": 1,
+       "ans": "Sulfur is dull, brittle and a poor conductor: a non-metal."
+      },
+      {
+       "q": "Silver foil on sweets is an example of:",
+       "o": [
+        "ductility",
+        "sonority",
+        "malleability",
+        "conduction"
+       ],
+       "a": 2,
+       "ans": "A thin sheet is formed by beating: malleability."
+      },
+      {
+       "q": "Which object will make the bulb of a tester glow?",
+       "o": [
+        "Rubber eraser",
+        "Iron nail",
+        "Piece of coal",
+        "Nylon rope"
+       ],
+       "a": 1,
+       "ans": "Iron is a metal, a good conductor of electricity."
+      },
+      {
+       "q": "Gradual deterioration of metal surfaces by air, water or other substances is:",
+       "o": [
+        "corrosion",
+        "conduction",
+        "galvanisation",
+        "ductility"
+       ],
+       "a": 0,
+       "ans": "This is corrosion; rusting is corrosion of iron."
+      },
+      {
+       "q": "Magnesium burns with a:",
+       "o": [
+        "blue flame",
+        "red flame",
+        "dazzling white flame",
+        "green flame"
+       ],
+       "a": 2,
+       "ans": "Activity 4.6: magnesium burns with a dazzling white flame."
+      },
+      {
+       "q": "Steel is a mixture of:",
+       "o": [
+        "iron and carbon",
+        "copper and zinc",
+        "iron and sulfur",
+        "aluminium and carbon"
+       ],
+       "a": 0,
+       "ans": "Steel = iron (metal) + carbon (non-metal)."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Define ductility. Give one example of its use.",
+       "ans": "Ductility is the property by which materials can be drawn into wires (1). Example: copper wires in electrical fittings / sitar strings (1)."
+      },
+      {
+       "q": "Why are cooking vessels made of metals while their handles are made of wood or plastic?",
+       "ans": "Metals are good conductors of heat, so heat reaches the food quickly (1). Wood/plastic are poor conductors, so the handle stays cool to hold (1)."
+      },
+      {
+       "q": "Why is phosphorus stored in water?",
+       "ans": "Phosphorus catches fire when exposed to air (1). It does not react with water, so water keeps air away from it (1)."
+      },
+      {
+       "q": "Name two methods to prevent rusting of iron.",
+       "ans": "Any two: painting, oiling, greasing, galvanisation (coating with zinc) (1 + 1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe an activity to show that metals are good conductors of heat.",
+       "ans": "Fill a tumbler with hot water; dip a metal spoon and a wooden spoon of the same size together (1). After a few minutes touch the upper ends (1). The metal spoon is hotter, so heat travels through the metal; metals are good conductors, wood is a poor conductor (1)."
+      },
+      {
+       "q": "Give three differences between metals and non-metals.",
+       "ans": "Any three (1 each): metals are lustrous, non-metals dull; metals are malleable and ductile, non-metals brittle/not ductile; metals are sonorous, non-metals not; metals are good conductors of heat and electricity, non-metals poor; metal oxides are basic, non-metal oxides acidic."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe Activity 4.5 (three bottles A, B, C) to find the conditions for rusting. Write the observations and conclusion.",
+       "ans": "Setup (2): A – nail with silica gel, capped (dry air only); B – nail fully in boiled and cooled water with a layer of oil, capped (water only); C – nail partly in water, open (air and water). Observation after 8–10 days (1.5): A and B no rust; C brown deposits. Conclusion (1.5): both air and water (moist air) are needed for rusting; the brown deposit is rust."
+      },
+      {
+       "q": "Case: A teacher burns sulfur in a deflagrating spoon inside a gas jar, adds water and shakes it. (a) Name the gas formed. (b) What is formed when it dissolves in water? (c) What happens to blue litmus? (d) What is the nature of non-metal oxides? (e) Why is this done in a fume hood?",
+       "ans": "(a) Sulfur dioxide (1). (b) Sulfurous acid (1). (c) Blue litmus turns red (1). (d) Acidic (1). (e) The gases from burning sulfur are harmful if inhaled (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which metal is so soft it can be cut with a knife?",
+       "o": [
+        "Iron",
+        "Copper",
+        "Sodium",
+        "Aluminium"
+       ],
+       "a": 2,
+       "ans": "Sodium and potassium are very soft metals."
+      },
+      {
+       "q": "Coal and sulfur break into pieces when beaten. They are:",
+       "o": [
+        "malleable",
+        "brittle",
+        "ductile",
+        "sonorous"
+       ],
+       "a": 1,
+       "ans": "Materials that break into pieces on beating are brittle."
+      },
+      {
+       "q": "Silica gel in bottle A of Activity 4.5 is used to:",
+       "o": [
+        "make the air dry",
+        "add water",
+        "stop rusting by paint",
+        "make the nail shine"
+       ],
+       "a": 0,
+       "ans": "Silica gel absorbs moisture, keeping the air dry."
+      },
+      {
+       "q": "Which metal is used to make food-wrapping foil?",
+       "o": [
+        "Gold",
+        "Iron",
+        "Copper",
+        "Aluminium"
+       ],
+       "a": 3,
+       "ans": "Aluminium is cheap and its thin sheets fold easily."
+      },
+      {
+       "q": "Which non-metal is a key component of proteins, fats and carbohydrates?",
+       "o": [
+        "Chlorine",
+        "Carbon",
+        "Iodine",
+        "Sulfur"
+       ],
+       "a": 1,
+       "ans": "Carbon is the building block of all life forms."
+      },
+      {
+       "q": "Oxides of metals are generally:",
+       "o": [
+        "acidic",
+        "neutral",
+        "basic",
+        "not formed"
+       ],
+       "a": 2,
+       "ans": "Metal oxides like magnesium oxide are basic."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What is sonority? Give two examples from daily life.",
+       "ans": "Sonority is the property of metals to produce a ringing sound (1). Examples: school bell, ghungroos, temple bell, coins (any two, ½ + ½)."
+      },
+      {
+       "q": "Why does an electrician wear rubber gloves and use screwdrivers with plastic handles?",
+       "ans": "Rubber and plastic are poor conductors of electricity (1). They do not let electricity pass to the body, protecting from electric shock (1)."
+      },
+      {
+       "q": "Why is freshly boiled and cooled water used in bottle B, and why is oil poured on it?",
+       "ans": "Boiling removes dissolved gases (air) from water (1). The oil layer prevents air from dissolving into the water again (1)."
+      },
+      {
+       "q": "Wood is neither malleable nor brittle. Explain.",
+       "ans": "On beating, wood does not flatten into a sheet, so it is not malleable (1). It does not break into pieces either, so it is not brittle (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe the burning of magnesium ribbon and the test of its product.",
+       "ans": "Clean a 3–4 cm Mg ribbon with sandpaper, hold with tongs and ignite it (1). It burns with a dazzling white flame forming a white powder, magnesium oxide (1). Dissolved in warm water, it turns red litmus blue, so it is basic (1)."
+      },
+      {
+       "q": "Name the non-metals used for (a) breathing (b) fertilisers (c) antiseptic on wounds.",
+       "ans": "(a) Oxygen (1). (b) Nitrogen (1). (c) Iodine (solution) (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe Activity 4.4 with a tester. List the objects that make the bulb glow and those that do not. What do you conclude?",
+       "ans": "Make a tester circuit with a cell, bulb and two open wire ends; place each object between the ends (1). Bulb glows: aluminium foil, iron nail, copper wire (1.5). Does not glow: sulfur, coal, wood, stone, rubber eraser, nylon rope (1.5). Conclusion: metals are good conductors of electricity; the others are poor conductors (1)."
+      },
+      {
+       "q": "Case: Sudarshan, an ironsmith, heats an iron block till it is red hot and beats it into an axe. He fits a wooden handle. (a) Which property lets iron be shaped by beating? (b) Why does he heat the iron first? (c) Why is the handle wooden? (d) What fuel is used in his furnace? (e) Name two other items an ironsmith makes.",
+       "ans": "(a) Malleability (1). (b) Heating makes iron softer and easier to beat into shape (1). (c) Wood is a poor conductor of heat and gives a good grip (1). (d) Coal (1). (e) Any two: tawa, balti, chimta, phawra, khurpi, jelee (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "The most malleable metals are:",
+       "o": [
+        "iron and copper",
+        "gold and silver",
+        "sodium and potassium",
+        "aluminium and zinc"
+       ],
+       "a": 1,
+       "ans": "The textbook states gold and silver are the most malleable metals."
+      },
+      {
+       "q": "A green coating forms on the surface of objects made of:",
+       "o": [
+        "silver",
+        "iron",
+        "copper",
+        "gold"
+       ],
+       "a": 2,
+       "ans": "Copper gets a green coating; silver turns black; iron rusts brown."
+      },
+      {
+       "q": "Galvanisation is coating iron with a layer of:",
+       "o": [
+        "zinc",
+        "paint",
+        "sulfur",
+        "copper"
+       ],
+       "a": 0,
+       "ans": "A protective layer of zinc on iron is galvanisation."
+      },
+      {
+       "q": "Which of these will NOT conduct electricity?",
+       "o": [
+        "Copper wire",
+        "Aluminium foil",
+        "Iron nail",
+        "Dry wood"
+       ],
+       "a": 3,
+       "ans": "Dry wood is a poor conductor."
+      },
+      {
+       "q": "Which metal catches fire when it comes in contact with water?",
+       "o": [
+        "Copper",
+        "Zinc",
+        "Sodium",
+        "Aluminium"
+       ],
+       "a": 2,
+       "ans": "Sodium reacts vigorously with water."
+      },
+      {
+       "q": "How many elements are presently known?",
+       "o": [
+        "92",
+        "100",
+        "108",
+        "118"
+       ],
+       "a": 3,
+       "ans": "Presently 118 elements are known."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "One gram of gold can be drawn into a 2 km long wire. Which property is this? Give one more use of this property.",
+       "ans": "Ductility (1). Use: electric wires of copper/aluminium, strings of veena or sitar, wire ornaments (any one) (1)."
+      },
+      {
+       "q": "State whether True or False with reason: Copper vessels are used for boiling water because they are good conductors of electricity.",
+       "ans": "False (1). Copper vessels are used because copper is a good conductor of heat (1)."
+      },
+      {
+       "q": "What is an element? Are plastic and glass metals or non-metals?",
+       "ans": "An element is a substance that cannot be broken down into simpler substances (1). Plastic and glass are neither, since they are not elements (1)."
+      },
+      {
+       "q": "Write two uses of non-metals in everyday life.",
+       "ans": "Any two (1 each): oxygen for breathing; nitrogen in fertilisers; chlorine in water purification; iodine solution as antiseptic; carbon as the building block of life."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Three iron nails are dipped in oil, water and vinegar. Which will not rust and why?",
+       "ans": "The nail in oil will not rust (1). Oil prevents air and moisture from reaching the iron (1). Rusting needs both air and water, which reach the nails in water and vinegar (1)."
+      },
+      {
+       "q": "Why are only a few metals suitable for making jewellery?",
+       "ans": "Jewellery metals like gold and silver are lustrous and shine (1). They are highly malleable and ductile, so they form fine designs (1). Gold does not corrode easily; most other metals rust or tarnish, and some are rare and precious (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "What happens when oxygen reacts with magnesium and with sulfur? Compare the nature of the products.",
+       "ans": "Magnesium burns with a dazzling white flame forming magnesium oxide, a white powder (1.5); its solution turns red litmus blue: basic (1). Sulfur burns forming sulfur dioxide gas (1); in water it forms sulfurous acid which turns blue litmus red: acidic (1). Metal oxides are basic, non-metal oxides acidic (0.5)."
+      },
+      {
+       "q": "Case: Anandi drops a metal spoon, a coin, a piece of coal and a block of wood from the same height. (a) Which objects ring? (b) Which give a dull sound? (c) Name the property. (d) Give one use of this property. (e) How does a visually impaired person use this?",
+       "ans": "(a) Metal spoon and coin (1). (b) Coal and wood (1). (c) Sonority (1). (d) Bells/ghungroos (1). (e) The stick gives a ringing sound on metal and a dull sound on wood, helping find the way (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Metals shine because they have:",
+       "o": [
+        "metallic lustre",
+        "sonority",
+        "ductility",
+        "brittleness"
+       ],
+       "a": 0,
+       "ans": "The shine of metals is called metallic lustre."
+      },
+      {
+       "q": "Which is NOT a way to prevent rusting?",
+       "o": [
+        "Painting",
+        "Greasing",
+        "Galvanising",
+        "Keeping it in moist air"
+       ],
+       "a": 3,
+       "ans": "Moist air causes rusting."
+      },
+      {
+       "q": "The Iron Pillar of Delhi was made in the time of:",
+       "o": [
+        "Ashoka",
+        "Chandragupta II",
+        "Akbar",
+        "Harsha"
+       ],
+       "a": 1,
+       "ans": "It was made in the time of Chandragupta II, over 1600 years ago."
+      },
+      {
+       "q": "A deflagrating spoon is used to:",
+       "o": [
+        "stir tea",
+        "safely heat and burn substances",
+        "measure liquids",
+        "cut sodium"
+       ],
+       "a": 1,
+       "ans": "It is a long-handled metal spoon for burning substances safely."
+      },
+      {
+       "q": "Titanium is used in:",
+       "o": [
+        "atomic energy",
+        "aerospace",
+        "water purification",
+        "fertilisers"
+       ],
+       "a": 1,
+       "ans": "Zirconium is used in atomic energy and titanium in aerospace."
+      },
+      {
+       "q": "Which statement about non-metals is correct?",
+       "o": [
+        "They are sonorous",
+        "They are good conductors",
+        "Their oxides are acidic",
+        "They are malleable"
+       ],
+       "a": 2,
+       "ans": "Non-metal oxides are acidic."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Classify into metals and non-metals: copper, sulfur, iron, oxygen.",
+       "ans": "Metals: copper, iron (1). Non-metals: sulfur, oxygen (1)."
+      },
+      {
+       "q": "What is rust? What is rusting?",
+       "ans": "Rust is the brown deposit formed on iron objects in moist air (1). The process of formation of rust on iron is rusting (1)."
+      },
+      {
+       "q": "Why is sodium stored in kerosene?",
+       "ans": "Sodium reacts vigorously with oxygen and water, producing a lot of heat (1). Kerosene prevents its exposure to air and moisture (1)."
+      },
+      {
+       "q": "Predict the nature of the oxide of sodium. Give a reason.",
+       "ans": "Basic (1). Sodium is a metal and oxides of metals are generally basic (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Complete the flow chart: ? + Air + Heat → Ash; Ash + Water → ?; blue litmus: ?; red litmus: blue.",
+       "ans": "Starting substance: magnesium (a metal) (1). Ash + water gives a basic solution of magnesium oxide (1). Blue litmus: no change (1)."
+      },
+      {
+       "q": "Which material would you choose to make a pan for boiling water: iron, copper, sulfur, coal, plastic, wood, cardboard? Why?",
+       "ans": "Copper (1). It is a metal, a good conductor of heat, so water boils fast; it is also malleable and can be shaped (1). Sulfur and coal are brittle poor conductors; plastic melts; wood and cardboard burn (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain how the properties of metals and non-metals determine their uses. Give five examples.",
+       "ans": "Any five, 1 mark each: malleability – aluminium foil, tawas; ductility – copper wires, sitar strings; conduction of heat – cooking vessels; conduction of electricity – electric wires; sonority – bells; poor conductors – plastic handles, rubber gloves; oxygen – breathing; nitrogen – fertilisers; chlorine – water purification; iodine – antiseptic."
+      },
+      {
+       "q": "Case: Sulfur does not react with water. Yashwant suggests coating iron with sulfur instead of zinc to prevent rusting. (a) Is this a good idea? (b) Give one property of sulfur that makes it unsuitable. (c) What happens when sulfur burns? (d) Why is zinc suitable? (e) Name the process of coating iron with zinc.",
+       "ans": "(a) No (1). (b) Sulfur is brittle/not malleable, so it cannot form a thin sticking layer and would crack (1). (c) It forms sulfur dioxide, which with water forms an acid that would harm iron (1). (d) Zinc is a metal that forms a strong thin protective layer on iron (1). (e) Galvanisation (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Bottle C in Activity 4.5 has:",
+       "o": [
+        "dry air only",
+        "water only, with oil",
+        "both air and water",
+        "neither air nor water"
+       ],
+       "a": 2,
+       "ans": "C is open and partly filled with water."
+      },
+      {
+       "q": "Ropes of suspension bridges are made of steel wires because steel:",
+       "o": [
+        "is brittle",
+        "can support heavy loads",
+        "is a non-metal",
+        "is a poor conductor"
+       ],
+       "a": 1,
+       "ans": "Steel-wire ropes support heavy loads."
+      },
+      {
+       "q": "Magnesium oxide is:",
+       "o": [
+        "a white powder",
+        "a blue gas",
+        "a yellow liquid",
+        "a black solid"
+       ],
+       "a": 0,
+       "ans": "Burning magnesium gives a white powder, magnesium oxide."
+      },
+      {
+       "q": "Which pair contains only non-metals?",
+       "o": [
+        "Iron, carbon",
+        "Copper, sulfur",
+        "Oxygen, nitrogen",
+        "Gold, hydrogen"
+       ],
+       "a": 2,
+       "ans": "Oxygen and nitrogen are both non-metals."
+      },
+      {
+       "q": "A black coating forms on objects made of:",
+       "o": [
+        "copper",
+        "iron",
+        "aluminium",
+        "silver"
+       ],
+       "a": 3,
+       "ans": "Silver objects get a black coating."
+      },
+      {
+       "q": "Sulfur placed in water:",
+       "o": [
+        "burns",
+        "does not react",
+        "forms rust",
+        "turns red litmus blue"
+       ],
+       "a": 1,
+       "ans": "Activity 4.8: no reaction."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Copper discovered earlier than iron – give one reason.",
+       "ans": "Copper is found as the pure metal in nature / can be extracted and worked at lower temperatures (1); iron needs much hotter furnaces and more skill (1)."
+      },
+      {
+       "q": "Why is an ironsmith’s iron heated before beating?",
+       "ans": "Heating makes iron softer (1), so it is easier to beat and shape into tools (1)."
+      },
+      {
+       "q": "Give two examples of alloys or their uses mentioned in the chapter.",
+       "ans": "Steel = iron + carbon (1); used in ropes of suspension bridges and cranes / utensils and tools (1)."
+      },
+      {
+       "q": "Name two metals recycled in India. Why is recycling useful?",
+       "ans": "Iron and aluminium (1). It minimises waste and supports sustainability (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Fill Table 4.1 for: copper, coal, wood (appearance, hard/soft, effect of hammering).",
+       "ans": "Copper: lustrous, hard, flattens (1). Coal: non-lustrous, not as hard as metals, breaks into pieces (1). Wood: non-lustrous, not as hard as metals, neither flattens nor breaks (1)."
+      },
+      {
+       "q": "Distinguish between good and poor conductors of electricity with two examples each.",
+       "ans": "Good conductors allow electricity to flow easily (1): aluminium, copper, iron (½). Poor conductors do not let electricity pass (1): rubber, plastic, wood, sulfur (½)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain corrosion with examples. Why is rusting a serious problem? How can it be prevented?",
+       "ans": "Corrosion is gradual deterioration of metal surfaces by air, water or other substances (1). Examples: brown rust on iron, green coating on copper, black on silver (1.5). Rusting is serious because a huge amount of money is spent every year to repair/replace rusted structures (1). Prevention: painting, oiling, greasing, galvanisation (1.5)."
+      },
+      {
+       "q": "Case: The Iron Pillar of Delhi is about 8 m high, weighs over 6000 kg and has barely any rust after 1600 years. (a) When was it made? (b) Why is it remarkable? (c) What two things cause iron to rust? (d) What does the pillar tell us? (e) Name one modern method to stop rusting.",
+       "ans": "(a) In the time of Chandragupta II, more than 1600 years ago (1). (b) Despite winds, rain and weather it has barely any rust (1). (c) Air and water (moist air) (1). (d) Ancient India had great skill in metal technology (1). (e) Galvanisation / painting / oiling / greasing (1)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

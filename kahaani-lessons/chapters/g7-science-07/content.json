@@ -1,0 +1,766 @@
+{
+ "grade": 7,
+ "chapter": 7,
+ "n": 7,
+ "title": "Heat Transfer in Nature",
+ "book": "Curiosity (Grade 7)",
+ "quiz": [
+  {
+   "q": "Cooking utensils are generally made of metals because metals are:",
+   "o": [
+    "good conductors of heat",
+    "poor conductors of heat",
+    "light in weight",
+    "shiny"
+   ],
+   "a": 0,
+   "why": "Metals let heat pass through them easily, so heat quickly reaches the food."
+  },
+  {
+   "q": "In Activity 7.1, pins stuck with wax on a metal strip fall one after another because:",
+   "o": [
+    "the wax is different on each pin",
+    "the strip bends",
+    "heat travels along the strip from the hot end to the colder end",
+    "the particles of the metal move towards the stand"
+   ],
+   "a": 2,
+   "why": "Heat is passed from particle to particle by conduction, reaching nearer pins first."
+  },
+  {
+   "q": "Two thin blankets keep us warmer than one thick blanket because:",
+   "o": [
+    "they are heavier",
+    "they are made of metal threads",
+    "they give out heat",
+    "air trapped between them is a poor conductor of heat"
+   ],
+   "a": 3,
+   "why": "The trapped air layer acts as an insulator."
+  },
+  {
+   "q": "Heat transfer by the actual movement of particles of a liquid or gas is called:",
+   "o": [
+    "conduction",
+    "convection",
+    "radiation",
+    "infiltration"
+   ],
+   "a": 1,
+   "why": "In convection, hot particles rise and cooler ones sink, carrying heat."
+  },
+  {
+   "q": "During the day, a cool breeze blowing from the sea towards the land is called:",
+   "o": [
+    "sea breeze",
+    "land breeze",
+    "monsoon",
+    "convection current in water"
+   ],
+   "a": 0,
+   "why": "By day land heats faster, warm air over land rises and cooler sea air moves in."
+  },
+  {
+   "q": "The heat of the Sun reaches the Earth by:",
+   "o": [
+    "conduction",
+    "convection",
+    "radiation",
+    "sea breeze"
+   ],
+   "a": 2,
+   "why": "Radiation needs no medium, so it can cross space."
+  },
+  {
+   "q": "The best place to fix a smoke detector in a room is:",
+   "o": [
+    "near the floor",
+    "on the ceiling",
+    "in the middle of a wall",
+    "under the bed"
+   ],
+   "a": 1,
+   "why": "Hot smoke is lighter and rises to the ceiling first."
+  },
+  {
+   "q": "Water vapour rising up cools down and forms clouds. This process is:",
+   "o": [
+    "evaporation",
+    "transpiration",
+    "precipitation",
+    "condensation"
+   ],
+   "a": 3,
+   "why": "Condensation turns water vapour into tiny droplets that form clouds."
+  },
+  {
+   "q": "In Activity 7.5, water seeps fastest through:",
+   "o": [
+    "clay",
+    "sand",
+    "gravel",
+    "all equally"
+   ],
+   "a": 2,
+   "why": "Gravel has the widest spaces between its particles."
+  },
+  {
+   "q": "Underground layers of sediments and rocks that store water in their pore spaces are called:",
+   "o": [
+    "aquifers",
+    "glaciers",
+    "ice stupas",
+    "recharge pits"
+   ],
+   "a": 0,
+   "why": "Groundwater is stored in aquifers, from which wells draw water."
+  }
+ ],
+ "papers": [
+  {
+   "title": "Sample Paper 1",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which of these is a poor conductor of heat?",
+       "o": [
+        "Wood",
+        "Iron",
+        "Copper",
+        "Aluminium"
+       ],
+       "a": 0,
+       "ans": "Wood does not let heat pass easily; the others are metals (good conductors)."
+      },
+      {
+       "q": "In solids, heat is transferred mainly by:",
+       "o": [
+        "convection",
+        "conduction",
+        "radiation",
+        "evaporation"
+       ],
+       "a": 1,
+       "ans": "Particles in solids pass heat to neighbours without moving: conduction."
+      },
+      {
+       "q": "Which process does NOT need a medium?",
+       "o": [
+        "Conduction",
+        "Convection",
+        "Radiation",
+        "Land breeze"
+       ],
+       "a": 2,
+       "ans": "Radiation can travel even through empty space."
+      },
+      {
+       "q": "At night, near the sea, the breeze blows from:",
+       "o": [
+        "land to sky only",
+        "it does not blow at all",
+        "sea to land",
+        "land to sea"
+       ],
+       "a": 3,
+       "ans": "Land cools faster at night; cooler land air moves to the sea (land breeze)."
+      },
+      {
+       "q": "Water given out as vapour by plants is called:",
+       "o": [
+        "transpiration",
+        "condensation",
+        "precipitation",
+        "infiltration"
+       ],
+       "a": 0,
+       "ans": "Plants lose water vapour from leaves by transpiration."
+      },
+      {
+       "q": "Tea stays hot longer in a clay cup because clay is:",
+       "o": [
+        "a good conductor",
+        "a poor conductor of heat",
+        "a metal",
+        "transparent"
+       ],
+       "a": 1,
+       "ans": "Clay does not let heat escape easily."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Define conduction. Do the particles move in conduction?",
+       "ans": "Conduction is the transfer of heat from the hotter part of an object to the colder part (1). The particles pass heat to their neighbours but do not move from their positions (1)."
+      },
+      {
+       "q": "Why do we feel warm in woollen clothes in winter?",
+       "ans": "Wool traps air in its pores (1). Air is a poor conductor of heat, so it reduces heat flow from our body to the surroundings and we feel warm (1)."
+      },
+      {
+       "q": "Why is smoke from a burning incense stick seen rising up?",
+       "ans": "Smoke is a mixture of hot gases and tiny solid particles (1). It is warmer and lighter than the surrounding air, so it rises (1)."
+      },
+      {
+       "q": "State True or False with a reason: 'Heat transfer takes place in solids through convection.'",
+       "ans": "False (1). In solids the particles cannot move from their places, so heat is transferred mainly by conduction (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe Activity 7.1 with wax pins on a metal strip. In which order do the pins fall and why?",
+       "ans": "Set-up: a 15 cm metal strip on a stand with four pins (I–IV) stuck with wax about 2 cm apart; the free end is heated with a candle (1). The pins fall in the order I, II, III, IV, starting with the pin nearest the flame (1). Heat travels along the strip from the hot end to the colder end by conduction, melting the wax at each pin in turn (1)."
+      },
+      {
+       "q": "Why are hollow bricks used for the outer walls of houses in hot regions?",
+       "ans": "Hollow bricks have spaces filled with air (1). Air is a poor conductor of heat (1). So less heat from the hot outside enters the house and it stays cool; such walls also keep houses warm in winter (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain sea breeze and land breeze with the help of labelled diagrams.",
+       "ans": "Sea breeze (day): land heats faster than water; warm air above the land rises; cooler air from the sea moves towards the land (1½). Diagram: sea, land, warm air rising over land, arrow from sea to land (1). Land breeze (night): land cools faster than water; air above the sea is warmer and rises; cooler air moves from land to sea (1½). Diagram: arrow from land to sea, warm air rising over sea (1)."
+      },
+      {
+       "q": "Case: Grandmother is heating water in a steel pan on a stove. (a) How does heat reach the pan from the flame? (b) How does all the water get heated? (c) Why do we feel warm standing near the stove? (d) Why is the pan's handle made of plastic? (e) Name the process common to (a) and (b) in needing a medium.",
+       "ans": "(a) By conduction from the flame to the utensil (1). (b) By convection: heated water at the bottom rises, cooler water sinks, until all is heated (1). (c) By radiation from the flame and the hot pan (1). (d) Plastic is a poor conductor, so the handle stays cool to hold (1). (e) Both conduction and convection need a medium (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 2",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "A saucepan has a metal body A and a plastic handle B. Then:",
+       "o": [
+        "A and B are both poor conductors",
+        "A is a good conductor and B is a poor conductor",
+        "A is a poor conductor and B is a good conductor",
+        "A and B are both good conductors"
+       ],
+       "a": 1,
+       "ans": "The body must conduct heat to food; the handle must stay cool."
+      },
+      {
+       "q": "In Activity 7.2, the paper cup above the candle rises because:",
+       "o": [
+        "the thread shrinks",
+        "the cup burns",
+        "the air in it warms, expands and becomes lighter",
+        "cold air pushes it"
+       ],
+       "a": 2,
+       "ans": "Warm air expands, becomes lighter and rises."
+      },
+      {
+       "q": "Light-coloured clothes are comfortable in summer because they:",
+       "o": [
+        "produce cool air",
+        "are thicker",
+        "absorb more heat",
+        "reflect most of the heat falling on them"
+       ],
+       "a": 3,
+       "ans": "Light colours reflect most heat."
+      },
+      {
+       "q": "Soil and water are kept in sunlight for 20 minutes. Which statement is correct?",
+       "o": [
+        "Soil heats faster than water",
+        "Both heat equally",
+        "Neither heats",
+        "Water heats faster than soil"
+       ],
+       "a": 0,
+       "ans": "Activity 7.4 shows soil's temperature rises more in the same time."
+      },
+      {
+       "q": "The process of surface water seeping through soil and rocks is called:",
+       "o": [
+        "evaporation",
+        "infiltration",
+        "condensation",
+        "transpiration"
+       ],
+       "a": 1,
+       "ans": "Seeping of surface water into the ground is infiltration."
+      },
+      {
+       "q": "Varahamihira described methods for predicting rainfall in his work:",
+       "o": [
+        "Panchatantra",
+        "Aryabhatiya",
+        "Brihatsamhita",
+        "Charaka Samhita"
+       ],
+       "a": 2,
+       "ans": "Varahamihira of Ujjaini wrote Brihatsamhita (6th century CE)."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What is convection? Give one example.",
+       "ans": "Convection is heat transfer by the actual movement of particles of liquids and gases (1). Example: water in a beaker heated from below circulates and all of it gets heated / smoke rising / land and sea breeze (1)."
+      },
+      {
+       "q": "A burning incense stick is fixed pointing downwards. In which direction will the smoke move? Why?",
+       "ans": "The smoke moves upwards (1). It is hotter and lighter than the surrounding air, so it rises even if the stick points down (1)."
+      },
+      {
+       "q": "Why do windows of houses in coastal areas face the sea?",
+       "ans": "During the day a cool sea breeze blows from the sea towards the land (1). Windows facing the sea let this breeze in and relieve people from the heat (1)."
+      },
+      {
+       "q": "What is an aquifer? How do we get water from it?",
+       "ans": "Aquifers are underground layers of sediments and rocks that store water in their pore spaces (1). We extract this groundwater by digging wells or drilling bore wells into aquifers (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Describe Activity 7.3 to show convection in water. What do you observe?",
+       "ans": "A 500 mL beaker half-filled with water; a grain of potassium permanganate placed at the centre of the base with a straw; a candle below the centre (1). A coloured streak rises in the middle and comes down along the sides (1). Water above the flame gets hot, expands, becomes lighter and rises; cooler, heavier water from the sides sinks to take its place, until all water is heated (1)."
+      },
+      {
+       "q": "Ice cubes kept in a dish melt after some time. Where do they get the heat from? Name the processes involved.",
+       "ans": "The ice gets heat from its surroundings, which are warmer than it (1). Heat comes from the dish by conduction and from the surrounding air by convection (1), and also by radiation from the surroundings (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain the water cycle with a labelled diagram. How does it help the Earth?",
+       "ans": "Sun's heat evaporates water from oceans, rivers, lakes; plants give out vapour by transpiration (1). Vapour rises, cools and condenses into clouds (1). Clouds bring rain, snow, hail: precipitation; water flows back to water bodies or seeps into the ground (1). Labelled diagram showing evaporation, transpiration, condensation, precipitation (1). It redistributes and replenishes water and conserves the total water on Earth (1)."
+      },
+      {
+       "q": "Case: In the Mori block of Uttarkashi, houses have walls made of two wooden layers filled with cow dung and mud. (a) Why are such walls used? (b) Is wood a good or poor conductor? (c) What other building material keeps houses warm in winter and cool in summer? (d) Why? (e) Why do we prefer two thin blankets over one thick blanket?",
+       "ans": "(a) Wood and mud prevent heat loss, keeping houses warm in extreme cold (1). (b) Poor conductor (insulator) (1). (c) Hollow bricks (1). (d) The air trapped in them is a poor conductor of heat (1). (e) The air trapped between two thin blankets acts as an insulator (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 3",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which is the correct pair?",
+       "o": [
+        "Conduction – no medium needed",
+        "Conduction – particles move",
+        "Convection – actual movement of particles",
+        "Radiation – needs a medium"
+       ],
+       "a": 2,
+       "ans": "Only convection involves actual movement of particles."
+      },
+      {
+       "q": "Pins are stuck with wax on a metal strip, and a candle is kept below the strip between pins I and II. Then:",
+       "o": [
+        "pins I and II fall later than III and IV",
+        "pins II and III fall together",
+        "all pins fall at the same time",
+        "pins I and II fall earlier than pins III and IV"
+       ],
+       "a": 3,
+       "ans": "Pins nearest the flame get heat first."
+      },
+      {
+       "q": "Which is NOT a part of the water cycle?",
+       "o": [
+        "Conduction",
+        "Precipitation",
+        "Evaporation",
+        "Condensation"
+       ],
+       "a": 0,
+       "ans": "Conduction is a way of heat transfer, not a step of the water cycle."
+      },
+      {
+       "q": "Dark-coloured clothes are preferred in winter because dark surfaces:",
+       "o": [
+        "reflect more heat",
+        "absorb more heat",
+        "are thinner",
+        "do not let air in"
+       ],
+       "a": 1,
+       "ans": "Dark colours absorb more heat."
+      },
+      {
+       "q": "Groundwater is getting depleted mainly because of:",
+       "o": [
+        "ice stupas",
+        "too much rainfall",
+        "excessive extraction and more concrete surfaces",
+        "more trees"
+       ],
+       "a": 2,
+       "ans": "Over-extraction and concrete (less infiltration) deplete groundwater."
+      },
+      {
+       "q": "A hot utensil kept away from the flame cools down by:",
+       "o": [
+        "convection inside the metal",
+        "condensation",
+        "absorbing heat",
+        "radiating heat to its surroundings"
+       ],
+       "a": 3,
+       "ans": "All objects radiate heat; the hot utensil loses heat to its surroundings."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "What are good and poor conductors of heat? Give two examples of each.",
+       "ans": "Good conductors allow heat to pass through easily, e.g. iron, copper/aluminium (1). Poor conductors (insulators) do not allow heat to pass easily, e.g. wood, glass/clay/porcelain/air (1)."
+      },
+      {
+       "q": "State True or False with reason: 'Areas with clay materials allow more seepage of water than those with sandy materials.'",
+       "ans": "False (1). Spaces between clay particles are very small, so water seeps more slowly through clay than through sand (1)."
+      },
+      {
+       "q": "Why does a partially inflated balloon kept in the Sun become larger?",
+       "ans": "The Sun heats the air inside the balloon (1). Air expands on heating, so the balloon becomes larger (1)."
+      },
+      {
+       "q": "What is an ice stupa? How is it useful?",
+       "ans": "An ice stupa is a tall cone of ice made in winter in Ladakh by spraying stream water into very cold air, where it freezes layer by layer (1). It melts slowly in spring, providing water for farming and other needs during summer (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Two test tubes of water are heated by a candle: in (a) the flame is at the bottom and the thermometer bulb in the upper part; in (b) the flame is near the top and the bulb at the bottom. Which thermometer records a higher temperature? Explain.",
+       "ans": "Thermometer (a) records a higher temperature (1). In (a), water at the bottom gets heated, becomes lighter and rises, so the whole tube is heated by convection and hot water reaches the bulb (1). In (b), hot water stays at the top and does not sink, so the bottom (and the bulb) stays cooler; water is a poor conductor (1)."
+      },
+      {
+       "q": "Describe Activity 7.5 to compare seepage of water through clay, sand and gravel. State the result and reason.",
+       "ans": "Three inverted cut plastic bottles with holed caps filled with clay, sand and gravel; beakers below; 200 mL water added to each, water collected for 10 minutes (1). Result: fastest through gravel, slower through sand, slowest through clay (1). Reason: spaces between gravel particles are wider, so water passes easily (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain how large water bodies prevent extreme temperatures in areas around them. Name the activity that shows land and water heat differently.",
+       "ans": "Activity 7.4 (soil and water in bowls in sunlight) shows that soil heats and cools faster than water (1). Water heats up slowly by day, so the sea stays cooler than land; a cool sea breeze blows to the land and lowers the day temperature (1½). At night land cools quickly but the sea is warmer, so the night is not too cold; a land breeze blows from land to sea (1½). Hence coastal areas like Kerala have moderate (neither very hot nor very cold) temperatures (1)."
+      },
+      {
+       "q": "Case: A bukhari is a traditional room heater used in the upper Himalayas. It is an iron stove with a long pipe attached to its top. (a) What is burnt in it? (b) Why is it made of iron? (c) Why is the long pipe attached? (d) Its flat top is used for cooking. Name the process that heats a pan on it. (e) Name the process by which people sitting nearby feel warm.",
+       "ans": "(a) Wood or charcoal (1). (b) Iron is a good conductor and strong, so it heats up and passes heat to the room and the pan (1). (c) It serves as a chimney, venting out smoke, which rises by convection (1). (d) Conduction (1). (e) Radiation (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 4",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which material would you choose for a cooking pan?",
+       "o": [
+        "Plastic",
+        "Wood",
+        "Glass",
+        "Steel"
+       ],
+       "a": 3,
+       "ans": "Steel is a metal, a good conductor."
+      },
+      {
+       "q": "Air is:",
+       "o": [
+        "a poor conductor of heat",
+        "a metal",
+        "not involved in heat transfer",
+        "a good conductor of heat"
+       ],
+       "a": 0,
+       "ans": "Air is a poor conductor; trapped air insulates."
+      },
+      {
+       "q": "Heat transfer in liquids and gases mainly takes place by:",
+       "o": [
+        "conduction",
+        "convection",
+        "radiation",
+        "infiltration"
+       ],
+       "a": 1,
+       "ans": "Particles move and carry heat in fluids."
+      },
+      {
+       "q": "Wet clothes dry faster on a sunny day because:",
+       "o": [
+        "clothes absorb water",
+        "water condenses faster",
+        "the Sun's heat makes evaporation faster",
+        "there is more wind"
+       ],
+       "a": 2,
+       "ans": "Heat from the Sun speeds up evaporation."
+      },
+      {
+       "q": "Soil warms from 25 °C to 37 °C and water from 25 °C to 29 °C in 20 minutes. The rise for soil is:",
+       "o": [
+        "8 °C",
+        "37 °C",
+        "4 °C",
+        "12 °C"
+       ],
+       "a": 3,
+       "ans": "37 − 25 = 12 °C."
+      },
+      {
+       "q": "Rainwater harvesting and recharge pits are used to:",
+       "o": [
+        "replenish groundwater",
+        "stop the water cycle",
+        "make ice stupas",
+        "increase runoff"
+       ],
+       "a": 0,
+       "ans": "They let rainwater seep in and recharge aquifers."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "You put a leaky tumbler of cold lassi inside another tumbler. Will the lassi stay cold longer? Explain.",
+       "ans": "Yes (1). Air trapped between the two tumblers is a poor conductor of heat, so less heat from the surroundings reaches the lassi (1)."
+      },
+      {
+       "q": "Where should a smoke detector be fitted in a room and why?",
+       "ans": "On the ceiling (1). Smoke is hot and lighter than air, so it rises and collects near the ceiling first (1)."
+      },
+      {
+       "q": "Name the three states of water found in nature with one example each.",
+       "ans": "Liquid: oceans/rivers/lakes; solid: snow/ice sheets/glaciers (1); gas: water vapour in the atmosphere (1)."
+      },
+      {
+       "q": "Why do we use metal utensils for cooking but clay or porcelain cups for tea?",
+       "ans": "Metals are good conductors, so heat reaches the food quickly (1). Clay and porcelain are poor conductors, so tea in them stays hot longer and the cup is comfortable to hold (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "Give the difference between conduction, convection and radiation (any three points).",
+       "ans": "Conduction: particles pass heat to neighbours and do not move; mainly in solids; needs a medium (1). Convection: heat moves by actual movement of particles; in liquids and gases; needs a medium (1). Radiation: heat travels directly from a hot object; needs no medium, e.g. Sun's heat reaching Earth (1)."
+      },
+      {
+       "q": "Explain how water seeps through the surface of the Earth and gets stored as groundwater.",
+       "ans": "Rainwater seeps through soil and rocks; this is infiltration (1). It moves easily where spaces between particles are wide, open and connected (1). It is stored in pore spaces of sediments and openings in rocks as groundwater, in layers called aquifers (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Describe Activity 7.4 with soil and water. Record sample observations in a table and state the conclusion, including what happens on cooling.",
+       "ans": "Two identical bowls, half filled with soil and water; a thermometer in each with the bulb inside but not touching the bottom/sides; kept in sunlight (1). Temperatures recorded every 5 min for 20 min, e.g. soil 25, 28, 31, 34, 37 °C; water 25, 26, 27, 28, 29 °C (1½). Conclusion: soil heats up faster than water (1). On bringing indoors for 20 min, soil cools faster than water (1). This difference causes land and sea breezes (½)."
+      },
+      {
+       "q": "Case: Pema hangs two identical inverted paper cups from the ends of a wooden stick so that it is horizontal, and places a burning candle under one cup. (a) What does she observe? (b) Why? (c) Name this process of heat transfer. (d) Why does smoke from firewood go up? (e) A paper spiral is hung above a candle. What happens?",
+       "ans": "(a) The cup above the candle rises (1). (b) The air in it warms, expands, becomes lighter and rises (1). (c) Convection (1). (d) Smoke is hotter and lighter than the surrounding air, so it rises (1). (e) The spiral rotates because rising hot air pushes it (1)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "title": "Sample Paper 5",
+   "marks": 30,
+   "minutes": 40,
+   "sections": [
+    {
+     "name": "Section A — Multiple choice",
+     "each": 1,
+     "qs": [
+      {
+       "q": "Which statement about radiation is correct?",
+       "o": [
+        "It needs no medium",
+        "It only works in solids",
+        "It needs air to travel",
+        "It needs water to travel"
+       ],
+       "a": 0,
+       "ans": "Radiation needs no material medium."
+      },
+      {
+       "q": "Pema takes a wooden strip instead of a metal strip in Activity 7.1. The pins will:",
+       "o": [
+        "fall all together",
+        "not fall",
+        "melt",
+        "fall faster"
+       ],
+       "a": 1,
+       "ans": "Wood is a poor conductor, so the wax does not melt."
+      },
+      {
+       "q": "Which pair is correct for daytime at a beach?",
+       "o": [
+        "Both equal, sea breeze",
+        "Land cooler, land breeze",
+        "Land warmer, sea breeze",
+        "Sea warmer, land breeze"
+       ],
+       "a": 2,
+       "ans": "By day land is warmer and a sea breeze blows."
+      },
+      {
+       "q": "Clouds bring rain, snow and hail. This step is called:",
+       "o": [
+        "evaporation",
+        "transpiration",
+        "condensation",
+        "precipitation"
+       ],
+       "a": 3,
+       "ans": "Rain, snow and hail from clouds is precipitation."
+      },
+      {
+       "q": "Water will infiltrate most readily where spaces between soil and rock particles are:",
+       "o": [
+        "wide, open and interconnected",
+        "filled with concrete",
+        "absent",
+        "narrow and closed"
+       ],
+       "a": 0,
+       "ans": "Wide, open, connected spaces let water seep easily."
+      },
+      {
+       "q": "All three processes of heat transfer occur when:",
+       "o": [
+        "ice melts in a freezer",
+        "water is heated in a pan on a flame",
+        "a balloon is kept in the shade",
+        "a glass rod is kept on a table"
+       ],
+       "a": 1,
+       "ans": "Conduction to the pan, convection in water, radiation around it."
+      }
+     ]
+    },
+    {
+     "name": "Section B — Very short answer",
+     "each": 2,
+     "qs": [
+      {
+       "q": "Why does the pin closest to the candle fall first in Activity 7.1? Why do all pins not fall together?",
+       "ans": "Heat reaches the part of the strip near the flame first, so the wax at pin I melts first (1). Heat is passed from particle to particle, which takes time, so the farther pins get heated later (1)."
+      },
+      {
+       "q": "State True or False with reason: 'The movement of cooler air from land to sea is called land breeze.'",
+       "ans": "True (1). At night land cools faster than the sea; air over the sea is warmer and rises, and cooler air moves from land to sea: land breeze (1)."
+      },
+      {
+       "q": "Who was Varahamihira? What did he predict and on what basis?",
+       "ans": "An astronomer and mathematician of the sixth century CE in Ujjaini (Ujjain) who wrote Brihatsamhita (1). He gave methods to predict seasonal rainfall based on cloud formation, wind patterns, positions of stars and the moon (1)."
+      },
+      {
+       "q": "Why does a paper strip tightly wrapped on a metal rod not burn easily in a candle flame?",
+       "ans": "The metal rod is a good conductor of heat (1). It conducts the heat away from the paper, so the paper does not get hot enough to burn (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section C — Short answer",
+     "each": 3,
+     "qs": [
+      {
+       "q": "'The water cycle helps in the redistribution and replenishment of water on the Earth.' Justify.",
+       "ans": "Water evaporates from oceans, lakes and rivers and plants transpire; winds carry the vapour (1). It condenses and falls as rain or snow at other places, so water is redistributed (1). Rain and melting snow refill rivers, lakes, oceans and groundwater, replenishing them while the total water on Earth is conserved (1)."
+      },
+      {
+       "q": "How do houses use the concept of heat transfer to stay warm or cool? Give two examples.",
+       "ans": "Houses in very hot or cold places use poor conductors to slow heat flow (1). Mori block (Uttarkashi) houses have walls of two wooden layers filled with cow dung and mud; wood and mud prevent heat loss (1). Hollow bricks trap air, a poor conductor, keeping houses warm in winter and cool in summer (1)."
+      }
+     ]
+    },
+    {
+     "name": "Section D — Long answer / case based",
+     "each": 5,
+     "qs": [
+      {
+       "q": "Explain with a diagram how water in a beaker gets heated by convection. How is convection different from conduction?",
+       "ans": "Diagram: beaker on a tripod, candle below the centre, arrows rising in the middle and sinking at the sides (1½). Water at the bottom gets heated, expands, becomes lighter and rises (1); cooler, heavier water from the sides comes down to take its place, and the cycle continues until all water is heated (1). Difference: in convection particles actually move and carry heat (liquids, gases); in conduction particles stay in place and pass heat on (mainly solids) (1½)."
+      },
+      {
+       "q": "Case: In Ladakh, streams dry up in spring because the Sun's heat is not enough to melt the snow. People make ice stupas in winter. (a) How is water brought to the site? (b) What is done with the water? (c) Why does it freeze? (d) What shape does it form? (e) How does it help in summer?",
+       "ans": "(a) Water from mountain streams is channelled down through underground pipes (1). (b) It is sprayed into the cold air (1). (c) Because of the extremely low temperatures (1). (d) It builds up layer by layer into a tall, cone-shaped structure (1). (e) It melts slowly during spring, providing water for farming and other needs through the summer (1)."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
