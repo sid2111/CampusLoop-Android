@@ -9,7 +9,9 @@ function build(id){
   const chap=fs.readFileSync(path.join(dir,'chap.js'),'utf8').trim();
   if(!/^const BOOK_TITLE\s*=/.test(data)) throw new Error(id+': data.js must start with const BOOK_TITLE');
   if(!/^\(function\s*\(\)\s*\{/.test(chap)||!/\}\)\(\);?$/.test(chap)) throw new Error(id+': chap.js must be one (function(){ ... })(); IIFE');
-  const head=T('head.html').split('{{TITLE}}').join(esc(meta.title)).replace('{{DESC}}',esc(meta.desc||'')).replace('{{LANG}}',meta.lang||'en');
+  let C0={}; try{ C0=new Function(data+'\n;return CHAPTERS[0];')()||{}; }catch(e){}
+  const chName=`Chapter ${C0.no}: ${C0.title}`;
+  const head=T('head.html').split('{{CHAPTER}}').join(esc(chName)).split('{{TITLE}}').join(esc(meta.title)).replace('{{DESC}}',esc(meta.desc||'')).replace('{{LANG}}',meta.lang||'en');
   const html=head+'<script>\n'+data+'\n'+T('engA.js')+'\n'+chap+'\n'+T('tail.js');
   fs.mkdirSync(path.join(__dirname,'dist'),{recursive:true});
   fs.writeFileSync(path.join(__dirname,'dist',id+'.html'),html);

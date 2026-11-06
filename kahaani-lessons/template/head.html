@@ -411,6 +411,8 @@ button.chtile:hover{transform:translateY(-4px) rotate(-.6deg);box-shadow:0 10px 
 .steps .k.o{color:var(--teal)}
 @media (max-width:560px){ .voicebtn span{display:none} .voicebtn{padding:0 10px} .clue .qt{font-size:19px} }
 /* ---------- SCHOOL HEADER ---------- */
+.chband{position:relative;z-index:4;text-align:center;padding:10px 16px;background:rgba(6,16,26,.55);border-bottom:1px solid rgba(255,255,255,.08);font:800 clamp(17px,2.4vw,24px)/1.25 "Baloo 2","Trebuchet MS",system-ui,sans-serif;color:#ffd166;letter-spacing:.01em}
+.chband b{font-weight:800}
 .school{position:relative;z-index:5;display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:18px;padding:12px clamp(16px,3vw,36px);
   background:linear-gradient(115deg,rgba(6,46,28,.94) 0%,rgba(10,32,52,.94) 55%,rgba(6,46,28,.94) 100%);backdrop-filter:blur(8px);overflow:hidden}
 .school::before{content:"";position:absolute;inset:0;background:radial-gradient(60% 140% at 50% -40%,rgba(255,209,102,.18),transparent 60%),
@@ -514,6 +516,7 @@ html.embedded .school{display:none}</style>
 <div class="scrim" id="scrim" hidden></div>
 <main>
 <header class="school" role="banner"><div class="medal"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120"><defs><linearGradient id="kcg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5c9a"/><stop offset="1" stop-color="#b8327a"/></linearGradient><linearGradient id="kcy" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe08a"/><stop offset="1" stop-color="#f4a51c"/></linearGradient></defs><rect x="4" y="4" width="112" height="112" rx="30" fill="url(#kcg)"/><path d="M26 44c11-6 23-6 34 2v46c-11-8-23-8-34-2z" fill="#fff"/><path d="M94 44c-11-6-23-6-34 2v46c11-8 23-8 34-2z" fill="#ffe9f2"/><path d="M60 46v46" stroke="#b8327a" stroke-width="3" stroke-linecap="round"/><path d="M33 56c6-2 12-2 18 1M33 65c6-2 12-2 18 1M33 74c6-2 12-2 18 1" stroke="#e7a3c2" stroke-width="3" stroke-linecap="round" fill="none"/><path d="M69 57c6-3 12-3 18-1M69 66c6-3 12-3 18-1" stroke="#e7a3c2" stroke-width="3" stroke-linecap="round" fill="none"/><path d="M60 14l5.2 10.6 11.7 1.7-8.5 8.2 2 11.6L60 40.6 49.6 46.1l2-11.6-8.5-8.2 11.7-1.7z" fill="url(#kcy)" stroke="#fff" stroke-width="2.5" stroke-linejoin="round"/><circle cx="92" cy="28" r="4" fill="#ffe08a"/><circle cx="28" cy="30" r="3" fill="#fff" opacity=".8"/></svg></div><div class="sname"><span class="motto">Every chapter is a story</span><h1><span class="dps">Kahaani</span><span class="city">CLASS</span></h1></div><div class="medal r kcr"><span>NCERT<br><b>Story</b><br>Lessons</span></div></header>
+<div class="chband"><b>{{CHAPTER}}</b></div>
 <div class="mbar">
   <button class="hamb" id="hamb" type="button" aria-label="Open menu" aria-controls="side" aria-expanded="false">
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button>
